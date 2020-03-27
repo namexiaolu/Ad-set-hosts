@@ -52,7 +52,7 @@ t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in hosts1 hosts2 hosts3 ;d
 ## 5. 具体代码
 
 - 基础版235
-```
+```bash
 t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://hosts.nfz.moe/basic/hosts;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t&&((500<`wc -l < $t`))&&(echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo "\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/^#/d;/^$/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/system/etc/hosts&&mount -o ro,remount /system&&echo "操作成功..."||echo "操作失败..."
 ```
 
@@ -62,12 +62,11 @@ t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in https://raw.githubuserc
 ```
 
 - 基础音乐版2359
-```
+```bash
 t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://hosts.nfz.moe/basic/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t&&((500<`wc -l < $t`))&&(echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo "\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/^#/d;/^$/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/system/etc/hosts&&mount -o ro,remount /system&&echo "操作成功..."||echo "操作失败..."
 ```
 
 - 完整音乐版12346789
-```
+```bash
 t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts https://hosts.nfz.moe/full/hosts https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t&&((500<`wc -l < $t`))&&(echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo "\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/^#/d;/^$/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/system/etc/hosts&&mount -o ro,remount /system&&echo "操作成功..."||echo "操作失败..."
 ```
-
