@@ -1,66 +1,15 @@
-# 2020-03-27 19:50:00 
+# 2020-03-27 20:20:38 
 # Script by WQY916
 # Made by xiaobeita
 # This file is generated from the following sources:
 # https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # https://hosts.nfz.moe/basic/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-# https://hosts.nfz.moe/full/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 # https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 # https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # https://hosts.nfz.moe/basic/hosts
 # https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts
-# https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-# https://hosts.nfz.moe/full/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-# https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://hosts.nfz.moe/basic/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-# https://hosts.nfz.moe/full/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://hosts.nfz.moe/basic/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts
-# https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-# https://hosts.nfz.moe/full/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-# https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-# https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts
-# https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-# https://hosts.nfz.moe/basic/hosts
-# https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-
-
-127.0.0.1 localhost
-::1 localhost
-
-
+\n\n127.0.0.1 localhost\n::1 localhost\n\n
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.up.qingdaonews.com
 127.0.0.1 0127.adsame.com

@@ -1,4 +1,4 @@
-# 2020-03-27 19:50:12 
+# 2020-03-27 20:21:05 
 # Script by WQY916
 # Made by xiaobeita
 # This file is generated from the following sources:
@@ -9,12 +9,7 @@
 # https://hosts.nfz.moe/full/hosts
 # https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
 # https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
-
-
-127.0.0.1 localhost
-::1 localhost
-
-
+\n\n127.0.0.1 localhost\n::1 localhost\n\n
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.0.0.0
