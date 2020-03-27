@@ -19,9 +19,9 @@
 - 安卓`hosts`文件位置：`/system/etc/hosts`
 
 基础版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/basic/hosts   
-完整版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/full/hosts
-基础音乐版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/basic-music/hosts
-完整音乐版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/full-music/hosts
+完整版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/full/hosts   
+基础音乐版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/basic-music/hosts   
+完整音乐版：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/full-music/hosts   
 
 其中：基础版（1235）完整版（1-9）
 
