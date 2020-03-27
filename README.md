@@ -8,7 +8,7 @@
 
 	1. 集合多个去广告hosts
  	2. 去重
- 	3. `127.0.0.1` 化，兼容性高
+ 	3. 127.0.0.1化，兼容性高
 
 ## 2. 原理简介
 
@@ -28,4 +28,5 @@ t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in hosts1 hosts2 hosts3 cu
 4. 1024_hosts：https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts   
 5. neoHosts基础版：https://hosts.nfz.moe/basic/hosts   
 6. neoHosts完整版：https://hosts.nfz.moe/full/hosts   
-7. 小贝塔维护hosts：
+7. 小贝塔维护hosts：https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita-hosts   
+8. 网易云音乐hosts：https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/NetEase-hosts   
