@@ -36,5 +36,6 @@ t=/sdcard/host.tmp;mount -o rw,remount /system&&for i in hosts1 hosts2 hosts3 cu
 5. neoHosts基础版：https://hosts.nfz.moe/basic/hosts   
 6. neoHosts完整版：https://hosts.nfz.moe/full/hosts   
 7. 小贝塔维护hosts：https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita-hosts  
+9. Hblock：https://hblock.molinero.dev/hosts   
 8. StevenBlack：https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts   
-9. 网易云音乐hosts：https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/NetEase-hosts   
+10. 网易云音乐hosts：https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/NetEase-hosts   
