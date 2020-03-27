@@ -1,5 +1,6 @@
-# 2020-03-27 15:30:54 Script by WQY916
-Made by xiaobeita
+# 2020-03-27 18:11:55 
+# Script by WQY916
+# Made by xiaobeita
 # This file is generated from the following sources:
 # https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
 # https://raw.githubusercontent.com/vokins/yhosts/master/hosts
@@ -9,22 +10,11 @@ Made by xiaobeita
 # https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
 # https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 
+
 127.0.0.1 localhost
 ::1 localhost
 
 
-                                # log all such errors.
-                                # mistyped URLs to search engines. They
-      # up CSS on livejournal
-     # May break iOS Game Center.
-     # URLs to their site. 
-     # problems with NPR.org
-    # and potentially other sites. 
-    # video on sites such as cbc.ca
-  # ads and track users across 
-  # the com.com family of sites
- # and some distribute adware and spyware
- # message board spam and are unlikely to be real sites
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.0.0.0
@@ -60,7 +50,6 @@ Made by xiaobeita
 127.0.0.1 008.free-counters.co.uk
 127.0.0.1 00author.com
 127.0.0.1 00fun.com
-127.0.0.1 00fun.com  #[Tracking.Cookie]
 127.0.0.1 00go.com
 127.0.0.1 00it.com
 127.0.0.1 00sexus.com
@@ -97,7 +86,6 @@ Made by xiaobeita
 127.0.0.1 05tz2e9.com
 127.0.0.1 060810131024.c.mystat-in.net
 127.0.0.1 061606084448.c.mystat-in.net
-127.0.0.1 06272002-dbase.hitcountz.net  # Web bugs in spam
 127.0.0.1 064bdf.r.axf8.net
 127.0.0.1 06c5-dbbd-eb79-4cd4.reporo.net
 127.0.0.1 070806142521.c.mystat-in.net
@@ -253,7 +241,6 @@ Made by xiaobeita
 127.0.0.1 1033.bitterstrawberry.com
 127.0.0.1 103532.hittail.com
 127.0.0.1 10394-127.ampxchange.com
-127.0.0.1 10394-127.ampxchange.com  #[Spamdexing]
 127.0.0.1 10394-2468.ampxchange.com
 127.0.0.1 10394-4254.ampxchange.com
 127.0.0.1 10402.engine.mobileapptracking.com
@@ -374,7 +361,6 @@ Made by xiaobeita
 127.0.0.1 123found.com
 127.0.0.1 123freeavatars.com
 127.0.0.1 123go.com
-127.0.0.1 123greetings.com  # contains one link to distributor of adware or spyware
 127.0.0.1 123haose.com
 127.0.0.1 123jmdmediagroupllc.go2cloud.org
 127.0.0.1 123juzi.com
@@ -464,7 +450,6 @@ Made by xiaobeita
 127.0.0.1 1465.content.swrve.com
 127.0.0.1 1465.link.swrve.com
 127.0.0.1 14713804a.l2m.net
-127.0.0.1 14713804a.l2m.net  #[Tracking.Cookie]
 127.0.0.1 147ad.com
 127.0.0.1 148.xg4ken.com
 127.0.0.1 1493361689.rsc.cdn77.org
@@ -880,7 +865,6 @@ Made by xiaobeita
 127.0.0.1 2001positions.com
 127.0.0.1 2002.bitterstrawberry.com
 127.0.0.1 2005-search.com
-127.0.0.1 2006mindfreaklike.blogspot.com  # Facebook trojan
 127.0.0.1 2008.cnzz.com
 127.0.0.1 2009filez.com
 127.0.0.1 2010.twitter.com
@@ -1462,7 +1446,6 @@ Made by xiaobeita
 127.0.0.1 30262.api.swrve.com
 127.0.0.1 30262.content.swrve.com
 127.0.0.1 30280827a.l2m.net
-127.0.0.1 30280827a.l2m.net  #[WebBug]
 127.0.0.1 302br.net
 127.0.0.1 30302.api.swrve.com
 127.0.0.1 30302.content.swrve.com
@@ -1698,7 +1681,6 @@ Made by xiaobeita
 127.0.0.1 3867.api.swrve.com
 127.0.0.1 3867.content.swrve.com
 127.0.0.1 3868.qg2626.com
-127.0.0.1 38707-223419.link.iwanttodeliver.com  #[xvideos.com]
 127.0.0.1 3879194.fls.doubleclick.net
 127.0.0.1 38c99.com
 127.0.0.1 38plus.com
@@ -2560,7 +2542,6 @@ Made by xiaobeita
 127.0.0.1 7power.com.cn
 127.0.0.1 7qkuf.voluumtrk.com
 127.0.0.1 7search.com
-127.0.0.1 7search.com  #[Adware.7FaSSt]
 127.0.0.1 7softwaredreams.com
 127.0.0.1 7sultans.com
 127.0.0.1 7thlegion.ru
@@ -2835,7 +2816,6 @@ Made by xiaobeita
 127.0.0.1 SunBelt.Clickability.com
 127.0.0.1 TRIANGLESERVICESLTD.COM
 127.0.0.1 XiaoQiang
-127.0.0.1 ___id___.c.mystat-in.net  #[Wildcard DNS]
 127.0.0.1 a-5.info
 127.0.0.1 a-ad.adwo.com
 127.0.0.1 a-ads.com
@@ -2992,7 +2972,6 @@ Made by xiaobeita
 127.0.0.1 a.domob.cn
 127.0.0.1 a.dounanhuahui.com
 127.0.0.1 a.dpmsrv.com
-127.0.0.1 a.dpmsrv.com  #[WebBug]
 127.0.0.1 a.dynad.net
 127.0.0.1 a.e7009.com
 127.0.0.1 a.ecook.cn
@@ -3739,7 +3718,6 @@ Made by xiaobeita
 127.0.0.1 ac-v1.presage.io
 127.0.0.1 ac.adpia.vn
 127.0.0.1 ac.ajur.info
-127.0.0.1 ac.ajur.info  #[WebBug]
 127.0.0.1 ac.atpanel.com
 127.0.0.1 ac.babsrv.com
 127.0.0.1 ac.batmobi.net
@@ -3759,7 +3737,6 @@ Made by xiaobeita
 127.0.0.1 ac.ybinst4.ec.yimg.com
 127.0.0.1 ac.ybinst5.ec.yimg.com
 127.0.0.1 ac.ybinst6.ec.yimg.com
-127.0.0.1 ac.ybinst6.ec.yimg.com  #[WebBug]
 127.0.0.1 ac.ybinst7.ec.yimg.com
 127.0.0.1 ac.ybinst8.ec.yimg.com
 127.0.0.1 ac.ybinst9.ec.yimg.com
@@ -3897,7 +3874,6 @@ Made by xiaobeita
 127.0.0.1 acninc.com
 127.0.0.1 acompanhantesbrasil.com.br
 127.0.0.1 acompanhantesdeportugal.com
-127.0.0.1 aconcagua2010.pl #$all
 127.0.0.1 acontrario.pl
 127.0.0.1 acookie.alibaba.com
 127.0.0.1 acookie.aliexpress.com
@@ -3989,7 +3965,6 @@ Made by xiaobeita
 127.0.0.1 active-advertising.com
 127.0.0.1 active.baofeng.com
 127.0.0.1 active.cache.el-mundo.net
-127.0.0.1 active.cache.el-mundo.net  #[Omniture]
 127.0.0.1 active.hit.stat24.com
 127.0.0.1 active.iperceptions.com
 127.0.0.1 activeapps.go2cloud.org
@@ -4014,7 +3989,6 @@ Made by xiaobeita
 127.0.0.1 activity.homescape.com
 127.0.0.1 activity.m.duiba.com.cn
 127.0.0.1 activity.serving-sys.com
-127.0.0.1 activity.serving-sys.com  #eyeblaster.com
 127.0.0.1 activity.tuifish.com
 127.0.0.1 activity.tuipear.com
 127.0.0.1 activity.yesware.com.herokudns.com
@@ -4177,7 +4151,6 @@ Made by xiaobeita
 127.0.0.1 ad-plus.cn
 127.0.0.1 ad-poland.com
 127.0.0.1 ad-rotator.com
-127.0.0.1 ad-rotator.com  #[adspeed.com]
 127.0.0.1 ad-s1.media6degrees.com
 127.0.0.1 ad-s2.media6degrees.com
 127.0.0.1 ad-score.com
@@ -5520,7 +5493,6 @@ Made by xiaobeita
 127.0.0.1 ad.jorudan.co.jp
 127.0.0.1 ad.jp.ap.valu.com
 127.0.0.1 ad.jp.ap.valuecommerce.com
-127.0.0.1 ad.jp.ap.valuecommerce.com  #[WebBug]
 127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 ad.juksr.com
@@ -7020,7 +6992,6 @@ Made by xiaobeita
 127.0.0.1 adelement.com
 127.0.0.1 adelh.smaato.com
 127.0.0.1 adelogs.adobe.com
-127.0.0.1 adelogs.adobe.com  #See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 127.0.0.1 adelogs.wip4.adobe.com
 127.0.0.1 adelphic-partners.tremorhub.com
 127.0.0.1 adelva.com
@@ -7313,7 +7284,6 @@ Made by xiaobeita
 127.0.0.1 adintegration.lijit.com
 127.0.0.1 adinterax.cnet.com.edgesuite.net
 127.0.0.1 adinterax.com
-127.0.0.1 adinterax.com  #[Tracking.Cookie]
 127.0.0.1 adintop.go2cloud.org
 127.0.0.1 adipex.1.p2l.info
 127.0.0.1 adipex.24sws.ws
@@ -7461,7 +7431,6 @@ Made by xiaobeita
 127.0.0.1 adlockscreen.goforandroid.com
 127.0.0.1 adlog.cbsi.com
 127.0.0.1 adlog.com.com
-127.0.0.1 adlog.com.com  # Used by Ziff Davis to serve
 127.0.0.1 adlog.flurry.com
 127.0.0.1 adlog.foxitcloud.com
 127.0.0.1 adlog.molitv.cn
@@ -7864,7 +7833,6 @@ Made by xiaobeita
 127.0.0.1 adoptim.com
 127.0.0.1 adorable-teens.net
 127.0.0.1 adorablevickylive.blogspot.ro
-127.0.0.1 adoramatracksdk.optimove.net  #[Piwik.Analytics]
 127.0.0.1 adoredcassie.blogspot.ro
 127.0.0.1 adoremetracksdk.optimove.net
 127.0.0.1 adoric-om.com
@@ -8817,7 +8785,6 @@ Made by xiaobeita
 127.0.0.1 ads.economist.com
 127.0.0.1 ads.ecosalon.com
 127.0.0.1 ads.ecrush.com
-127.0.0.1 ads.ecrush.com  #[AdvertPro]
 127.0.0.1 ads.edatracker.com
 127.0.0.1 ads.edbindex.dk
 127.0.0.1 ads.edipresse.pl
@@ -9563,7 +9530,6 @@ Made by xiaobeita
 127.0.0.1 ads.ninemsn.net
 127.0.0.1 ads.nit.firstream.net
 127.0.0.1 ads.nj.com
-127.0.0.1 ads.nj.com  #[RealMedia]
 127.0.0.1 ads.nobuffer.info
 127.0.0.1 ads.nola.com
 127.0.0.1 ads.nordcurrent.com
@@ -9657,7 +9623,6 @@ Made by xiaobeita
 127.0.0.1 ads.peninsulaclarion.com
 127.0.0.1 ads.pennet.com
 127.0.0.1 ads.pennlive.com
-127.0.0.1 ads.pennlive.com  #[RealMedia]
 127.0.0.1 ads.pennnet.com
 127.0.0.1 ads.penny-arcade.com
 127.0.0.1 ads.pennyweb.com
@@ -9803,7 +9768,6 @@ Made by xiaobeita
 127.0.0.1 ads.rainbow.or.at
 127.0.0.1 ads.rainoftraffic.info
 127.0.0.1 ads.rampidads.com
-127.0.0.1 ads.rampidads.com  #[Tracking.Cookie]
 127.0.0.1 ads.rasmussenreports.com
 127.0.0.1 ads.ratemyprofessors.com
 127.0.0.1 ads.rcgroups.com
@@ -10646,7 +10610,6 @@ Made by xiaobeita
 127.0.0.1 ads2.virtual-nights.com
 127.0.0.1 ads2.virtumundo.com
 127.0.0.1 ads2.vortexmediagroup.com
-127.0.0.1 ads2.vortexmediagroup.com  #[AdvertPro]
 127.0.0.1 ads2.weblogssl.com
 127.0.0.1 ads2.williamhill.com
 127.0.0.1 ads2.xnet.cz
@@ -11336,7 +11299,6 @@ Made by xiaobeita
 127.0.0.1 adserver.sharewareonline.com
 127.0.0.1 adserver.singnet.com
 127.0.0.1 adserver.sitesense.com
-127.0.0.1 adserver.sitesense.com  #[Parking Service]
 127.0.0.1 adserver.skyhookwireless.com
 127.0.0.1 adserver.sl.kharkov.ua
 127.0.0.1 adserver.smart.bid
@@ -11706,7 +11668,6 @@ Made by xiaobeita
 127.0.0.1 adsrv.deviantart.com
 127.0.0.1 adsrv.dispatch.com
 127.0.0.1 adsrv.ea.com
-127.0.0.1 adsrv.ea.com  #[affects Battlefield]
 127.0.0.1 adsrv.eacdn.com
 127.0.0.1 adsrv.emporis.com
 127.0.0.1 adsrv.heraldtribune.com
@@ -12136,7 +12097,6 @@ Made by xiaobeita
 127.0.0.1 adv.magna.ru
 127.0.0.1 adv.mangoadv.com
 127.0.0.1 adv.medscape.com
-127.0.0.1 adv.medscape.com  #[ads.webmd.com]
 127.0.0.1 adv.merlin.co.il
 127.0.0.1 adv.mobsmart.net
 127.0.0.1 adv.mxmcdn.net
@@ -12154,7 +12114,6 @@ Made by xiaobeita
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 adv.sexcounter.com
-127.0.0.1 adv.sexcounter.com  #[Tracking.Cookie]
 127.0.0.1 adv.starozagorci.com
 127.0.0.1 adv.strategy.it
 127.0.0.1 adv.surinter.net
@@ -13209,7 +13168,6 @@ Made by xiaobeita
 127.0.0.1 affiz.net
 127.0.0.1 affl.sucuri.net
 127.0.0.1 afflow.18-plus.net
-127.0.0.1 afflow.amazonpresent.info  #[ScamFraudAlert.Antispyware]
 127.0.0.1 affntwklnk.com
 127.0.0.1 affordjabc.top
 127.0.0.1 afform.co.uk
@@ -13556,7 +13514,6 @@ Made by xiaobeita
 127.0.0.1 aka-apiservices.boostmobile.com
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 aka-cdn-ns.adtechus.com
-127.0.0.1 aka-cdn.adtech.de  #[AOL Advertising]
 127.0.0.1 aka-cdn.adtechus.com
 127.0.0.1 aka-root.com
 127.0.0.1 aka-uae-dl.uliza.jp
@@ -13873,7 +13830,6 @@ Made by xiaobeita
 127.0.0.1 allhiphop.us.intellitxt.com
 127.0.0.1 allhorseracing.ag
 127.0.0.1 allhotcams.com
-127.0.0.1 allhqpics.com  # Facebook trojan
 127.0.0.1 alliance.adbureau.net
 127.0.0.1 alliance4media.com
 127.0.0.1 allianzloans.com
@@ -14105,7 +14061,6 @@ Made by xiaobeita
 127.0.0.1 amandalist.com
 127.0.0.1 amaprop.net
 127.0.0.1 amare.softwaregarden.com
-127.0.0.1 amare.softwaregarden.com  #[Win32/TrojanDownloader.Small.AWA]
 127.0.0.1 amariceo.duckdns.org
 127.0.0.1 amarktflow.com
 127.0.0.1 amateur-beauties.net
@@ -14539,7 +14494,6 @@ Made by xiaobeita
 127.0.0.1 analytic.gatewayinterface.com
 127.0.0.1 analytic.imlive.com
 127.0.0.1 analytic.spamfighter.com
-127.0.0.1 analytic.spamfighter.com  #[Omniture]
 127.0.0.1 analytic.xingcloud.com
 127.0.0.1 analyticcdn.globalmailer.com
 127.0.0.1 analyticdns.org
@@ -14762,7 +14716,6 @@ Made by xiaobeita
 127.0.0.1 analytics.shorte.st
 127.0.0.1 analytics.siliconexpert.com
 127.0.0.1 analytics.sitewit.com
-127.0.0.1 analytics.slashdotmedia.com  #[Piwik.Analytics]
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 analytics.socialbakers.com
 127.0.0.1 analytics.sohatv.vn
@@ -15262,7 +15215,6 @@ Made by xiaobeita
 127.0.0.1 anhm.acv5e.cn
 127.0.0.1 ani.adspruce.com
 127.0.0.1 anicegoodboy.tumblr.com
-127.0.0.1 anidex.info #/
 127.0.0.1 anilos.com
 127.0.0.1 anima2011.eu
 127.0.0.1 animadulte.com
@@ -16283,7 +16235,6 @@ Made by xiaobeita
 127.0.0.1 api.whysoserius.club
 127.0.0.1 api.widgetbucks.com
 127.0.0.1 api.wipmania.com
-127.0.0.1 api.wipmania.com  #[affects WorldIP]
 127.0.0.1 api.wonderpush.com
 127.0.0.1 api.wootric.com
 127.0.0.1 api.wootric.com.herokudns.com
@@ -16893,7 +16844,6 @@ Made by xiaobeita
 127.0.0.1 apps-ratgeber.com
 127.0.0.1 apps.17bi.net
 127.0.0.1 apps.admission.net
-127.0.0.1 apps.admission.net  #[Spotlight Ads]
 127.0.0.1 apps.admob.com
 127.0.0.1 apps.advertlets.com
 127.0.0.1 apps.ants.vn
@@ -17167,7 +17117,6 @@ Made by xiaobeita
 127.0.0.1 area51.to
 127.0.0.1 areainfo.ppstream.com
 127.0.0.1 areasnap.com
-127.0.0.1 areasnap.com  #[Parking.Service]
 127.0.0.1 arecio.work
 127.0.0.1 arena-bet.com
 127.0.0.1 arena-quantum.co.uk
@@ -17833,7 +17782,6 @@ Made by xiaobeita
 127.0.0.1 atlas.iad-03.braze.com
 127.0.0.1 atlasalpha-shv-09-frc3.facebook.com
 127.0.0.1 atlasdmt.com
-127.0.0.1 atlasdmt.com  #[Tracking.Cookie]
 127.0.0.1 atlasescorts.com
 127.0.0.1 atlasinyour-shv-05-ash3.facebook.com
 127.0.0.1 atlassbx.com
@@ -18321,7 +18269,6 @@ Made by xiaobeita
 127.0.0.1 b.19869.com
 127.0.0.1 b.3ygww.com
 127.0.0.1 b.53yao.com
-127.0.0.1 b.6sc.co  #[WebBug]
 127.0.0.1 b.7540.com
 127.0.0.1 b.7788xs.net
 127.0.0.1 b.77shw.com
@@ -18432,7 +18379,6 @@ Made by xiaobeita
 127.0.0.1 b.siftscience.com
 127.0.0.1 b.skinstore.com
 127.0.0.1 b.sli-spark.com
-127.0.0.1 b.sli-spark.com  #[affects pccasegear.com / mwave.com.au]
 127.0.0.1 b.smartnews.be
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 b.smxsg.com
@@ -18512,7 +18458,6 @@ Made by xiaobeita
 127.0.0.1 b2c-msm.marketo.com
 127.0.0.1 b2c.com
 127.0.0.1 b2k3.com
-127.0.0.1 b2u-system-err.icu  #[ScamFraudAlert.Antispyware]
 127.0.0.1 b3-eu.mookie1.com
 127.0.0.1 b3-uk.mookie1.com
 127.0.0.1 b3-uk.mookie1.com.63430.9488.302br.net
@@ -19047,7 +18992,6 @@ Made by xiaobeita
 127.0.0.1 bank14.clicks.mp.mydas.mobi
 127.0.0.1 bank14.mi.ads.mp.mydas.mobi
 127.0.0.1 bank15.ads.dt.mydas.mobi
-127.0.0.1 bank15.ads.dt.mydas.mobi  #[Mobile.Advertising]
 127.0.0.1 bank15.ads.mp.mydas.mobi
 127.0.0.1 bank15.clicks.mp.mydas.mobi
 127.0.0.1 bank15.mi.ads.mp.mydas.mobi
@@ -19258,7 +19202,6 @@ Made by xiaobeita
 127.0.0.1 banner.casinoking.com
 127.0.0.1 banner.casinolasvegas.com
 127.0.0.1 banner.casinotropez.com
-127.0.0.1 banner.casinotropez.com  #[Adware.Casino]
 127.0.0.1 banner.catho.com.br
 127.0.0.1 banner.cdpoker.com
 127.0.0.1 banner.celebrity-fakes.net
@@ -19302,7 +19245,6 @@ Made by xiaobeita
 127.0.0.1 banner.giantvegas.com
 127.0.0.1 banner.glopro.com
 127.0.0.1 banner.goldenpalace.com
-127.0.0.1 banner.goldenpalace.com  #[Tracking.Cookie]
 127.0.0.1 banner.hpmdnetwork.ru
 127.0.0.1 banner.img.co.za
 127.0.0.1 banner.img.static.youmi.net
@@ -19372,7 +19314,6 @@ Made by xiaobeita
 127.0.0.1 banner.thenudelist.com
 127.0.0.1 banner.titan-dsl.de
 127.0.0.1 banner.titanpoker.com
-127.0.0.1 banner.titanpoker.com  #[Adware.Casino]
 127.0.0.1 banner.tonygpoker.com
 127.0.0.1 banner.trifle.net
 127.0.0.1 banner.truehits.net
@@ -19618,7 +19559,6 @@ Made by xiaobeita
 127.0.0.1 banners.officialauctions.com
 127.0.0.1 banners.outpersonals.com
 127.0.0.1 banners.outster.com
-127.0.0.1 banners.outster.com  #[Tracking.Cookie]
 127.0.0.1 banners.oversexe.com
 127.0.0.1 banners.paixaogay.com
 127.0.0.1 banners.passeilimitado.com
@@ -19785,7 +19725,6 @@ Made by xiaobeita
 127.0.0.1 bara.booru.org
 127.0.0.1 barackobama.news
 127.0.0.1 barafranca.iwarp.com
-127.0.0.1 barafranca.iwarp.com  #[Win32/Spy.ProAgent]
 127.0.0.1 barb-rsync.2cnt.net
 127.0.0.1 barb-sftp.2cnt.net
 127.0.0.1 barb-test.2cnt.net
@@ -19959,7 +19898,6 @@ Made by xiaobeita
 127.0.0.1 bbsimages.zkxf119.com
 127.0.0.1 bbtt9.com
 127.0.0.1 bbtv.blinkx.com
-127.0.0.1 bbtv.blinkx.com  #[Trojan.Win32.Agent.wif]
 127.0.0.1 bbumgames.pushwoosh.com
 127.0.0.1 bbvacolombia.sc.omtrdc.net
 127.0.0.1 bbw.sexyads.com
@@ -20160,7 +20098,6 @@ Made by xiaobeita
 127.0.0.1 beacon.archonia.com
 127.0.0.1 beacon.carfax.com
 127.0.0.1 beacon.clickequations.net
-127.0.0.1 beacon.clickequations.net  #[WebBug]
 127.0.0.1 beacon.clickequations.net.edgekey.net
 127.0.0.1 beacon.cracked.com
 127.0.0.1 beacon.deepintent.com
@@ -20257,7 +20194,6 @@ Made by xiaobeita
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 beap.adss.yahoo.com
 127.0.0.1 beap.adx.yahoo.com
-127.0.0.1 beap.adx.yahoo.com  #[WebBug]
 127.0.0.1 beap.gemini.yahoo.com
 127.0.0.1 beardysfilthemporium.tumblr.com
 127.0.0.1 beastasuum.a.ssl.fastly.net
@@ -20409,7 +20345,6 @@ Made by xiaobeita
 127.0.0.1 best-rated-offers.com
 127.0.0.1 best-realgirl2.com
 127.0.0.1 best-sales.top
-127.0.0.1 best-search.cc  #spyware
 127.0.0.1 best-sex-games.com
 127.0.0.1 best-top.ro
 127.0.0.1 best-video-2008.com
@@ -20811,7 +20746,6 @@ Made by xiaobeita
 127.0.0.1 bi.admicro.vn
 127.0.0.1 bi.installcore.com
 127.0.0.1 bi.medscape.com
-127.0.0.1 bi.medscape.com  #[WebBug][affects Medscape app]
 127.0.0.1 bi.softservers.net
 127.0.0.1 bi.ycmtsr.com
 127.0.0.1 bialazebra.pl
@@ -21417,7 +21351,6 @@ Made by xiaobeita
 127.0.0.1 blue.sexer.com
 127.0.0.1 blue.soju.openx.net
 127.0.0.1 blueadvertise.com
-127.0.0.1 blueadvertise.com  #[Google.Diagnostic][2013-01-02]
 127.0.0.1 blueangel.nl
 127.0.0.1 blueangel57.over-blog.com
 127.0.0.1 bluecam.com
@@ -21746,9 +21679,7 @@ Made by xiaobeita
 127.0.0.1 bot.whatismyipaddress.com
 127.0.0.1 botbcasino.com
 127.0.0.1 botd.wordpress.com
-127.0.0.1 botd.wordpress.com  #[WebBug]
 127.0.0.1 botd2.wordpress.com
-127.0.0.1 botd2.wordpress.com  #[WebBug]
 127.0.0.1 botifiles.com
 127.0.0.1 bottle-brush.tagboard.com.herokudns.com
 127.0.0.1 bottleguy.com
@@ -21980,7 +21911,6 @@ Made by xiaobeita
 127.0.0.1 bricomiechow.pl
 127.0.0.1 bride1.com
 127.0.0.1 bridge.ame.admarketplace.net
-127.0.0.1 bridge.ame.admarketplace.net  #[Spamdexing]
 127.0.0.1 bridge.lga1.admarketplace.net
 127.0.0.1 bridge.sf.admarketplace.net
 127.0.0.1 bridge.sfo1.admarketplace.net
@@ -22092,7 +22022,6 @@ Made by xiaobeita
 127.0.0.1 brumflix.com
 127.0.0.1 brunetteangel.com
 127.0.0.1 brunetteangels.com
-127.0.0.1 brunga.at  # Facebook phishing attempt
 127.0.0.1 brusmedia.go2cloud.org
 127.0.0.1 brutalanimalsfuck.com
 127.0.0.1 brutalfetish.com
@@ -22761,7 +22690,6 @@ Made by xiaobeita
 127.0.0.1 by.essl.optimost.com
 127.0.0.1 by.mbai.cn
 127.0.0.1 by.optimost.com
-127.0.0.1 by.uservoice.com  #[WebBug]
 127.0.0.1 by98.com
 127.0.0.1 byet.org
 127.0.0.1 byot.adultrevenueservice.com
@@ -22804,7 +22732,6 @@ Made by xiaobeita
 127.0.0.1 c.a.t.webtracker.jp
 127.0.0.1 c.a2g-secure.com
 127.0.0.1 c.abnad.net
-127.0.0.1 c.abnad.net  #[Tracking.Cookie]
 127.0.0.1 c.actiondesk.com
 127.0.0.1 c.ad-srv.co
 127.0.0.1 c.ad6media.fr
@@ -22853,7 +22780,6 @@ Made by xiaobeita
 127.0.0.1 c.bebi.com
 127.0.0.1 c.betrad.com
 127.0.0.1 c.bigmir.net
-127.0.0.1 c.bigmir.net  #[WebBug]
 127.0.0.1 c.bing.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 c.bizjournals.com
@@ -22993,7 +22919,6 @@ Made by xiaobeita
 127.0.0.1 c.msn.com
 127.0.0.1 c.msn.com.cn
 127.0.0.1 c.msnbc.com
-127.0.0.1 c.mtro.co  #[MetroGuild Widget Tracking]
 127.0.0.1 c.mttwtrack.com
 127.0.0.1 c.my.msn.com
 127.0.0.1 c.mystat-in.net
@@ -23272,7 +23197,6 @@ Made by xiaobeita
 127.0.0.1 c2.popads.net
 127.0.0.1 c2.rfihub.net
 127.0.0.1 c2.statcounter.com
-127.0.0.1 c2.statcounter.com  #[WebBug]
 127.0.0.1 c2.taboola.com
 127.0.0.1 c2.tentaculos.net
 127.0.0.1 c2.thecounter.com
@@ -23355,7 +23279,6 @@ Made by xiaobeita
 127.0.0.1 c4.iwon.com
 127.0.0.1 c4.maxserving.com
 127.0.0.1 c4.mysearch.com
-127.0.0.1 c4.mysearch.com  #[ADW_MYSEARCH.202]
 127.0.0.1 c4.myway.com
 127.0.0.1 c4.statcounter.com
 127.0.0.1 c4.zedo.com
@@ -23423,7 +23346,6 @@ Made by xiaobeita
 127.0.0.1 c6.amazingcounters.com
 127.0.0.1 c6.bjdianyue.com
 127.0.0.1 c6.edgesuite.net
-127.0.0.1 c6.edgesuite.net  #[RealMedia]
 127.0.0.1 c6.lnymd.com
 127.0.0.1 c6.statcounter.com
 127.0.0.1 c6.zedo.com
@@ -23565,7 +23487,6 @@ Made by xiaobeita
 127.0.0.1 caclick.qq.com
 127.0.0.1 cacti.adsame.com
 127.0.0.1 cad.chosun.com
-127.0.0.1 cad.chosun.com  #[RealMedia]
 127.0.0.1 cad1.flashget.com
 127.0.0.1 cadaver.org
 127.0.0.1 cadillacangels.com
@@ -24017,7 +23938,6 @@ Made by xiaobeita
 127.0.0.1 casino770.com
 127.0.0.1 casinoandfriends.com
 127.0.0.1 casinobitco.in
-127.0.0.1 casinobitco.in # sportsbook
 127.0.0.1 casinocalzone.com
 127.0.0.1 casinocruise.com
 127.0.0.1 casinoeuro.com
@@ -24180,7 +24100,6 @@ Made by xiaobeita
 127.0.0.1 cc.i2i.jp
 127.0.0.1 cc.idasui.cn
 127.0.0.1 cc.iwon.com
-127.0.0.1 cc.iwon.com  #[iWon Progressive Counter]
 127.0.0.1 cc.klapi.cn
 127.0.0.1 cc.lbesec.com
 127.0.0.1 cc.moquanad.com
@@ -24221,7 +24140,6 @@ Made by xiaobeita
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 ccc00.opinionlab.com
 127.0.0.1 ccc01.opinionlab.com
-127.0.0.1 ccc01.opinionlab.com  #[msn.com]
 127.0.0.1 cccc.wapjumpp.com
 127.0.0.1 ccclub.cmbchina.com
 127.0.0.1 ccdace.hupu.com
@@ -24465,7 +24383,6 @@ Made by xiaobeita
 127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.adual.net
 127.0.0.1 cdn.adult.xyz
-127.0.0.1 cdn.advancedmactools.com  #[Riskware.Mac/PUP]
 127.0.0.1 cdn.advanseads.com
 127.0.0.1 cdn.advertig.com
 127.0.0.1 cdn.advertiserurl.com
@@ -24523,7 +24440,6 @@ Made by xiaobeita
 127.0.0.1 cdn.autoads.asia
 127.0.0.1 cdn.avantisvideo.com
 127.0.0.1 cdn.avazutracking.net
-127.0.0.1 cdn.avmws.com  #[AvantMetrics]
 127.0.0.1 cdn.ayads.co
 127.0.0.1 cdn.badoink.com
 127.0.0.1 cdn.banner.thumbplay.com
@@ -24691,7 +24607,6 @@ Made by xiaobeita
 127.0.0.1 cdn.eyewonder.com.70433.9538.302br.net
 127.0.0.1 cdn.fanyamedia.net
 127.0.0.1 cdn.fastclick.net
-127.0.0.1 cdn.fastclick.net  # sites.
 127.0.0.1 cdn.fastclick.net.956.9006.302br.net
 127.0.0.1 cdn.fastclick.net.958.9006.302br.net
 127.0.0.1 cdn.feeds.videosz.com
@@ -24815,7 +24730,6 @@ Made by xiaobeita
 127.0.0.1 cdn.loka.jp
 127.0.0.1 cdn.lu.sogoucdn.com
 127.0.0.1 cdn.luckyorange.com
-127.0.0.1 cdn.luckyorange.com  #[Analytics.Tracker]
 127.0.0.1 cdn.m.ambientplatform.vn
 127.0.0.1 cdn.madkudu.com
 127.0.0.1 cdn.mahmukhach.info
@@ -24823,7 +24737,6 @@ Made by xiaobeita
 127.0.0.1 cdn.marketgid.com
 127.0.0.1 cdn.masoffer.net
 127.0.0.1 cdn.matheranalytics.com
-127.0.0.1 cdn.matheranalytics.com  #[Snowplow Analytics]
 127.0.0.1 cdn.mb.datingadzone.com
 127.0.0.1 cdn.mbp91.com
 127.0.0.1 cdn.mdotm.com
@@ -24866,7 +24779,6 @@ Made by xiaobeita
 127.0.0.1 cdn.natpal.com
 127.0.0.1 cdn.ndapp.com
 127.0.0.1 cdn.ndparking.com
-127.0.0.1 cdn.ndparking.com  #[Parking.Service]
 127.0.0.1 cdn.nearbyad.com
 127.0.0.1 cdn.neppa-ad.com
 127.0.0.1 cdn.newapi.com
@@ -24884,7 +24796,6 @@ Made by xiaobeita
 127.0.0.1 cdn.onscroll.com
 127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.opencandy.com
-127.0.0.1 cdn.opensubcontent.com  #[Win32/InstallCore.ACZ]
 127.0.0.1 cdn.openxt.cn
 127.0.0.1 cdn.optaim.com
 127.0.0.1 cdn.optimatic.com
@@ -25492,7 +25403,6 @@ Made by xiaobeita
 127.0.0.1 ceskydomovalias.ngs.modry.cz
 127.0.0.1 cetelemportugal2.solution.weborama.fr
 127.0.0.1 cetrk.com
-127.0.0.1 cetrk.com  #[Crazy Egg]
 127.0.0.1 cetus.iad-03.braze.com
 127.0.0.1 cex.io
 127.0.0.1 cezaevinegonder.com
@@ -25605,7 +25515,6 @@ Made by xiaobeita
 127.0.0.1 chanclickao.fff.com.vn
 127.0.0.1 chanelprestonxxx.com
 127.0.0.1 changan.bama555.com
-127.0.0.1 changduk26.com  # Facebook trojan
 127.0.0.1 changelingpress.com
 127.0.0.1 changelog.taplytics.com
 127.0.0.1 changels.net
@@ -25798,7 +25707,6 @@ Made by xiaobeita
 127.0.0.1 chefmongiovi.com
 127.0.0.1 chefti.info
 127.0.0.1 cheggit.me
-127.0.0.1 chelick.net  # Facebook trojan
 127.0.0.1 chemdraw.com
 127.0.0.1 chemdraw.com.cn
 127.0.0.1 chemicals.news
@@ -26070,7 +25978,6 @@ Made by xiaobeita
 127.0.0.1 citepucevasuxuqesu.ga
 127.0.0.1 cithingy.info
 127.0.0.1 citi.bridgetrack.com
-127.0.0.1 citi.bridgetrack.com  #[Tracking.Cookie]
 127.0.0.1 citi.bridgetrack.com.21936.9128.302br.net
 127.0.0.1 citi.bridgetrack.com.21937.9128.302br.net
 127.0.0.1 citi.bridgetrack.com.21939.9128.302br.net
@@ -26583,7 +26490,6 @@ Made by xiaobeita
 127.0.0.1 clickdensity.com
 127.0.0.1 clickdough.com
 127.0.0.1 clickedyclick.com
-127.0.0.1 clickedyclick.com  #[Tracking.Cookie]
 127.0.0.1 clickeight.com
 127.0.0.1 clickequations.net
 127.0.0.1 clickeu.admailtiser.com
@@ -26711,7 +26617,6 @@ Made by xiaobeita
 127.0.0.1 clicksor.com
 127.0.0.1 clicksor.net
 127.0.0.1 clicksotrk.com
-127.0.0.1 clickspring.net  #used by a spyware product called PurityScan
 127.0.0.1 clickstatsview.chooseonlinecasino.com
 127.0.0.1 clickstatsview.earnmoneycasinos.com
 127.0.0.1 clickstatsview.hourfreeplaycasinos.com
@@ -26857,7 +26762,6 @@ Made by xiaobeita
 127.0.0.1 clit.sextracker.com
 127.0.0.1 clit1.sex-tracker.com
 127.0.0.1 clit1.sextracker.com
-127.0.0.1 clit1.sextracker.com  #[Tracking.Cookie]
 127.0.0.1 clit1.sextracker.de
 127.0.0.1 clit10.sex-tracker.com
 127.0.0.1 clit10.sextracker.com
@@ -27176,9 +27080,7 @@ Made by xiaobeita
 127.0.0.1 cm.mlt01.com
 127.0.0.1 cm.mtv.overture.com
 127.0.0.1 cm.myway.com
-127.0.0.1 cm.myway.com  #[Ewido.Spyware.MyWay][ADW_MIWAY.C]
 127.0.0.1 cm.need2find.com
-127.0.0.1 cm.need2find.com  #[Panda.adware/need2find]
 127.0.0.1 cm.netseer.com
 127.0.0.1 cm.npc-buffalonews.overture.com
 127.0.0.1 cm.npc-calkins.overture.com
@@ -27660,7 +27562,6 @@ Made by xiaobeita
 127.0.0.1 collect-ap-southeast-2.tealiumiq.com
 127.0.0.1 collect-eu-central-1.tealiumiq.com
 127.0.0.1 collect-eu-west-1.tealiumiq.com
-127.0.0.1 collect-us-east-1.tealiumiq.com  #[WebBug]
 127.0.0.1 collect.adsorb.com
 127.0.0.1 collect.evisitanalyst.com
 127.0.0.1 collect.finanzen.net
@@ -27781,12 +27682,9 @@ Made by xiaobeita
 127.0.0.1 collector-010.newrelic.com
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 collector-184.tvsquared.com
-127.0.0.1 collector-184.tvsquared.com  #[Piwik.Analytics]
 127.0.0.1 collector-195.tvsquared.com
-127.0.0.1 collector-195.tvsquared.com  #[Piwik.Analytics]
 127.0.0.1 collector-2398.tvsquared.com
 127.0.0.1 collector-282.tvsquared.com
-127.0.0.1 collector-428.tvsquared.com  #[Piwik.Analytics]
 127.0.0.1 collector-6271.tvsquared.com
 127.0.0.1 collector-a.perimeterx.net
 127.0.0.1 collector-cdn.github.com
@@ -27963,7 +27861,6 @@ Made by xiaobeita
 127.0.0.1 communisave.co.za
 127.0.0.1 community-test.linkedin.com
 127.0.0.1 community.adlandpro.com
-127.0.0.1 community.adlandpro.com  #[Tracking.Cookie]
 127.0.0.1 community.allhiphop.com
 127.0.0.1 community.linkedin.com
 127.0.0.1 community.scoreloop.com
@@ -28261,7 +28158,6 @@ Made by xiaobeita
 127.0.0.1 content.exoticads.com
 127.0.0.1 content.integral-marketing.com
 127.0.0.1 content.ipro.com
-127.0.0.1 content.ipro.com  #[WebBug]
 127.0.0.1 content.joinaxxess.com
 127.0.0.1 content.linkedin.com
 127.0.0.1 content.linkoffers.net
@@ -29052,15 +28948,11 @@ Made by xiaobeita
 127.0.0.1 counterluck.com
 127.0.0.1 counterpointmagazine.org
 127.0.0.1 counterpsyops.com
-127.0.0.1 counters.auctionhelper.com  # comment these
 127.0.0.1 counters.auctionwatch.com
-127.0.0.1 counters.auctionwatch.com  # out to allow
 127.0.0.1 counters.auctiva.com
-127.0.0.1 counters.auctiva.com  # tracking by
 127.0.0.1 counters.freewebs.com
 127.0.0.1 counters.gigya.com
 127.0.0.1 counters.honesty.com
-127.0.0.1 counters.honesty.com  # ebay users
 127.0.0.1 counters.vendio.com
 127.0.0.1 counters.xaraonline.com
 127.0.0.1 counters4u.com
@@ -29284,7 +29176,6 @@ Made by xiaobeita
 127.0.0.1 cpxmobile.go2cloud.org
 127.0.0.1 cq01-cm-et01.cq01.baidu.com
 127.0.0.1 cqcounter.com
-127.0.0.1 cqcounter.com  #[WebBug]
 127.0.0.1 cqji.artidentalkurs.com
 127.0.0.1 cqllgg.com
 127.0.0.1 cqlupb.com
@@ -30087,7 +29978,6 @@ Made by xiaobeita
 127.0.0.1 cyclobenzaprine.1.p2l.info
 127.0.0.1 cyclobenzaprine.ourtablets.com
 127.0.0.1 cyclops.prod.untd.com
-127.0.0.1 cyclops.prod.untd.com  #[RealMedia]
 127.0.0.1 cyclops.untd.com
 127.0.0.1 cycy.kxrxh.com
 127.0.0.1 cydia.a3tweaks.com
@@ -30368,13 +30258,11 @@ Made by xiaobeita
 127.0.0.1 d1171912.cp.blacknight.com
 127.0.0.1 d12.zedo.com
 127.0.0.1 d13.zedo.com
-127.0.0.1 d13dhn7ldhrcf6.cloudfront.net  #[Win32/InstallCore.QC]
 127.0.0.1 d14.8ox.cn
 127.0.0.1 d14.zedo.com
 127.0.0.1 d15gt9gwxw5wu0.cloudfront.net
 127.0.0.1 d169bbxks24g2u.cloudfront.net
 127.0.0.1 d16b4.8ox.cn
-127.0.0.1 d1fc8wv8zag5ca.cloudfront.net  #[Snowplow JavaScript tracker]
 127.0.0.1 d1grtyyel8f1mh.cloudfront.net
 127.0.0.1 d1jikhx1ssl81z.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
@@ -30405,7 +30293,6 @@ Made by xiaobeita
 127.0.0.1 d29qt51jeyi6xb.cloudfront.net
 127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
 127.0.0.1 d2c.ne.jp
-127.0.0.1 d2c8v52ll5s99u.cloudfront.net  #[comscore][affects arstechnica/wired/vogue/vanity fair]
 127.0.0.1 d2cgumzzqhgmdu.cloudfront.net
 127.0.0.1 d2cmedia.ca
 127.0.0.1 d2d2d2.changxiangziyou.com
@@ -30780,7 +30667,6 @@ Made by xiaobeita
 127.0.0.1 data-us-east-1.axonix.com
 127.0.0.1 data.3975.com
 127.0.0.1 data.abebooks.com
-127.0.0.1 data.abebooks.com  #[WebBug.eluminate]
 127.0.0.1 data.ad-score.com
 127.0.0.1 data.adaptiveaudience.com
 127.0.0.1 data.adexda.com
@@ -30832,7 +30718,6 @@ Made by xiaobeita
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 data.mobclix.com
 127.0.0.1 data.murdoog.com
-127.0.0.1 data.nal.usda.gov  #[Universal Federated Analytics]
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data.netscope.marktest.pt
 127.0.0.1 data.neuroxmedia.com
@@ -31048,12 +30933,10 @@ Made by xiaobeita
 127.0.0.1 db.hosting.rts.phn.doublepimp.com
 127.0.0.1 db.hosting.streamate.doublepimp.com
 127.0.0.1 db.riskwaters.com
-127.0.0.1 db.riskwaters.com  #[WebTrends]
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 db.xiaoshuofuwuqi.com
 127.0.0.1 db0.net-filter.com
-127.0.0.1 db0.net-filter.com  #[WebtraffIQ Code]
 127.0.0.1 db0.sitestats.com
 127.0.0.1 db1.fuz.cc
 127.0.0.1 db1.sitestats.com
@@ -31124,7 +31007,6 @@ Made by xiaobeita
 127.0.0.1 dc.sabela.com.pl
 127.0.0.1 dc.services.visualstudio.com
 127.0.0.1 dc.sify.com
-127.0.0.1 dc.sify.com  #[WebTrends]
 127.0.0.1 dc.tremormedia.com
 127.0.0.1 dc.vmoters.com
 127.0.0.1 dc.webtrends.com
@@ -31139,12 +31021,10 @@ Made by xiaobeita
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
 127.0.0.1 dc84.s290.meetrics.net
-127.0.0.1 dc8xl0ndzn2cb.cloudfront.net  #[Snowplow analytics]
 127.0.0.1 dcad.watersoul.com
 127.0.0.1 dcads.sina.com.cn
 127.0.0.1 dcanscapital.co.uk
 127.0.0.1 dcapps.disney.go.com
-127.0.0.1 dcapps.disney.go.com  #[WebBug]
 127.0.0.1 dcba.popcash.net
 127.0.0.1 dcc.ghrtgf.xyz
 127.0.0.1 dcc.strbgi.xyz
@@ -31187,7 +31067,6 @@ Made by xiaobeita
 127.0.0.1 dcs.plussizetech.com
 127.0.0.1 dcs.swiftnews.com
 127.0.0.1 dcs.wtlive.com
-127.0.0.1 dcs.wtlive.com  #[Tracking.Cookie]
 127.0.0.1 dcsmarketing.directtrack.com
 127.0.0.1 dcstest.wtlive.com
 127.0.0.1 dctracking.com
@@ -31406,9 +31285,7 @@ Made by xiaobeita
 127.0.0.1 delawareonline.us.intellitxt.com
 127.0.0.1 delb.mspaceads.com
 127.0.0.1 delb.myspace.com
-127.0.0.1 delb.myspace.com  #[ad.yieldmanager.com]
 127.0.0.1 delb2.myspace.com
-127.0.0.1 delb2.myspace.com  #[media.fimnetwork.com]
 127.0.0.1 delb5.cxense.com
 127.0.0.1 delb8.cxense.com
 127.0.0.1 delconewsnetwork.us.intellitxt.com
@@ -31593,7 +31470,6 @@ Made by xiaobeita
 127.0.0.1 demos.zedo.com
 127.0.0.1 demr.mspaceads.com
 127.0.0.1 demr.myspace.com
-127.0.0.1 demr.myspace.com  #[media.fimnetwork.com]
 127.0.0.1 demr.opt.fimserve.com
 127.0.0.1 dena-d.openx.net
 127.0.0.1 denguru.us.intellitxt.com
@@ -31696,7 +31572,6 @@ Made by xiaobeita
 127.0.0.1 destroyersongs.com
 127.0.0.1 destructoid.us.intellitxt.com
 127.0.0.1 desu4family.com.pl
-127.0.0.1 desv383oqqc0.cloudfront.net  #[Popcorn Metrics]
 127.0.0.1 deszczysko.pl
 127.0.0.1 deta.ero-advertising.com
 127.0.0.1 detail.qbao.com
@@ -31891,7 +31766,6 @@ Made by xiaobeita
 127.0.0.1 di.mmhhjt.com
 127.0.0.1 di.nend.net
 127.0.0.1 di.phncdn.com
-127.0.0.1 di.rlcdn.com  #[Marketing Evolution Tracking]
 127.0.0.1 di.ssl.msdk.qq.com
 127.0.0.1 di.xalongli.cn
 127.0.0.1 di.zymro.com
@@ -31951,7 +31825,6 @@ Made by xiaobeita
 127.0.0.1 didrex.1.p2l.info
 127.0.0.1 didtal.com
 127.0.0.1 didtheyreadit.com
-127.0.0.1 didtheyreadit.com  # email bugs
 127.0.0.1 diegocasino.com
 127.0.0.1 dielottozahlende.net
 127.0.0.1 diet-pills.hut1.ru
@@ -31975,7 +31848,6 @@ Made by xiaobeita
 127.0.0.1 digestion.news
 127.0.0.1 digg-d.openx.net
 127.0.0.1 digg.analytics.live.com
-127.0.0.1 digg.analytics.live.com  #[WebBug]
 127.0.0.1 digger.cryptobara.com
 127.0.0.1 digi-net.com
 127.0.0.1 digiaffiliate.go2cloud.org
@@ -32043,7 +31915,6 @@ Made by xiaobeita
 127.0.0.1 dimeline.eu
 127.0.0.1 dimenal.com.br
 127.0.0.1 dimensionnail.ro
-127.0.0.1 dimeprice.com  # "spam bugs"
 127.0.0.1 dimsnetwork.com
 127.0.0.1 dinamikus.com
 127.0.0.1 dinathumbs.com
@@ -32321,7 +32192,6 @@ Made by xiaobeita
 127.0.0.1 dl.fotoable.com
 127.0.0.1 dl.futureus.com
 127.0.0.1 dl.gameplaylabs.com
-127.0.0.1 dl.gameplaylabs.com  #[Adware:Win32/GamePlayLabs]
 127.0.0.1 dl.getprivate.net
 127.0.0.1 dl.goreald.net
 127.0.0.1 dl.hao123.com
@@ -32444,7 +32314,6 @@ Made by xiaobeita
 127.0.0.1 dmdrogerie01.webtrekk.net
 127.0.0.1 dmemobile.g2afse.com
 127.0.0.1 dmeserv.newsinc.com
-127.0.0.1 dmeserv.newsinc.com  #[Analytics.Tracker]
 127.0.0.1 dmexco.adition.com
 127.0.0.1 dmg.demdex.net
 127.0.0.1 dmg.digitaltarget.ru
@@ -32649,11 +32518,9 @@ Made by xiaobeita
 127.0.0.1 domainhelp.search.com
 127.0.0.1 domaining.in
 127.0.0.1 domainpark.sitelutions.com
-127.0.0.1 domainpark.sitelutions.com  #[Parking Service]
 127.0.0.1 domainplayersclub.com
 127.0.0.1 domains.googlesyndication.com
 127.0.0.1 domainsponsor.com
-127.0.0.1 domainsponsor.com  #[Tracking.Cookie][WIPO.D2006-0523]
 127.0.0.1 domainsteam.de
 127.0.0.1 domdex.com
 127.0.0.1 domed.shenbimall.com
@@ -32860,9 +32727,7 @@ Made by xiaobeita
 127.0.0.1 download.browseraccelerator.com
 127.0.0.1 download.cdn.downloadquick.net
 127.0.0.1 download.cdn.shareazaweb.com
-127.0.0.1 download.cdn.sharelive.net  #[Win32/Toolbar.SearchSuite]
 127.0.0.1 download.cdn.torchbrowser.com
-127.0.0.1 download.cdn.torchbrowser.com  #[Win32/TorchMedia]
 127.0.0.1 download.cooguo.com
 127.0.0.1 download.coolguang.com
 127.0.0.1 download.dolphin-browser.cn
@@ -32952,7 +32817,6 @@ Made by xiaobeita
 127.0.0.1 downloadupload.com
 127.0.0.1 downloadwarez.org
 127.0.0.1 downloadz.us
-127.0.0.1 downloadz.us  #[Spamdexing]
 127.0.0.1 downmini.kugou.com
 127.0.0.1 downmobile.kugou.com
 127.0.0.1 downtrend.com
@@ -33556,7 +33420,6 @@ Made by xiaobeita
 127.0.0.1 e-ltvp.inmobi.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-marketing.entelchile.net
-127.0.0.1 e-marketing.entelchile.net  #[RealMedia]
 127.0.0.1 e-matelco.com
 127.0.0.1 e-n-t-e-r-n-e-x.com
 127.0.0.1 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
@@ -33586,7 +33449,6 @@ Made by xiaobeita
 127.0.0.1 e-zeeinternet.com
 127.0.0.1 e-zeitung.de
 127.0.0.1 e-zshopper.activeshopper.com
-127.0.0.1 e-zshopper.activeshopper.com  #[Adware.ActivShop]
 127.0.0.1 e.0313413.com
 127.0.0.1 e.0531mnk.net
 127.0.0.1 e.0544yh.cn
@@ -35029,7 +34891,6 @@ Made by xiaobeita
 127.0.0.1 eef.51dmn.top
 127.0.0.1 eega.hit.gemius.pl
 127.0.0.1 eegad.freeservers.com
-127.0.0.1 eegad.freeservers.com  #[Tracking.Cookie]
 127.0.0.1 eegde.adocean.pl
 127.0.0.1 eei.lobbycafe.cn
 127.0.0.1 eekro.cruisingsmallship.com
@@ -35322,7 +35183,6 @@ Made by xiaobeita
 127.0.0.1 ein.51yingfa.com
 127.0.0.1 ein.xxx
 127.0.0.1 einets.com
-127.0.0.1 eisenstein.dk  #[tracking.ping]
 127.0.0.1 eispop.club
 127.0.0.1 eitbglobal.ojdinteractiva.com
 127.0.0.1 eiv.baidu.com
@@ -35588,7 +35448,6 @@ Made by xiaobeita
 127.0.0.1 en.expekt.com
 127.0.0.1 en.gay-lounge.net
 127.0.0.1 en.hot-live-sex-shows.com
-127.0.0.1 en.likefever.org  # Facebook trojan
 127.0.0.1 en.luxuretv.com
 127.0.0.1 en.oxtube.tv
 127.0.0.1 en.paradisehill.cc
@@ -36849,7 +36708,6 @@ Made by xiaobeita
 127.0.0.1 exhibits4court.com
 127.0.0.1 exiporn.com
 127.0.0.1 exit-ad.com
-127.0.0.1 exit-ad.de  #[Tracking.Cookie]
 127.0.0.1 exit.doublepimp.com
 127.0.0.1 exit.macandbumble.com
 127.0.0.1 exit.oxcash2.com
@@ -37561,7 +37419,6 @@ Made by xiaobeita
 127.0.0.1 farrahsuperstar.vividceleb.com
 127.0.0.1 fartfantasyxxx.tumblr.com
 127.0.0.1 fascinatedfeather.com
-127.0.0.1 fashion-tube.be  #[Win32/InstallMonetizer.AN]
 127.0.0.1 fashionableman.pl
 127.0.0.1 fashiontrafficdemo.go2cloud.org
 127.0.0.1 fast-cdn.dianjoy.com
@@ -38284,7 +38141,6 @@ Made by xiaobeita
 127.0.0.1 fimserve.askmen.com
 127.0.0.1 fimserve.com
 127.0.0.1 fimserve.ign.com
-127.0.0.1 fimserve.ign.com  #[fimserve.myspace.com]
 127.0.0.1 fimserve.myspace.com
 127.0.0.1 fimserve.rottentomatoes.com
 127.0.0.1 fin.adbureau.net
@@ -38604,7 +38460,6 @@ Made by xiaobeita
 127.0.0.1 fluoxetine.1.p2l.info
 127.0.0.1 flurry.cachefly.net
 127.0.0.1 flurry.com
-127.0.0.1 flurry.com  #[Mobile Ads]
 127.0.0.1 flury-ycpi.gycpi.b.yahoodns.net
 127.0.0.1 flux.faloo.com
 127.0.0.1 flv.dotmore.com.tw
@@ -39228,7 +39083,6 @@ Made by xiaobeita
 127.0.0.1 freehostservers.com
 127.0.0.1 freehqsex.com
 127.0.0.1 freeimghost.trafflow.com
-127.0.0.1 freeimghost.trafflow.com  #[Spamdexing]
 127.0.0.1 freeindiangals.com
 127.0.0.1 freeindianporn.mobi
 127.0.0.1 freeinterracialgalleries.com
@@ -39527,7 +39381,6 @@ Made by xiaobeita
 127.0.0.1 fu-dbaf686b20.upalytics.com
 127.0.0.1 fu-e01a50651b.upalytics.com
 127.0.0.1 fu-e102f45ad9.upalytics.com
-127.0.0.1 fu.golikeus.net  # Facebook trojan
 127.0.0.1 fucd.pro
 127.0.0.1 fuck-mature.co
 127.0.0.1 fuck-mother.com
@@ -39639,7 +39492,6 @@ Made by xiaobeita
 127.0.0.1 funnyfotobox.pl
 127.0.0.1 funnygreetings.com
 127.0.0.1 funnyordie-d.openx.net
-127.0.0.1 funnyreign.com  # heavy spam (Site Advisor received 1075 e-mails/week)
 127.0.0.1 funoct.eu
 127.0.0.1 funpageexchange.com
 127.0.0.1 funshemale.com
@@ -40170,7 +40022,6 @@ Made by xiaobeita
 127.0.0.1 gametime88.com
 127.0.0.1 gameusd.com
 127.0.0.1 gamevance.com
-127.0.0.1 gamevance.com  #[Trojan-Downloader.Win32.Small.gkk]
 127.0.0.1 gamevision.pl
 127.0.0.1 gamewallet.jp
 127.0.0.1 gamezmelt.com
@@ -40201,7 +40052,6 @@ Made by xiaobeita
 127.0.0.1 gannett-d.openx.net
 127.0.0.1 gannett.demdex.net
 127.0.0.1 gannett.gcion.com
-127.0.0.1 gannett.gcion.com  #[glb.adtechus.com]
 127.0.0.1 gannett.hb.omtrdc.net
 127.0.0.1 gannettbroadcast.us.intellitxt.com
 127.0.0.1 gannettwisconsin.us.intellitxt.com
@@ -40517,7 +40367,6 @@ Made by xiaobeita
 127.0.0.1 gdwbetvn888.com
 127.0.0.1 gdwviet.com
 127.0.0.1 gdyn.cnn.com
-127.0.0.1 gdyn.cnn.com  #[WebBug]
 127.0.0.1 gdyn.cnngo.com
 127.0.0.1 gdyn.nascar.com
 127.0.0.1 gdyn.nba.com
@@ -40752,7 +40601,6 @@ Made by xiaobeita
 127.0.0.1 get.slotocash.com
 127.0.0.1 get.superstats.com
 127.0.0.1 get.whitesmoke.com
-127.0.0.1 get.whitesmoke.com  #[Adware.Zugo.B]
 127.0.0.1 get.x-link.pl
 127.0.0.1 get1.0111box.info
 127.0.0.1 get1.0111design.info
@@ -40897,7 +40745,6 @@ Made by xiaobeita
 127.0.0.1 ggi.go2cloud.org
 127.0.0.1 ggimg.tapas.net
 127.0.0.1 gglcash4u.info
-127.0.0.1 gglcash4u.info  # twitter worm
 127.0.0.1 ggle.lywf.me
 127.0.0.1 ggo.directrev.com
 127.0.0.1 ggr.yxdown.com
@@ -41003,7 +40850,6 @@ Made by xiaobeita
 127.0.0.1 girlfuckshorse.net
 127.0.0.1 girlfur.com
 127.0.0.1 girlmature.com
-127.0.0.1 girlownedbypolicelike.blogspot.com  # Facebook trojan
 127.0.0.1 girlporn.ru
 127.0.0.1 girls-chat.tv
 127.0.0.1 girls-on-top.com
@@ -41419,7 +41265,6 @@ Made by xiaobeita
 127.0.0.1 goat.cx
 127.0.0.1 goatse.bz
 127.0.0.1 goatse.ca
-127.0.0.1 goatse.cx  # More information on sites such as
 127.0.0.1 goatse.ru
 127.0.0.1 goatsegirl.org
 127.0.0.1 goautofinance.com
@@ -41477,7 +41322,6 @@ Made by xiaobeita
 127.0.0.1 gojnox.boxtomarket.com
 127.0.0.1 gokano.com
 127.0.0.1 goku.brightcove.com
-127.0.0.1 goku.brightcove.com  #[WebBug]
 127.0.0.1 golazobet.com
 127.0.0.1 gold.szonline.net
 127.0.0.1 goldadpremium.com
@@ -41614,7 +41458,6 @@ Made by xiaobeita
 127.0.0.1 gosciniec-paproc.pl
 127.0.0.1 goshoppingonline.bfast.com
 127.0.0.1 goska.siol.net
-127.0.0.1 goska.siol.net  #[RealMedia]
 127.0.0.1 gosms.goforandroid.com
 127.0.0.1 gosmsdl.goforandroid.com
 127.0.0.1 gospycash.com
@@ -42036,7 +41879,6 @@ Made by xiaobeita
 127.0.0.1 gsdk.vectaury.io
 127.0.0.1 gserv.cneteu.net
 127.0.0.1 gserv.zdnet.co.uk
-127.0.0.1 gsf-cf.softonic.com  #[Win32/OpenCandy.C]
 127.0.0.1 gsicpbs.112.2o7.net
 127.0.0.1 gsicrsk.112.207.net
 127.0.0.1 gsk.linkedin.com
@@ -42079,7 +41921,6 @@ Made by xiaobeita
 127.0.0.1 gtop.ro
 127.0.0.1 gtop100.com
 127.0.0.1 gtp1.acecounter.com
-127.0.0.1 gtp1.acecounter.com  #[Tracking.Cookie]
 127.0.0.1 gtp16.acecounter.com
 127.0.0.1 gtradersoft.com
 127.0.0.1 gtrforums.us.intellitxt.com
@@ -42595,7 +42436,6 @@ Made by xiaobeita
 127.0.0.1 hatcalter.com
 127.0.0.1 hathor.eztonez.com
 127.0.0.1 hatmedia.go2cloud.org
-127.0.0.1 hatrecord.ru  # Facebook trojan
 127.0.0.1 hats.haibao.cn
 127.0.0.1 hatter-story.info
 127.0.0.1 hauptstadtmuttide.digidip.net
@@ -42854,7 +42694,6 @@ Made by xiaobeita
 127.0.0.1 help.juicyads.com
 127.0.0.1 help.linkedin.com
 127.0.0.1 help.mysearch.com
-127.0.0.1 help.mysearch.com  #[Ewido.Spyware.MySearch]
 127.0.0.1 help.pinterest.com
 127.0.0.1 help.qualaroo.com
 127.0.0.1 help.yunaq.com
@@ -42880,7 +42719,6 @@ Made by xiaobeita
 127.0.0.1 hentai-porn-blog.com
 127.0.0.1 hentai-top100.com
 127.0.0.1 hentai.animeholics.org
-127.0.0.1 hentai.animestigma.com #/
 127.0.0.1 hentai.cloud
 127.0.0.1 hentai.tv
 127.0.0.1 hentai.xxx
@@ -43160,8 +42998,6 @@ Made by xiaobeita
 127.0.0.1 hit.8digits.com
 127.0.0.1 hit.bg
 127.0.0.1 hit.clickaider.com
-127.0.0.1 hit.gemius.pl  #[Tracking.Cookie]
-127.0.0.1 hit.hotlog.ru  #[WebBug]
 127.0.0.1 hit.multimania.com
 127.0.0.1 hit.reference-sexe.com
 127.0.0.1 hit.stat24.com
@@ -43544,7 +43380,6 @@ Made by xiaobeita
 127.0.0.1 hootsuite.m.facebook.com
 127.0.0.1 hoovers.us.intellitxt.com
 127.0.0.1 hop.clickbank.net
-127.0.0.1 hop.clickbank.net  #[Adware.Clickbank][Adware.ClickDLoader]
 127.0.0.1 hopa.com
 127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 hopto.org
@@ -43595,7 +43430,6 @@ Made by xiaobeita
 127.0.0.1 host1.5v.pl
 127.0.0.1 host2.adhese.be
 127.0.0.1 host207.ewtn.com
-127.0.0.1 host3.adhese.be  #[ad.be.doubleclick.net]
 127.0.0.1 host4.adhese.be
 127.0.0.1 host4.list.ru
 127.0.0.1 host6.hitbox.com
@@ -43632,7 +43466,6 @@ Made by xiaobeita
 127.0.0.1 hosting4.rts.fling.doublepimp.com
 127.0.0.1 hostingfreelife.com
 127.0.0.1 hostingprod.com
-127.0.0.1 hostingprod.com  #[WebBug]
 127.0.0.1 hostlnks.com
 127.0.0.1 hostmaster.linezing.com
 127.0.0.1 hostmaster.ohchat.net
@@ -43904,9 +43737,7 @@ Made by xiaobeita
 127.0.0.1 hs.qhupdate.com
 127.0.0.1 hs4rs.voluumtrk.com
 127.0.0.1 hsadspixel.net
-127.0.0.1 hsb-canada.com  # phishing site for hsbc.ca
 127.0.0.1 hsbc.tt.omtrdc.net
-127.0.0.1 hsbconline.ca  # phishing site for hsbc.ca
 127.0.0.1 hseda.com
 127.0.0.1 hsfactory.pl
 127.0.0.1 hsmwebapp.com
@@ -44354,9 +44185,7 @@ Made by xiaobeita
 127.0.0.1 i.jumptap.com
 127.0.0.1 i.jyhwt.cn
 127.0.0.1 i.kissmetrics.com
-127.0.0.1 i.kissmetrics.com  # http://www.wired.com/epicenter/2011/07/undeletable-cookie/
 127.0.0.1 i.l.cnn.net
-127.0.0.1 i.l.cnn.net  #[WebBug]
 127.0.0.1 i.l.inmobicdn.cn
 127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 i.l.networld.hk
@@ -44380,7 +44209,6 @@ Made by xiaobeita
 127.0.0.1 i.n.jwpltx.com
 127.0.0.1 i.niupic.com
 127.0.0.1 i.nuseek.com
-127.0.0.1 i.nuseek.com  #[Parking Service]
 127.0.0.1 i.oksg.co
 127.0.0.1 i.onthe.io
 127.0.0.1 i.pcp001.com
@@ -44909,7 +44737,6 @@ Made by xiaobeita
 127.0.0.1 iesb.us.intellitxt.com
 127.0.0.1 iesnare.co.uk
 127.0.0.1 iesnare.com
-127.0.0.1 iesnare.com  # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 127.0.0.1 if.bbanner.it
 127.0.0.1 if.mingxing.qq.com
 127.0.0.1 if.yyjsbz.cn
@@ -44948,7 +44775,6 @@ Made by xiaobeita
 127.0.0.1 ifr.adjust-net.jp
 127.0.0.1 iframe-dsa.fyber.com
 127.0.0.1 iframe.adultfriendfinder.com
-127.0.0.1 iframe.adultfriendfinder.com  #[Adware.Redalert]
 127.0.0.1 iframe.fyber.com
 127.0.0.1 iframe.mediaplazza.com
 127.0.0.1 iframe.sponsorpay.com
@@ -45239,7 +45065,6 @@ Made by xiaobeita
 127.0.0.1 images-dl.taboola.com
 127.0.0.1 images-or.ott.kaltura.com
 127.0.0.1 images-pw.secureserver.net
-127.0.0.1 images-pw.secureserver.net  #[Parking Service]
 127.0.0.1 images-static.vrvm.com
 127.0.0.1 images.17leyi.com
 127.0.0.1 images.3lift.com
@@ -45250,7 +45075,6 @@ Made by xiaobeita
 127.0.0.1 images.adkmob.com
 127.0.0.1 images.adprofile.net
 127.0.0.1 images.adrime.com
-127.0.0.1 images.adrime.com  #[Adsolutions]
 127.0.0.1 images.ads.fairfax.com.au
 127.0.0.1 images.ads.supplyframe.com
 127.0.0.1 images.ads.whaleads.com
@@ -45289,9 +45113,7 @@ Made by xiaobeita
 127.0.0.1 images.conduit-banners.com
 127.0.0.1 images.cybereps.com
 127.0.0.1 images.dable.io
-127.0.0.1 images.dailydiscounts.com  # "spam bugs"
 127.0.0.1 images.ddc.com
-127.0.0.1 images.ddc.com  #[Parking Service]
 127.0.0.1 images.dentalplans.com
 127.0.0.1 images.directtrack.com
 127.0.0.1 images.dmca.com
@@ -45413,7 +45235,6 @@ Made by xiaobeita
 127.0.0.1 images5.taboola.com
 127.0.0.1 images9.engageya.com
 127.0.0.1 imagesb.ultsearch.com
-127.0.0.1 imagescroll.detik.com  #[WebBug]
 127.0.0.1 imageserv.adtech.de
 127.0.0.1 imageserv.adtech.fr
 127.0.0.1 imageserv.adtech.us
@@ -45666,7 +45487,6 @@ Made by xiaobeita
 127.0.0.1 img.okd3.cn
 127.0.0.1 img.opt8.co
 127.0.0.1 img.oraohui.cn
-127.0.0.1 img.parked.ru  #[Parking Service]
 127.0.0.1 img.particlenews.com
 127.0.0.1 img.persiankitty.com
 127.0.0.1 img.polyad.net
@@ -46061,7 +45881,6 @@ Made by xiaobeita
 127.0.0.1 impact.applifier.com
 127.0.0.1 impact.cossette-webpact.com
 127.0.0.1 impactmobile.com
-127.0.0.1 impacts.alliancehub.com  # "spam bugs"
 127.0.0.1 impactwrestling.us.intellitxt.com
 127.0.0.1 impat.tradedoubler.com
 127.0.0.1 impbe.tradedoubler.com
@@ -47450,7 +47269,6 @@ Made by xiaobeita
 127.0.0.1 j-ad.dominiosfree.net
 127.0.0.1 j.12365chia.com
 127.0.0.1 j.2004cms.com
-127.0.0.1 j.2004cms.com  # cydoor
 127.0.0.1 j.77power.com
 127.0.0.1 j.91cmzx.com
 127.0.0.1 j.adlooxtracking.com
@@ -47770,7 +47588,6 @@ Made by xiaobeita
 127.0.0.1 javmama.co
 127.0.0.1 javmec.com
 127.0.0.1 javmobile.net
-127.0.0.1 javmovie.com #/
 127.0.0.1 javnew.net
 127.0.0.1 javopen.co
 127.0.0.1 javout.net
@@ -48129,7 +47946,6 @@ Made by xiaobeita
 127.0.0.1 jmbase.my
 127.0.0.1 jmbi58.cjt1.net
 127.0.0.1 jmm.livestat.com
-127.0.0.1 jmm.livestat.com  #[Tracking.Cookie]
 127.0.0.1 jmn.jangonetwork.com
 127.0.0.1 jmom.xyz
 127.0.0.1 jmonitor.jiuzhilan.com
@@ -48569,7 +48385,6 @@ Made by xiaobeita
 127.0.0.1 js.rating-widget.com
 127.0.0.1 js.realypay.com
 127.0.0.1 js.redtram.com
-127.0.0.1 js.redtram.com  #[RedTramCookies]
 127.0.0.1 js.revsci.net
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 js.ru.redtram.com
@@ -48709,7 +48524,6 @@ Made by xiaobeita
 127.0.0.1 js2672.xjzyq.com
 127.0.0.1 js2777.tongqing2015.com
 127.0.0.1 js3.clickzs.com
-127.0.0.1 js3.clickzs.com  #[Tracking.Cookie]
 127.0.0.1 js3.users.51.la
 127.0.0.1 js345v.com
 127.0.0.1 js345w.com
@@ -48991,10 +48805,8 @@ Made by xiaobeita
 127.0.0.1 justcounter.com
 127.0.0.1 justdating.online
 127.0.0.1 justdoit-polska.com
-127.0.0.1 juste.ru  # Twitter trojan
 127.0.0.1 justforbettors.com
 127.0.0.1 justhookup.com
-127.0.0.1 justicehentai.com #/
 127.0.0.1 justicejudo.com
 127.0.0.1 justinapart.pl
 127.0.0.1 justinejoli.bi-caps.com
@@ -49109,7 +48921,6 @@ Made by xiaobeita
 127.0.0.1 k1.midasplayer.com
 127.0.0.1 k1.mobileadsserver.com
 127.0.0.1 k1qa.midasplayer.com
-127.0.0.1 k1s.nl  #[Daisycon]
 127.0.0.1 k1w5.me
 127.0.0.1 k1zycw.zhuwawa.net
 127.0.0.1 k4home.pl
@@ -49123,7 +48934,6 @@ Made by xiaobeita
 127.0.0.1 k9vidz.com
 127.0.0.1 ka-ge.facebook.com
 127.0.0.1 ka.bar.need2find.com
-127.0.0.1 ka.bar.need2find.com  #[Adware.Need2Find]
 127.0.0.1 ka.duowan.com
 127.0.0.1 kaartenhuis.nl.site-id.nl
 127.0.0.1 kaaryathalo.com
@@ -49277,7 +49087,6 @@ Made by xiaobeita
 127.0.0.1 kbd2.kpns.ijinshan.com
 127.0.0.1 kc.mv.bidsystem.com
 127.0.0.1 kc.search.need2find.com
-127.0.0.1 kc.search.need2find.com  #[mwave.AdWare.MySearch.e]
 127.0.0.1 kc75.com
 127.0.0.1 kcc.g31hc.cn
 127.0.0.1 kczambians.com
@@ -49492,7 +49301,6 @@ Made by xiaobeita
 127.0.0.1 kipokahynr.xyz
 127.0.0.1 kippbeak.cf
 127.0.0.1 kiralyvidi.eu
-127.0.0.1 kirgo.at  # Facebook phishing attempt
 127.0.0.1 kirsikka.com
 127.0.0.1 kirstenbijlsma.com
 127.0.0.1 kiskegyed.creatorword.com
@@ -49696,7 +49504,6 @@ Made by xiaobeita
 127.0.0.1 kondratev.popunder.ru
 127.0.0.1 konferencje-eventy.eu
 127.0.0.1 konferencje.vantis.pl
-127.0.0.1 konflow.com  # Facebook trojan
 127.0.0.1 konicaminoltahd.122.2o7.net
 127.0.0.1 konkursbiedronka.5v.pl
 127.0.0.1 konkurskauffland.24.eu
@@ -49963,7 +49770,6 @@ Made by xiaobeita
 127.0.0.1 kz.adriver.ru
 127.0.0.1 kz.js.need2find.com
 127.0.0.1 kz.search.need2find.com
-127.0.0.1 kz.search.need2find.com  #[altnet.com]
 127.0.0.1 kz.tns-counter.ru
 127.0.0.1 kzni.jwhfn.cn
 127.0.0.1 l-sspcash.adxcore.com
@@ -50029,7 +49835,6 @@ Made by xiaobeita
 127.0.0.1 l0-secure.videohub.tv
 127.0.0.1 l1.britannica.com
 127.0.0.1 l1.cdn.qnsr.com
-127.0.0.1 l1.cdn.qnsr.com  #[WebBug]
 127.0.0.1 l1.qsstats.com
 127.0.0.1 l1.soarfi.cn
 127.0.0.1 l1.zedo.com
@@ -50800,11 +50605,7 @@ Made by xiaobeita
 127.0.0.1 likebtn.com
 127.0.0.1 likekopi.com
 127.0.0.1 likeportal.com
-127.0.0.1 likeportal.com  # Facebook trojan
 127.0.0.1 likes.gisnetwork.net
-127.0.0.1 likespike.com  # Facebook trojan
-127.0.0.1 likethis.mbosoft.com  # Facebook trojan
-127.0.0.1 likethislist.biz  # Facebook trojan
 127.0.0.1 lil18.com
 127.0.0.1 lil18girl.com
 127.0.0.1 lilangels4u.50megs.com
@@ -50873,7 +50674,6 @@ Made by xiaobeita
 127.0.0.1 link.huffingtonpost.com
 127.0.0.1 link.informer.com
 127.0.0.1 link.ixs1.net
-127.0.0.1 link.ixs1.net  #[WebBug]
 127.0.0.1 link.king-of-deal.com
 127.0.0.1 link.krxd.net
 127.0.0.1 link.lapromosdujour.com
@@ -51414,7 +51214,6 @@ Made by xiaobeita
 127.0.0.1 log.advista.no
 127.0.0.1 log.adywind.com
 127.0.0.1 log.aebn.net
-127.0.0.1 log.aebn.net  #[WebBug.eluminate]
 127.0.0.1 log.agoop.net
 127.0.0.1 log.amitshah.net
 127.0.0.1 log.anninhthudo.vn
@@ -51462,7 +51261,6 @@ Made by xiaobeita
 127.0.0.1 log.houyi.baofeng.net
 127.0.0.1 log.hunantv.com
 127.0.0.1 log.ideamelt.com
-127.0.0.1 log.idg.no  #[WebTrends]
 127.0.0.1 log.incredibar-search.com
 127.0.0.1 log.incredimail-search.com
 127.0.0.1 log.infonet.vn
@@ -51496,7 +51294,6 @@ Made by xiaobeita
 127.0.0.1 log.netgeography.net
 127.0.0.1 log.news.zing.vn
 127.0.0.1 log.newsvine.com
-127.0.0.1 log.newsvine.com  #[WebBug]
 127.0.0.1 log.nexgen.neustar.biz
 127.0.0.1 log.nuomi.com
 127.0.0.1 log.nvwa.baofeng.com
@@ -51504,7 +51301,6 @@ Made by xiaobeita
 127.0.0.1 log.omiga-plus.com
 127.0.0.1 log.opentracker.net
 127.0.0.1 log.optimizely.com
-127.0.0.1 log.optimizely.com  #[WebBug]
 127.0.0.1 log.orchidscape.net
 127.0.0.1 log.oto.com.vn
 127.0.0.1 log.outbrain.com
@@ -51745,7 +51541,6 @@ Made by xiaobeita
 127.0.0.1 login.myspace.com
 127.0.0.1 login.rtk.io
 127.0.0.1 login.tracking101.com
-127.0.0.1 login.tracking101.com  #[Tracking.Cookie]
 127.0.0.1 loginlog.sdo.com
 127.0.0.1 logiq.go2cloud.org
 127.0.0.1 logitechlogitechglobal.112.2o7.net
@@ -51794,7 +51589,6 @@ Made by xiaobeita
 127.0.0.1 logs.live.tudou.com
 127.0.0.1 logs.locarta.co
 127.0.0.1 logs.loggly.com
-127.0.0.1 logs.loggly.com  #[WebBug]
 127.0.0.1 logs.mobiletop.cc
 127.0.0.1 logs.naukri.com
 127.0.0.1 logs.newapi.com
@@ -53442,7 +53236,6 @@ Made by xiaobeita
 127.0.0.1 m.uk.2mdn.net
 127.0.0.1 m.umyai.com
 127.0.0.1 m.usersonline.com
-127.0.0.1 m.usersonline.com  #[WebBug]
 127.0.0.1 m.uu0152q.cn
 127.0.0.1 m.uw45o.cn
 127.0.0.1 m.uzhaj.com
@@ -54004,7 +53797,6 @@ Made by xiaobeita
 127.0.0.1 ma140-r.analytics.edgekey.net
 127.0.0.1 ma156-r.analytics.edgekey.net
 127.0.0.1 ma156-r.analytics.edgesuite.net
-127.0.0.1 ma156-r.analytics.edgesuite.net  #[AkamaiPlayerAnalytics]
 127.0.0.1 ma193-r.analytics.edgekey.net
 127.0.0.1 ma2.meishij.net
 127.0.0.1 ma2.twimg.com
@@ -54274,10 +54066,8 @@ Made by xiaobeita
 127.0.0.1 mailb2.surf-town.net
 127.0.0.1 mailb3.surf-town.net
 127.0.0.1 mailboto.com
-127.0.0.1 mailcheckisp.biz  # "spam bugs"
 127.0.0.1 mailer.livejasmin.com
 127.0.0.1 mailer.p1ne.com
-127.0.0.1 mailfoogae.appspot.com  # Streak email tracker
 127.0.0.1 mailforfreedom.com
 127.0.0.1 mailgate.sbell.com.cn
 127.0.0.1 mailgw.thtf.com.cn
@@ -54454,7 +54244,6 @@ Made by xiaobeita
 127.0.0.1 map.dxpmedia.com
 127.0.0.1 map.go.affec.tv
 127.0.0.1 map.media6degrees.com
-127.0.0.1 map.media6degrees.com  #[WebBug]
 127.0.0.1 map.pop6.com
 127.0.0.1 map.popunderz.com
 127.0.0.1 map.tongji.ifeng.com
@@ -55032,7 +54821,6 @@ Made by xiaobeita
 127.0.0.1 mcleaner.cn
 127.0.0.1 mcleanvahomes.com
 127.0.0.1 mclick.simba.taobao.com
-127.0.0.1 mcmads.mediacapital.pt  #[DoubleClick]
 127.0.0.1 mcmoby.go2cloud.org
 127.0.0.1 mcms.com.pl
 127.0.0.1 mcnt.jp
@@ -55266,7 +55054,6 @@ Made by xiaobeita
 127.0.0.1 media.fairlink.ru
 127.0.0.1 media.fantasy4you.info
 127.0.0.1 media.fastclick.net
-127.0.0.1 media.fastclick.net  # Likewise, this may interfere with some
 127.0.0.1 media.fbed1-2.fna.whatsapp.net
 127.0.0.1 media.fbel3-1.fna.whatsapp.net
 127.0.0.1 media.fc2.com
@@ -57908,7 +57695,6 @@ Made by xiaobeita
 127.0.0.1 msga.ptqy.gitv.tv
 127.0.0.1 msgstore2.pldtprv.net
 127.0.0.1 msgtag.com
-127.0.0.1 msgtag.com  #[Email tracker]
 127.0.0.1 msgui.go2cloud.org
 127.0.0.1 msgv6.qy.net
 127.0.0.1 mshakers.rotator.hadj7.adjuggler.net
@@ -57936,7 +57722,6 @@ Made by xiaobeita
 127.0.0.1 msnaccountservices.112.2o7.net
 127.0.0.1 msnad.nuggad.net
 127.0.0.1 msnads-wm9.fplive.net
-127.0.0.1 msnads-wm9.fplive.net  #[MSN Video Ads]
 127.0.0.1 msnbc.112.2o7.net
 127.0.0.1 msnbc.us.intellitxt.com
 127.0.0.1 msnbc.website
@@ -57978,7 +57763,6 @@ Made by xiaobeita
 127.0.0.1 msntest.serving-sys.com
 127.0.0.1 msntrademarketing.112.2o7.net
 127.0.0.1 msnwinonecare.112.2o7.net
-127.0.0.1 msnwinonecare.112.2o7.net  #[Windows OneCare]
 127.0.0.1 mso.allyes.com
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 msp-hack.com
@@ -58027,13 +57811,10 @@ Made by xiaobeita
 127.0.0.1 mt2.mtree.com
 127.0.0.1 mt32.mtree.com
 127.0.0.1 mt34.mtree.com
-127.0.0.1 mt34.mtree.com  #[Google.Diagnostic]
 127.0.0.1 mt35.mtree.com
 127.0.0.1 mt37.mtree.com
 127.0.0.1 mt4.mtree.com
-127.0.0.1 mt4.mtree.com  #[xxxtoolbar.com]
 127.0.0.1 mt55.mtree.com
-127.0.0.1 mt55.mtree.com  #[Troj/Istbar-BL]
 127.0.0.1 mt58.mtree.com
 127.0.0.1 mt83.mtree.com
 127.0.0.1 mt94.mtree.com
@@ -58371,7 +58152,6 @@ Made by xiaobeita
 127.0.0.1 mydas.mobi.visualizetraffic.com
 127.0.0.1 mydates.com
 127.0.0.1 mydati.com
-127.0.0.1 mydati.com  #[HotspotShield]
 127.0.0.1 mydaughtersfuckingablackdude.com
 127.0.0.1 mydb1.surf-town.net
 127.0.0.1 mydb2.surf-town.net
@@ -58455,7 +58235,6 @@ Made by xiaobeita
 127.0.0.1 mylesbogf.com
 127.0.0.1 mylf.com
 127.0.0.1 mylifemyprimaryplan.aoredi.com
-127.0.0.1 mylike.co.uk  # Facebook trojan
 127.0.0.1 mylink-today.com
 127.0.0.1 mylistenetwork.go2cloud.org
 127.0.0.1 mylivesex.xxx
@@ -58585,7 +58364,6 @@ Made by xiaobeita
 127.0.0.1 mywallart.pl
 127.0.0.1 myway.com
 127.0.0.1 mywebsearch.com
-127.0.0.1 mywebsearch.com  #[Adware.MyWebSearch]
 127.0.0.1 mywifesex.net
 127.0.0.1 myworld.com
 127.0.0.1 myworldmadebyhand.j8inn1zektoe.com
@@ -59097,7 +58875,6 @@ Made by xiaobeita
 127.0.0.1 nb.17zhaole.com
 127.0.0.1 nb.5.p2l.info
 127.0.0.1 nb.myspace.com
-127.0.0.1 nb.myspace.com  #[WebBug]
 127.0.0.1 nb.netbreak.com.au
 127.0.0.1 nb574.pl
 127.0.0.1 nb898.com
@@ -59179,7 +58956,6 @@ Made by xiaobeita
 127.0.0.1 ndn.cdn.auditude.com
 127.0.0.1 ndoverdrive.net
 127.0.0.1 ndparking.com
-127.0.0.1 ndparking.com  #[Parking Service]
 127.0.0.1 ndrf.757g7g.cn
 127.0.0.1 ndy.code.weddingeeos.com
 127.0.0.1 ndyjs.xjtu.edu.cn
@@ -60259,7 +60035,6 @@ Made by xiaobeita
 127.0.0.1 novits4.com
 127.0.0.1 novumedical.pl
 127.0.0.1 now.eloqua.com
-127.0.0.1 now.eloqua.com  #[WebBug][Tracking.Cookie]
 127.0.0.1 now8news.com
 127.0.0.1 nowa-oplata.net
 127.0.0.1 nowa.k-link-poland.pl
@@ -60509,7 +60284,6 @@ Made by xiaobeita
 127.0.0.1 ntimg.aiservice.vn
 127.0.0.1 ntkrnlpa.info
 127.0.0.1 ntlligent.info
-127.0.0.1 ntlligent.info  #[Spamdexing]
 127.0.0.1 ntnelektronik.pl
 127.0.0.1 ntp.facebook.com
 127.0.0.1 ntracking.optimatic.com
@@ -60853,7 +60627,6 @@ Made by xiaobeita
 127.0.0.1 o.bluewin.ch
 127.0.0.1 o.cityads.com
 127.0.0.1 o.cmp.advertising.com
-127.0.0.1 o.detik.com  #[WebBug]
 127.0.0.1 o.domob.cn
 127.0.0.1 o.facebook.com
 127.0.0.1 o.fandango.com
@@ -61451,7 +61224,6 @@ Made by xiaobeita
 127.0.0.1 offers.bittorrent.com
 127.0.0.1 offers.bycontext.com
 127.0.0.1 offers.cdn.natpal.com
-127.0.0.1 offers.cloackp.com  #[ScamFraudAlert.Antispyware]
 127.0.0.1 offers.impower.com
 127.0.0.1 offers.keynote.com
 127.0.0.1 offers.nordvpn.com
@@ -61746,7 +61518,6 @@ Made by xiaobeita
 127.0.0.1 omnicleaningservices.com
 127.0.0.1 omnijay.com
 127.0.0.1 omnikool.discovery.com
-127.0.0.1 omnikool.discovery.com  #[RealMedia]
 127.0.0.1 omniscbt.112.2o7.net
 127.0.0.1 omniscenta.com
 127.0.0.1 omniscientspark.com
@@ -62114,9 +61885,7 @@ Made by xiaobeita
 127.0.0.1 opensdk.wlanbanlv.com
 127.0.0.1 opensharecount.com
 127.0.0.1 opensoftwareupdate.com
-127.0.0.1 opensoftwareupdate.com  #[Adware.Downware.3736]
 127.0.0.1 opensoftwareupdater.com
-127.0.0.1 opensoftwareupdater.com  #[Riskware/PUP]
 127.0.0.1 openstat.com
 127.0.0.1 openstat.net
 127.0.0.1 openstat.ru
@@ -62332,7 +62101,6 @@ Made by xiaobeita
 127.0.0.1 oralgirlfriends.com
 127.0.0.1 oralse.ca
 127.0.0.1 oralse.cx
-127.0.0.1 oralse.cx  # en.wikipedia.org/wiki/List_of_shock_sites
 127.0.0.1 orange-fr.adinfuse.com
 127.0.0.1 orange-kodzik.890m.com
 127.0.0.1 orange.fr-enqueteannuelle.xyz
@@ -62968,7 +62736,6 @@ Made by xiaobeita
 127.0.0.1 p.qijijs.top
 127.0.0.1 p.qiyou.com
 127.0.0.1 p.raasnet.com
-127.0.0.1 p.raasnet.com  #[WebBug]
 127.0.0.1 p.raidmedia.com.cn
 127.0.0.1 p.reuters.com
 127.0.0.1 p.rfihub.com
@@ -63385,17 +63152,14 @@ Made by xiaobeita
 127.0.0.1 park.beenetworks.net
 127.0.0.1 park.parkingpanel.com
 127.0.0.1 parkcloud.dynadot.com
-127.0.0.1 parkcloud.dynadot.com  #[Parking Service]
 127.0.0.1 parketsy.pro
 127.0.0.1 parking-banino.pl
 127.0.0.1 parking.dmtracker.com
 127.0.0.1 parking.parklogic.com
-127.0.0.1 parking.parklogic.com  #[Parking.Service]
 127.0.0.1 parking.reg.ru
 127.0.0.1 parking.zunmi.cn
 127.0.0.1 parkingairport.com.pl
 127.0.0.1 parkingcrew.net
-127.0.0.1 parkingcrew.net  #[Parking.Service]
 127.0.0.1 parkinggdansk.pl
 127.0.0.1 parkweller.com
 127.0.0.1 parrable.com
@@ -63744,7 +63508,6 @@ Made by xiaobeita
 127.0.0.1 pcbutts1.com
 127.0.0.1 pcbutts1.ourtoolbar.com
 127.0.0.1 pcbutts1.software.informer.com
-127.0.0.1 pcbutts1.software.informer.com  #[Unauthorized.Downloads]
 127.0.0.1 pcc.pkcdns2.com
 127.0.0.1 pccleaner.com
 127.0.0.1 pccleanerpro.com
@@ -63883,7 +63646,6 @@ Made by xiaobeita
 127.0.0.1 peniscat.com
 127.0.0.1 penix.fr
 127.0.0.1 penix.nl
-127.0.0.1 penix.nl  #[ero-advertising.com]
 127.0.0.1 pennwellco.tt.omtrdc.net
 127.0.0.1 pennwellcorp.112.2o7.net
 127.0.0.1 pennypaxlive.com
@@ -64073,7 +63835,6 @@ Made by xiaobeita
 127.0.0.1 pge-bok.pl
 127.0.0.1 pge.unityads.unity3d.com
 127.0.0.1 pgg.huabojnxdd.com
-127.0.0.1 pgl.example #0101
 127.0.0.1 pglb.buzzfed.com
 127.0.0.1 pgm.yide69.com
 127.0.0.1 pgmediaserve.com
@@ -64468,7 +64229,6 @@ Made by xiaobeita
 127.0.0.1 pics.drtuber.com
 127.0.0.1 pics.empireamateurs.com
 127.0.0.1 pics.kolmic.com
-127.0.0.1 pics.kolmic.com  #[Parking Service]
 127.0.0.1 pics.pornmarathon.com
 127.0.0.1 pics.skenzo.com
 127.0.0.1 pics.taobaocdn.com
@@ -64647,22 +64407,15 @@ Made by xiaobeita
 127.0.0.1 piwebcams.com
 127.0.0.1 piwik.adspaces.ero-advertising.com
 127.0.0.1 piwik.cam-content.com
-127.0.0.1 piwik.cam-content.com  #[Piwik.Analytics]
-127.0.0.1 piwik.datawrapper.de  #[Piwik.Analytics]
 127.0.0.1 piwik.denik.cz
 127.0.0.1 piwik.ero-advertising.com
 127.0.0.1 piwik.ientry.com
 127.0.0.1 piwik.ilfllc.com
 127.0.0.1 piwik.medienhaus.com
 127.0.0.1 piwik.mortgageloan.com
-127.0.0.1 piwik.mortgageloan.com  #[Piwik.Analytics]
-127.0.0.1 piwik.n24.de  #[Piwik.Analytics]
 127.0.0.1 piwik.org
 127.0.0.1 piwik.pokerlistings.com
-127.0.0.1 piwik.pokerlistings.com  #[Piwik.Analytics]
 127.0.0.1 piwik.redtube.com
-127.0.0.1 piwik.redtube.com  #[Piwik Analytics]
-127.0.0.1 piwik.wsws.org  #[Piwik.Analytics]
 127.0.0.1 pix.adrta.com
 127.0.0.1 pix.btrll.com
 127.0.0.1 pix.gfycat.com
@@ -64764,17 +64517,14 @@ Made by xiaobeita
 127.0.0.1 pixel.onaudience.com
 127.0.0.1 pixel.parsely.com
 127.0.0.1 pixel.pcworld.com
-127.0.0.1 pixel.pcworld.com  #[WebBug]
 127.0.0.1 pixel.programmatictrader.com
 127.0.0.1 pixel.quantcount.com
 127.0.0.1 pixel.quantserve.com
-127.0.0.1 pixel.quantserve.com  #[WebBug]
 127.0.0.1 pixel.realclever.com
 127.0.0.1 pixel.realtor.com
 127.0.0.1 pixel.reddit.com
 127.0.0.1 pixel.redditmedia.com
 127.0.0.1 pixel.rubiconproject.com
-127.0.0.1 pixel.rubiconproject.com  #[WebBug]
 127.0.0.1 pixel.rubiconproject.net
 127.0.0.1 pixel.s3xified.com
 127.0.0.1 pixel.serviceleverage.com
@@ -64803,7 +64553,6 @@ Made by xiaobeita
 127.0.0.1 pixel1324.everesttech.net
 127.0.0.1 pixel1350.everesttech.net
 127.0.0.1 pixel1370.everesttech.net
-127.0.0.1 pixel1370.everesttech.net  #[WebBug]
 127.0.0.1 pixel1553.everesttech.net
 127.0.0.1 pixel1739.everesttech.net
 127.0.0.1 pixel2.moatads.com
@@ -64931,7 +64680,6 @@ Made by xiaobeita
 127.0.0.1 pl105716.nquchhfyex.com
 127.0.0.1 pl106067.puhtml.com
 127.0.0.1 pl107977.puhtml.com
-127.0.0.1 pl108062.puhtml.com  #[Terriclicks]
 127.0.0.1 pl108258.puserving.com
 127.0.0.1 pl109504.puhtml.com
 127.0.0.1 pl11074444.puhtml.com
@@ -65490,7 +65238,6 @@ Made by xiaobeita
 127.0.0.1 pool.adizio.com
 127.0.0.1 pool.admedo.com
 127.0.0.1 pool.ads.netlog.com
-127.0.0.1 pool.ads.netlog.com  #[adhese.com]
 127.0.0.1 pool.dichtbij.adhese.com
 127.0.0.1 pool.distilled.ie
 127.0.0.1 pool.etn.spacepools.org
@@ -65643,7 +65390,6 @@ Made by xiaobeita
 127.0.0.1 porn.es
 127.0.0.1 porn.hu
 127.0.0.1 porn.mtree.com
-127.0.0.1 porn.mtree.com  #[Dialer.Moneytree]
 127.0.0.1 porn.org
 127.0.0.1 porn.sex
 127.0.0.1 porn.to
@@ -66103,7 +65849,6 @@ Made by xiaobeita
 127.0.0.1 ppaa11.com
 127.0.0.1 ppc-direct.com
 127.0.0.1 ppc-parked.domainsite.com
-127.0.0.1 ppc-parked.domainsite.com  #[Parking Service]
 127.0.0.1 ppcindo.com
 127.0.0.1 ppco.trwba.com
 127.0.0.1 ppctracking.net
@@ -66390,7 +66135,6 @@ Made by xiaobeita
 127.0.0.1 privacyassistant.net
 127.0.0.1 privacywatch.news
 127.0.0.1 privatamateure.com
-127.0.0.1 privatamateure.com  #[Sagnet Group]
 127.0.0.1 private-angels.net
 127.0.0.1 private-id.tk
 127.0.0.1 private.atlanticgam.es
@@ -66577,7 +66321,6 @@ Made by xiaobeita
 127.0.0.1 profitsitesbiz.com
 127.0.0.1 profittravel.pl
 127.0.0.1 profitzone.com
-127.0.0.1 proflashdata.com  # Facebook trojan
 127.0.0.1 profm.count.brat-online.ro
 127.0.0.1 profolan.pl
 127.0.0.1 profootballweekly.us.intellitxt.com
@@ -67126,7 +66869,6 @@ Made by xiaobeita
 127.0.0.1 pub.telecharger.com
 127.0.0.1 pub.uniad.vn
 127.0.0.1 pub.weatherbug.com
-127.0.0.1 pub.weatherbug.com  #[RealMedia]
 127.0.0.1 pub.web.sapo.io
 127.0.0.1 pub.weborama.fr
 127.0.0.1 pub.yllix.com
@@ -67254,7 +66996,6 @@ Made by xiaobeita
 127.0.0.1 publishers.bidtraffic.com
 127.0.0.1 publishers.brokertraffic.com
 127.0.0.1 publishers.clickbooth.com
-127.0.0.1 publishers.clickbooth.com  #[directleads.com]
 127.0.0.1 publishers.domainadvertising.com
 127.0.0.1 publishers.gourmetads.com
 127.0.0.1 publishers.media.net
@@ -67275,7 +67016,6 @@ Made by xiaobeita
 127.0.0.1 pubrepo.pubmatic.com
 127.0.0.1 pubs.hiddennetwork.com
 127.0.0.1 pubs.mgn.net
-127.0.0.1 pubs.mgn.net  #[Grolier Network]
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 pubserver.xl.pt
 127.0.0.1 pubshop.img.uol.com.br
@@ -67314,7 +67054,6 @@ Made by xiaobeita
 127.0.0.1 pulsepoint-platform.rtb.adx1.com
 127.0.0.1 pulsetv.com
 127.0.0.1 pulsix.com
-127.0.0.1 pulsix.com  #[maxalbums.com]
 127.0.0.1 pulso.butlerelectricsupply.com
 127.0.0.1 pultheworldlink.112.2o7.net
 127.0.0.1 puma-api.iqiyi.com
@@ -67584,7 +67323,6 @@ Made by xiaobeita
 127.0.0.1 pxl.jivox.com
 127.0.0.1 pxl.leads.su
 127.0.0.1 pxl.pmsrvr.com
-127.0.0.1 pxl.pmsrvr.com  #[WebBug]
 127.0.0.1 pxlctl.as.com
 127.0.0.1 pxlctl.elpais.com
 127.0.0.1 pxlgnpgecom-a.akamaihd.net
@@ -67809,7 +67547,6 @@ Made by xiaobeita
 127.0.0.1 qqzy1.cc
 127.0.0.1 qrbizr.cn
 127.0.0.1 qrcdownload.ibcustomerzone.com
-127.0.0.1 qrcdownload.ibcustomerzone.com  #[dware.QUADRegClean]
 127.0.0.1 qrdeom.com
 127.0.0.1 qring-tms.qq.com
 127.0.0.1 qrrl.cwj2h.cn
@@ -67863,7 +67600,6 @@ Made by xiaobeita
 127.0.0.1 quantcount.com
 127.0.0.1 quantonesc.allyes.com
 127.0.0.1 quantserve.com
-127.0.0.1 quantserve.com  #: Ad Tracking, JavaScript, etc.
 127.0.0.1 quantummetric.com
 127.0.0.1 quareclk.com
 127.0.0.1 quarter.adbureau.net
@@ -68364,7 +68100,6 @@ Made by xiaobeita
 127.0.0.1 rc.btyou.com
 127.0.0.1 rc.cdnny.com
 127.0.0.1 rc.de.adlink.net
-127.0.0.1 rc.de.adlink.net  #[Tracking.Cookie]
 127.0.0.1 rc.dxsvr.com
 127.0.0.1 rc.fthcz.com
 127.0.0.1 rc.haodongkeji.cn
@@ -68813,7 +68548,6 @@ Made by xiaobeita
 127.0.0.1 redirecthere.com
 127.0.0.1 redirecting.ws
 127.0.0.1 redirectingat.com
-127.0.0.1 redirectingat.com  #[SkimLinks]
 127.0.0.1 redirectlnk.redirectme.net
 127.0.0.1 redirectme.net
 127.0.0.1 redirectnative.com
@@ -69361,9 +69095,7 @@ Made by xiaobeita
 127.0.0.1 return.adsame.com
 127.0.0.1 return.bs.domainnamesales.com
 127.0.0.1 return.domainnamesales.com
-127.0.0.1 return.domainnamesales.com  #[Parking.Service]
 127.0.0.1 return.uk.domainnamesales.com
-127.0.0.1 return.uk.domainnamesales.com  #[Parking.Service]
 127.0.0.1 reuni.eu
 127.0.0.1 reunion.crwdcntrl.net
 127.0.0.1 reunion.tt.omtrdc.net
@@ -70184,7 +69916,6 @@ Made by xiaobeita
 127.0.0.1 rub.pxl.ace.advertising.com
 127.0.0.1 ruba.iad-03.braze.com
 127.0.0.1 rubanners.com
-127.0.0.1 rubanners.com  #[clicksagent.com]
 127.0.0.1 rubberdoll.net
 127.0.0.1 rubberteens.com
 127.0.0.1 rubet.com
@@ -70800,7 +70531,6 @@ Made by xiaobeita
 127.0.0.1 s.yjtag.jp
 127.0.0.1 s.yomob.com.cn
 127.0.0.1 s.youmi.net
-127.0.0.1 s.youtube.com  # Blocking this will interfere with video watching history
 127.0.0.1 s.youzhuanhua.com
 127.0.0.1 s.yunpifu.cn
 127.0.0.1 s.yy58ju.com
@@ -71075,7 +70805,6 @@ Made by xiaobeita
 127.0.0.1 s212.ucoz.net
 127.0.0.1 s2143.t.eloqua.com
 127.0.0.1 s2150.t.eloqua.com
-127.0.0.1 s2150.t.eloqua.com  #[WebBug]
 127.0.0.1 s22.cnzz.com
 127.0.0.1 s22.sitemeter.com
 127.0.0.1 s23.cnzz.com
@@ -71314,7 +71043,6 @@ Made by xiaobeita
 127.0.0.1 s99.cnzz.com
 127.0.0.1 s9kkremkr0.com
 127.0.0.1 sa.aol.com.122.2o7.net
-127.0.0.1 sa.bbc.co.uk  #[may affect iPlayer app]
 127.0.0.1 sa.bbc.com
 127.0.0.1 sa.entireweb.com
 127.0.0.1 sa.jumptap.com
@@ -71485,7 +71213,6 @@ Made by xiaobeita
 127.0.0.1 samvo.com
 127.0.0.1 san-ni-ichi.com
 127.0.0.1 sana.newsinc.com
-127.0.0.1 sana.newsinc.com  #[WebBug]
 127.0.0.1 sana.newsinc.com.s3.amazonaws.com
 127.0.0.1 sana.newsinccom.s3.amazonaws.com
 127.0.0.1 sana.sy
@@ -72246,7 +71973,6 @@ Made by xiaobeita
 127.0.0.1 scores02.2cnt.net
 127.0.0.1 scotbet.com
 127.0.0.1 scotiabank.m.facebook.com
-127.0.0.1 scottishstuff-online.com  # Canadian bank phishing site
 127.0.0.1 scottrade.112.2o7.net
 127.0.0.1 scounter.rambler.ru
 127.0.0.1 scout.haymarketmedia.com
@@ -72423,7 +72149,6 @@ Made by xiaobeita
 127.0.0.1 sdc.vml.com
 127.0.0.1 sdc.windowsmarketplace.com
 127.0.0.1 sdc8prod1.wiley.com
-127.0.0.1 sdc8prod1.wiley.com  #[WebTrends]
 127.0.0.1 sdcexecs.us.intellitxt.com
 127.0.0.1 sddns1.cncmax.cn
 127.0.0.1 sddns2.cncmax.cn
@@ -72747,7 +72472,6 @@ Made by xiaobeita
 127.0.0.1 search.freeonline.com
 127.0.0.1 search.freeze.com
 127.0.0.1 search.gd118114.cn
-127.0.0.1 search.in  #[Parking Service]
 127.0.0.1 search.info.com
 127.0.0.1 search.ipromote.com
 127.0.0.1 search.iwon.com
@@ -72759,7 +72483,6 @@ Made by xiaobeita
 127.0.0.1 search.moviecarpet.com
 127.0.0.1 search.myspace.com
 127.0.0.1 search.mywebsearch.com
-127.0.0.1 search.mywebsearch.com  #[Panda.Adware/MyWebSearch]
 127.0.0.1 search.netseer.com
 127.0.0.1 search.ok365.com
 127.0.0.1 search.opentext.com
@@ -72778,7 +72501,6 @@ Made by xiaobeita
 127.0.0.1 search.youzu.com
 127.0.0.1 search2.twitter.com
 127.0.0.1 search2007.info
-127.0.0.1 search2007.info  #[Spamdexing]
 127.0.0.1 search34.info.com
 127.0.0.1 search4you.50webs.com
 127.0.0.1 search8.taobao.com
@@ -72795,7 +72517,6 @@ Made by xiaobeita
 127.0.0.1 searchforit.com
 127.0.0.1 searchfwding.com
 127.0.0.1 searchignited.com
-127.0.0.1 searchignited.com  #[Parking.Service]
 127.0.0.1 searching-mails.org
 127.0.0.1 searchinquire.com
 127.0.0.1 searchl.media.net
@@ -72805,7 +72526,6 @@ Made by xiaobeita
 127.0.0.1 searchmachine.com
 127.0.0.1 searchmagna.com
 127.0.0.1 searchmagnified.com
-127.0.0.1 searchmagnified.com  #[Parking.Service]
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchmaybe.com
 127.0.0.1 searchmeup.com
@@ -73599,7 +73319,6 @@ Made by xiaobeita
 127.0.0.1 services.chartboost.com
 127.0.0.1 services.hearstmags.com
 127.0.0.1 services.krxd.net
-127.0.0.1 services.krxd.net  #[Geo.Webbug]
 127.0.0.1 services.mailermailer.com
 127.0.0.1 services.picadmedia.com
 127.0.0.1 services.qualaroo.com
@@ -73965,7 +73684,6 @@ Made by xiaobeita
 127.0.0.1 sfoprod-rtbwin.applovin.com
 127.0.0.1 sftp.barb.2cnt.net
 127.0.0.1 sftp.clickability.com
-127.0.0.1 sftp.clickability.com  #[Tracking.Cookie]
 127.0.0.1 sftrack.searchforce.net
 127.0.0.1 sfw.adsafeprotected.com
 127.0.0.1 sg-ad.sam4m.com
@@ -74595,7 +74313,6 @@ Made by xiaobeita
 127.0.0.1 sitestat.kpn-is.nl
 127.0.0.1 sitestat3.sport1.de
 127.0.0.1 sitestats.com
-127.0.0.1 sitestats.com  #[Tracking.Cookie]
 127.0.0.1 sitestats.tiscali.co.uk
 127.0.0.1 sitestatz.com
 127.0.0.1 sitestream.twitter.com
@@ -75419,7 +75136,6 @@ Made by xiaobeita
 127.0.0.1 softwares.timesink.com
 127.0.0.1 softwareupdate.thebestevercentralsystoupdate.stream
 127.0.0.1 softwareupdaterlp.com
-127.0.0.1 softwareupdaterlp.com  #[Win32/DownWare.AA]
 127.0.0.1 sognomasaz.pl
 127.0.0.1 sohasdk.sohacorp.vn
 127.0.0.1 sohentais.com
@@ -75735,7 +75451,6 @@ Made by xiaobeita
 127.0.0.1 speed4cksa.ero-advertising.com
 127.0.0.1 speedballin.pl
 127.0.0.1 speedbar.myway.com
-127.0.0.1 speedbar.myway.com  #[ADW_MYSPEED.A][ADW_MIWAY.C]
 127.0.0.1 speedboink.com
 127.0.0.1 speedclecks.ero-advertising.com
 127.0.0.1 speedclicks.ero-advertising.com
@@ -76049,7 +75764,6 @@ Made by xiaobeita
 127.0.0.1 spykemediatrack.com
 127.0.0.1 spykit.110mb.com
 127.0.0.1 spylog.com
-127.0.0.1 spylog.com  #[WebBug]
 127.0.0.1 spylog.ru
 127.0.0.1 spymac.us.intellitxt.com
 127.0.0.1 spymatureclips.com
@@ -76423,7 +76137,6 @@ Made by xiaobeita
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 ssxd.mediav.com
 127.0.0.1 sszomsa.imdrv.net
-127.0.0.1 st-1.1fichier.com  #[Piwik.Analytics]
 127.0.0.1 st-a-id.anthill.vn
 127.0.0.1 st-a.anthill.vn
 127.0.0.1 st-analytics.anthill.vn
@@ -76768,11 +76481,9 @@ Made by xiaobeita
 127.0.0.1 stat.simba.taobao.com
 127.0.0.1 stat.sittiad.com
 127.0.0.1 stat.sp.kingsoft.com
-127.0.0.1 stat.stars.ru  #[WebBug]
 127.0.0.1 stat.su
 127.0.0.1 stat.superstat.info
 127.0.0.1 stat.synergy-e.com
-127.0.0.1 stat.synergy-e.com  #[Piwik.Analytics]
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 stat.tianya.cn
 127.0.0.1 stat.titan.imgo.tv
@@ -77220,7 +76931,6 @@ Made by xiaobeita
 127.0.0.1 static.sitemaji.com
 127.0.0.1 static.skimlinks.com
 127.0.0.1 static.slfpu.com
-127.0.0.1 static.smni.com  # Santa Monica - popunders
 127.0.0.1 static.smsac.net.edgesuite.net
 127.0.0.1 static.snapmobile.asia
 127.0.0.1 static.soft.xunlei.com
@@ -77372,8 +77082,6 @@ Made by xiaobeita
 127.0.0.1 statistik-gallup.dk
 127.0.0.1 statistik-gallup.net
 127.0.0.1 statistik.biz
-127.0.0.1 statistik.bundestag.de  #[Piwik.Analytics]
-127.0.0.1 statistik.polizei-beratung.de  #[Piwik.Analytics]
 127.0.0.1 statistiq.com
 127.0.0.1 statm.the-adult-company.com
 127.0.0.1 statmach.pl
@@ -77425,7 +77133,6 @@ Made by xiaobeita
 127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.bbc.co.uk
 127.0.0.1 stats.becu.org
-127.0.0.1 stats.berkman.harvard.edu  #[Piwik.Analytics]
 127.0.0.1 stats.bestvirusremovalsoftware.com
 127.0.0.1 stats.betradar.com
 127.0.0.1 stats.bidgear.com
@@ -77458,7 +77165,6 @@ Made by xiaobeita
 127.0.0.1 stats.clickability.com
 127.0.0.1 stats.clickforknowledge.com
 127.0.0.1 stats.clicktracks.com
-127.0.0.1 stats.clicktracks.com  #[Tracking.Cookie]
 127.0.0.1 stats.cliqz.com
 127.0.0.1 stats.cloudwp.io
 127.0.0.1 stats.cloxy.com
@@ -77499,7 +77205,6 @@ Made by xiaobeita
 127.0.0.1 stats.epicurious.com
 127.0.0.1 stats.ero-advertising.com
 127.0.0.1 stats.esomniture.com
-127.0.0.1 stats.esomniture.com  #[Tracking.Cookie]
 127.0.0.1 stats.espncricinfo.com
 127.0.0.1 stats.examiner.com
 127.0.0.1 stats.f-secure.com
@@ -77543,7 +77248,6 @@ Made by xiaobeita
 127.0.0.1 stats.ilius.net
 127.0.0.1 stats.ilsemedia.nl
 127.0.0.1 stats.immense.net
-127.0.0.1 stats.immense.net  #[Piwik.Analytics]
 127.0.0.1 stats.inciteminds.com
 127.0.0.1 stats.independent.co.uk
 127.0.0.1 stats.indexstats.com
@@ -77615,7 +77319,6 @@ Made by xiaobeita
 127.0.0.1 stats.pandora.com
 127.0.0.1 stats.parstools.com
 127.0.0.1 stats.partypoker.com
-127.0.0.1 stats.partypoker.com  #[WebBug]
 127.0.0.1 stats.paste2.org
 127.0.0.1 stats.paycounter.com
 127.0.0.1 stats.pckeeper.software
@@ -77628,7 +77331,6 @@ Made by xiaobeita
 127.0.0.1 stats.platinumbucks.com
 127.0.0.1 stats.pluso.io
 127.0.0.1 stats.polldaddy.com
-127.0.0.1 stats.polldaddy.com  #[stats.wordpress.com]
 127.0.0.1 stats.popcap.com
 127.0.0.1 stats.popscreen.com
 127.0.0.1 stats.popuptraffic.com
@@ -77705,14 +77407,12 @@ Made by xiaobeita
 127.0.0.1 stats.video.search.yahoo.com
 127.0.0.1 stats.vietnammoi.vn
 127.0.0.1 stats.virtuemart.net
-127.0.0.1 stats.virtuemart.net  #[Piwik.Analytics]
 127.0.0.1 stats.visiondesignstudio.net
 127.0.0.1 stats.visistat.com
 127.0.0.1 stats.vocento.com.edgekey.net
 127.0.0.1 stats.vodpod.com
 127.0.0.1 stats.voyages-sncf.com
 127.0.0.1 stats.vulture.com
-127.0.0.1 stats.warenform.de  #[Piwik.Analytics]
 127.0.0.1 stats.watchmygf.com
 127.0.0.1 stats.web1tv.de
 127.0.0.1 stats.webleads-tracker.com
@@ -77777,7 +77477,6 @@ Made by xiaobeita
 127.0.0.1 statsadv.dadapro.com
 127.0.0.1 statsdev.treesd.com
 127.0.0.1 statse.webtrendslive.com
-127.0.0.1 statse.webtrendslive.com  # Fortune.com among others
 127.0.0.1 statserv.net
 127.0.0.1 statsfe1.ws.microsoft.com
 127.0.0.1 statsfe2.ws.microsoft.com
@@ -77835,8 +77534,6 @@ Made by xiaobeita
 127.0.0.1 stcontent.premiumhdv.com
 127.0.0.1 stcwbd.com
 127.0.0.1 std.o.webmd.com
-127.0.0.1 std.o.webmd.com  #[Web Bug]
-127.0.0.1 std1.hit.gemius.pl  #[WebBug]
 127.0.0.1 stdl.qq.com
 127.0.0.1 steadfastsound.com
 127.0.0.1 steadfastsystem.com
@@ -78232,7 +77929,6 @@ Made by xiaobeita
 127.0.0.1 suite-profile.socialbakers.com
 127.0.0.1 suite.socialbakers.com
 127.0.0.1 sukces.pl
-127.0.0.1 sukebei.nyaa.net #/
 127.0.0.1 sukebei.nyaa.si
 127.0.0.1 sukebei.pantsu.cat
 127.0.0.1 sukhumvithomes.com
@@ -78370,7 +78066,6 @@ Made by xiaobeita
 127.0.0.1 support.mobpartner.com
 127.0.0.1 support.publicrand.org
 127.0.0.1 support.sextronix.com
-127.0.0.1 support.sextronix.com  #[Wildcard DNS]
 127.0.0.1 support.skyhookwireless.com
 127.0.0.1 support.stickyadstv.com
 127.0.0.1 support.sweepstakes.com
@@ -78931,7 +78626,6 @@ Made by xiaobeita
 127.0.0.1 t.beibeia.top
 127.0.0.1 t.bimvid.com
 127.0.0.1 t.blogreaderproject.com
-127.0.0.1 t.blogreaderproject.com  #[WebBug]
 127.0.0.1 t.bmmetrix.com
 127.0.0.1 t.cfjump.com
 127.0.0.1 t.channeladvisor.com
@@ -78977,7 +78671,6 @@ Made by xiaobeita
 127.0.0.1 t.felmat.net
 127.0.0.1 t.firstpromoter.com
 127.0.0.1 t.flux.com
-127.0.0.1 t.flux.com  #[WebBug]
 127.0.0.1 t.formalyzer.com
 127.0.0.1 t.frtyg.com
 127.0.0.1 t.frtyh.com
@@ -79065,12 +78758,10 @@ Made by xiaobeita
 127.0.0.1 t.senaluno.com
 127.0.0.1 t.sharethis.com
 127.0.0.1 t.signaletre.com
-127.0.0.1 t.signauxdeux.com  # Another email opentracker from hubspot
 127.0.0.1 t.silvinst.com
 127.0.0.1 t.singular.net
 127.0.0.1 t.sj.qq.com
 127.0.0.1 t.skimresources.com
-127.0.0.1 t.skimresources.com  #[WebBug]
 127.0.0.1 t.snowball.com
 127.0.0.1 t.ssp.hinet.net
 127.0.0.1 t.supermario.xyz
@@ -79351,7 +79042,6 @@ Made by xiaobeita
 127.0.0.1 tag.placelocal.com
 127.0.0.1 tag.regieci.com
 127.0.0.1 tag.researchnow.com
-127.0.0.1 tag.researchnow.com  #[Web Bug]
 127.0.0.1 tag.retargeter.com
 127.0.0.1 tag.rutarget.ru
 127.0.0.1 tag.shopping-feed.com
@@ -79498,7 +79188,6 @@ Made by xiaobeita
 127.0.0.1 talkingpointsmemo-d.openx.net
 127.0.0.1 talksinthecity.pl
 127.0.0.1 tally.upsideout.com
-127.0.0.1 tally.upsideout.com  #[Piwik.Analytics]
 127.0.0.1 taloussanomat.linkpulse.com
 127.0.0.1 talsa.spring-tns.net
 127.0.0.1 talstoyistic.pro
@@ -79649,7 +79338,6 @@ Made by xiaobeita
 127.0.0.1 tats.cybererotica.com
 127.0.0.1 tatschke.net
 127.0.0.1 tatsumi-sys.jp
-127.0.0.1 tattooshaha.info  # Facebook trojan
 127.0.0.1 tatts.com
 127.0.0.1 taukibreez.iad-03.braze.com
 127.0.0.1 taurus.iad.appboy.com
@@ -79689,12 +79377,10 @@ Made by xiaobeita
 127.0.0.1 tc.100tjs.com
 127.0.0.1 tc.51la.net
 127.0.0.1 tc.adlink.net
-127.0.0.1 tc.adlink.net  #[WebBug]
 127.0.0.1 tc.ci123.com
 127.0.0.1 tc.freehostedscripts.net
 127.0.0.1 tc.tradetracker.net
 127.0.0.1 tc.zionsbank.com
-127.0.0.1 tc.zionsbank.com  #[zionsbank.tcliveus.com]
 127.0.0.1 tcad.wedolook.com
 127.0.0.1 tcadops.ca
 127.0.0.1 tcads.net
@@ -79717,7 +79403,6 @@ Made by xiaobeita
 127.0.0.1 tcmagazine.uk.intellitxt.com
 127.0.0.1 tcookie.usatoday.com
 127.0.0.1 tcr.tynt.com
-127.0.0.1 tcr.tynt.com  # See http://daringfireball.net/2010/05/tynt_copy_paste_jerks
 127.0.0.1 tcr111.tynt.com
 127.0.0.1 tcrwharen.homepage.t-online.de
 127.0.0.1 tcs-asp.net
@@ -80383,7 +80068,6 @@ Made by xiaobeita
 127.0.0.1 textad.xxxcupid.com
 127.0.0.1 textad.xxxmatch.com
 127.0.0.1 textads.adultadworld.com
-127.0.0.1 textads.adultadworld.com  #[AdEngage]
 127.0.0.1 textads.biz
 127.0.0.1 textads.madisonavenue.com
 127.0.0.1 textads.opera.com
@@ -80434,7 +80118,6 @@ Made by xiaobeita
 127.0.0.1 tgirlmeat.com
 127.0.0.1 tgn.122.2o7.net
 127.0.0.1 tgp.adultfriendfinder.com
-127.0.0.1 tgp.adultfriendfinder.com  #[cams.com]
 127.0.0.1 tgp.buzzsession.com
 127.0.0.1 tgp.eroticstories.com
 127.0.0.1 tgp.pornaccess.com
@@ -80553,7 +80236,6 @@ Made by xiaobeita
 127.0.0.1 thecryptogenius.com
 127.0.0.1 thedailystarcom.112.2o7.net
 127.0.0.1 thedash.pt
-127.0.0.1 thedatesafe.com  # Facebook trojan
 127.0.0.1 thedatingconference.com
 127.0.0.1 thedcgazette.com
 127.0.0.1 thedevband.com
@@ -81248,7 +80930,6 @@ Made by xiaobeita
 127.0.0.1 tommyhalfigero.top
 127.0.0.1 tommysbookmarks.com
 127.0.0.1 tommysbookmarks.net
-127.0.0.1 tomorrownewstoday.com  # I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 127.0.0.1 tomorrowporn.com
 127.0.0.1 toms.us.intellitxt.com
 127.0.0.1 tomsforumz.us.intellitxt.com
@@ -81411,7 +81092,6 @@ Made by xiaobeita
 127.0.0.1 top1site.3host.com
 127.0.0.1 top20.com
 127.0.0.1 top20free.com
-127.0.0.1 top3.list.ru  #[WebBug]
 127.0.0.1 top5-casualbestdatingsites.com
 127.0.0.1 top5.mail.ru
 127.0.0.1 top50.co.uk
@@ -81862,11 +81542,9 @@ Made by xiaobeita
 127.0.0.1 track.campaignmonitor.com
 127.0.0.1 track.catalogs.com
 127.0.0.1 track.cbs.com
-127.0.0.1 track.cbs.com  #[WebBug]
 127.0.0.1 track.celtra.com
 127.0.0.1 track.chanret.com
 127.0.0.1 track.childrensalon.com
-127.0.0.1 track.childrensalon.com  #[Piwik.Analytics]
 127.0.0.1 track.china.com
 127.0.0.1 track.clariad.com
 127.0.0.1 track.clearsender.com
@@ -81945,7 +81623,6 @@ Made by xiaobeita
 127.0.0.1 track.hotdrugsstore.in
 127.0.0.1 track.hubrus.com
 127.0.0.1 track.hubspot.com
-127.0.0.1 track.hubspot.com  #[WebBug]
 127.0.0.1 track.hulu.com
 127.0.0.1 track.iafov.com
 127.0.0.1 track.icheck.com.vn
@@ -82503,7 +82180,6 @@ Made by xiaobeita
 127.0.0.1 tracking.carprices.com
 127.0.0.1 tracking.cat898.com
 127.0.0.1 tracking.cdiscount.com
-127.0.0.1 tracking.cdiscount.com  #[WebBug]
 127.0.0.1 tracking.chacha.com
 127.0.0.1 tracking.chartboost.com
 127.0.0.1 tracking.chooserocket.com
@@ -83116,7 +82792,6 @@ Made by xiaobeita
 127.0.0.1 treventuresonline.com
 127.0.0.1 trfmxt.com
 127.0.0.1 trg.peer39.net
-127.0.0.1 trg.peer39.net  #[PrivacyChoice.Tracker]
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 trgjzt.cn
 127.0.0.1 trhunt.com
@@ -83132,9 +82807,7 @@ Made by xiaobeita
 127.0.0.1 triangle.dealsaver.com
 127.0.0.1 triangleservicesltd.com
 127.0.0.1 tribal.us.intellitxt.com
-127.0.0.1 tribal.us.intellitxt.com  # vibrantmedia.com
 127.0.0.1 tribalfusion.com
-127.0.0.1 tribalfusion.com  #[Tracking.Cookie]
 127.0.0.1 tribalfusion.net
 127.0.0.1 tribalfusion.speedera.net
 127.0.0.1 tribeca.vidavee.com
@@ -83720,7 +83393,6 @@ Made by xiaobeita
 127.0.0.1 twc.demdex.net
 127.0.0.1 twcczhu.com
 127.0.0.1 twci.coremetrics.com
-127.0.0.1 twci.coremetrics.com  #[Tracking.Cookie]
 127.0.0.1 twctsg.122.2o7.net
 127.0.0.1 tweaks.us.intellitxt.com
 127.0.0.1 tweaktown.us.intellitxt.com
@@ -84066,9 +83738,7 @@ Made by xiaobeita
 127.0.0.1 udjfnbl.zwdu.com
 127.0.0.1 udm.ia6.scorecardresearch.com
 127.0.0.1 udm.ia7.scorecardresearch.com
-127.0.0.1 udm.ia8.scorecardresearch.com  #[Microsoft Mahjong]
 127.0.0.1 udm.ia9.scorecardresearch.com
-127.0.0.1 udm.ri1.scorecardresearch.com  #[Microsoft Mahjong]
 127.0.0.1 udm.ri2.scorecardresearch.com
 127.0.0.1 udm.ri3.scorecardresearch.com
 127.0.0.1 udm.ri4.scorecardresearch.com
@@ -84076,7 +83746,6 @@ Made by xiaobeita
 127.0.0.1 udm.ri6.scorecardresearch.com
 127.0.0.1 udm.ri7.scorecardresearch.com
 127.0.0.1 udm.ri8.scorecardresearch.com
-127.0.0.1 udm.ri9.scorecardresearch.com  #[Microsoft Mahjong]
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 udmserve.net
 127.0.0.1 udn-d.openx.net
@@ -84492,7 +84161,6 @@ Made by xiaobeita
 127.0.0.1 up.ksbao.com
 127.0.0.1 up.mykings.pw
 127.0.0.1 up.nytimes.com
-127.0.0.1 up.nytimes.com  #[WebBug][About.com]
 127.0.0.1 up.pplive.com
 127.0.0.1 up.qingdaonews.com
 127.0.0.1 up.sharesdk.cn
@@ -85184,7 +84852,6 @@ Made by xiaobeita
 127.0.0.1 v10.vortex-win.data.microsft.com
 127.0.0.1 v10.vortex-win.data.microsoft.com
 127.0.0.1 v10.xmlsearch.miva.com
-127.0.0.1 v10.xmlsearch.miva.com  #[Adware.Zeno]
 127.0.0.1 v10c.events.data.microsoft.com
 127.0.0.1 v11.cnzz.com
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
@@ -85529,7 +85196,6 @@ Made by xiaobeita
 127.0.0.1 vdax.youzu.com
 127.0.0.1 vdcci.adsame.com
 127.0.0.1 vdhu.com
-127.0.0.1 vdhu.com  #[Spamdexing.Codec]
 127.0.0.1 vdinfo.baofeng.com
 127.0.0.1 vdlayer.videodeals.com
 127.0.0.1 vdlbova.pl
@@ -85964,7 +85630,6 @@ Made by xiaobeita
 127.0.0.1 videos.fleshlight.com
 127.0.0.1 videos.myspace.com
 127.0.0.1 videos.sexe.live.free.fr
-127.0.0.1 videos.twitter.secure-logins01.com  # twitter worm (http://mashable.com/2009/09/23/twitter-worm-dms/)
 127.0.0.1 videos.video-loader.com
 127.0.0.1 videos2stars.com
 127.0.0.1 videos666.com
@@ -86600,9 +86265,7 @@ Made by xiaobeita
 127.0.0.1 visit.digidip.net
 127.0.0.1 visit.mobot.net
 127.0.0.1 visit.theglobeandmail.com
-127.0.0.1 visit.theglobeandmail.com  # Visits to theglobeandmail.com
 127.0.0.1 visit.webhosting.yahoo.com
-127.0.0.1 visit.webhosting.yahoo.com  #[WebBug]
 127.0.0.1 visitbox.de
 127.0.0.1 visitor-service-ap-northeast-1.tealiumiq.com
 127.0.0.1 visitor-service-ap-southeast-2.tealiumiq.com
@@ -87896,15 +87559,12 @@ Made by xiaobeita
 127.0.0.1 web-sensations.com
 127.0.0.1 web-sex-cam.de
 127.0.0.1 web-stat.com
-127.0.0.1 web-stat.com  #[Tracking.Cookie]
-127.0.0.1 web-t.9gag.com  #[Piwik.Analytics]
 127.0.0.1 web-track.go2yd.com
 127.0.0.1 web.11h5.com
 127.0.0.1 web.51.la
 127.0.0.1 web.53.localytics.com
 127.0.0.1 web.6dad.com
 127.0.0.1 web.acumenpi.com
-127.0.0.1 web.acumenpi.com  #[AdvertPro]
 127.0.0.1 web.adblade.com
 127.0.0.1 web.adknowledge.com
 127.0.0.1 web.adriver.ru
@@ -87916,7 +87576,6 @@ Made by xiaobeita
 127.0.0.1 web.btncdn.com
 127.0.0.1 web.cellfun.mobi
 127.0.0.1 web.checkm8.com
-127.0.0.1 web.checkm8.com  #[CHECKM8 AD TAGS]
 127.0.0.1 web.chenwen7788.com
 127.0.0.1 web.da.mgtv.com
 127.0.0.1 web.data.pplive.com
@@ -87945,7 +87604,6 @@ Made by xiaobeita
 127.0.0.1 web.unltd.info
 127.0.0.1 web.users.51.la
 127.0.0.1 web.vindicosuite.com
-127.0.0.1 web.vindicosuite.com  #[WebBug]
 127.0.0.1 web.vortex.data.microsoft.com
 127.0.0.1 web.whatsapp.com
 127.0.0.1 web.yuppipuppy.com
@@ -87995,7 +87653,6 @@ Made by xiaobeita
 127.0.0.1 webbizwild.com
 127.0.0.1 webbookmakers.com
 127.0.0.1 webbr.goforandroid.com
-127.0.0.1 webbug.seatreport.com  # web bugs
 127.0.0.1 webcam-888.com
 127.0.0.1 webcam-amateurs.com
 127.0.0.1 webcam-girls.pornobilder-kostenlos.com
@@ -88051,7 +87708,6 @@ Made by xiaobeita
 127.0.0.1 webcashmaker.com
 127.0.0.1 webclick.yeshj.com
 127.0.0.1 webclients.net
-127.0.0.1 webclients.net  #[Webclients Ad Network]
 127.0.0.1 webcodau.mangoads.vn
 127.0.0.1 webcom-software.ws
 127.0.0.1 webcompteur.com
@@ -88208,7 +87864,6 @@ Made by xiaobeita
 127.0.0.1 webstatistik.odav.de
 127.0.0.1 webstats.adspaces.ero-advertising.com
 127.0.0.1 webstats.eco.de
-127.0.0.1 webstats.eco.de  #[Piwik.Analytics]
 127.0.0.1 webstats.motigo.com
 127.0.0.1 webstats.oanda.com
 127.0.0.1 webstats.perfectworld.com
@@ -88258,7 +87913,6 @@ Made by xiaobeita
 127.0.0.1 webtrends.yccdn.com
 127.0.0.1 webtrends1.britishgas.co.uk
 127.0.0.1 webtrendslive.com
-127.0.0.1 webtrendslive.com  #[SmartSource Data Collector]
 127.0.0.1 webuser.uk.intellitxt.com
 127.0.0.1 webuysupplystore.mooo.com
 127.0.0.1 webuytraffic.com
@@ -88515,7 +88169,6 @@ Made by xiaobeita
 127.0.0.1 whoretodaygonetomorrow.com
 127.0.0.1 whoroaza.com
 127.0.0.1 whos.amung.us
-127.0.0.1 whos.amung.us  #[WebBug]
 127.0.0.1 whoson.smcorp.com
 127.0.0.1 whosread.com
 127.0.0.1 whu.cwpush.com
@@ -88744,7 +88397,6 @@ Made by xiaobeita
 127.0.0.1 winmasters.com
 127.0.0.1 winmatrix.us.intellitxt.com
 127.0.0.1 winmpmain.112.2o7.net
-127.0.0.1 winmpmain.112.2o7.net  #[Windows MarketPlace]
 127.0.0.1 winner.giftprizewinner.com
 127.0.0.1 winneronline.com
 127.0.0.1 winningdemocrats.com
@@ -89306,7 +88958,6 @@ Made by xiaobeita
 127.0.0.1 wt.logmein.com
 127.0.0.1 wt.neton-line.com
 127.0.0.1 wt.o.nytimes.com
-127.0.0.1 wt.o.nytimes.com  #[WebBug]
 127.0.0.1 wt.sexsearch.com
 127.0.0.1 wt.sexsearchcom.com
 127.0.0.1 wt.socialsex.biz
@@ -89340,7 +88991,6 @@ Made by xiaobeita
 127.0.0.1 wtrs.101com.com
 127.0.0.1 wts.sexrouter.net
 127.0.0.1 wtsdc.worldnow.com
-127.0.0.1 wtsdc.worldnow.com  #[WebTrends]
 127.0.0.1 wtvertnet.com
 127.0.0.1 wu.adonweb.ru
 127.0.0.1 wu.dbwmjj.com
@@ -89960,7 +89610,6 @@ Made by xiaobeita
 127.0.0.1 www.3arabporn.com
 127.0.0.1 www.3at3ot.com
 127.0.0.1 www.3bsoftware.com
-127.0.0.1 www.3bsoftware.com  #[Spyware Protection Pro]
 127.0.0.1 www.3dbadgirls.com
 127.0.0.1 www.3deepspace.com
 127.0.0.1 www.3difx.com
@@ -90034,7 +89683,6 @@ Made by xiaobeita
 127.0.0.1 www.4qsurvey.com
 127.0.0.1 www.4sex4.com
 127.0.0.1 www.4sexwebcams.com
-127.0.0.1 www.4shared.com  #[Adware.4SharedDesktop]
 127.0.0.1 www.4shoes.pl
 127.0.0.1 www.4skype.pl
 127.0.0.1 www.4thmedia.org
@@ -90238,7 +89886,6 @@ Made by xiaobeita
 127.0.0.1 www.7metasearch.com
 127.0.0.1 www.7minuteworkout.com
 127.0.0.1 www.7search.com
-127.0.0.1 www.7search.com  #[Spyware.SevenSearch]
 127.0.0.1 www.7tools.eu
 127.0.0.1 www.7virgin.com
 127.0.0.1 www.7zip.fr
@@ -90493,7 +90140,6 @@ Made by xiaobeita
 127.0.0.1 www.acompanhantesluxo.com
 127.0.0.1 www.acompanhantesmadeira.com
 127.0.0.1 www.acompanhantez.com
-127.0.0.1 www.aconcagua2010.pl #$all
 127.0.0.1 www.acontrario.pl
 127.0.0.1 www.acotrk.com
 127.0.0.1 www.acquinityinteractive.com
@@ -90528,7 +90174,6 @@ Made by xiaobeita
 127.0.0.1 www.ad-clix.com
 127.0.0.1 www.ad-cloud.jp
 127.0.0.1 www.ad-groups.com
-127.0.0.1 www.ad-groups.com  #[Ban Man Pro Banner Code]
 127.0.0.1 www.ad-guru.com
 127.0.0.1 www.ad-host.com
 127.0.0.1 www.ad-lister.co.uk
@@ -90735,7 +90380,6 @@ Made by xiaobeita
 127.0.0.1 www.adjunky.com
 127.0.0.1 www.adk2x.com
 127.0.0.1 www.adlandpro.com
-127.0.0.1 www.adlandpro.com  #[Tracking.Cookie]
 127.0.0.1 www.adlead.com
 127.0.0.1 www.adlimg03.com
 127.0.0.1 www.adlimg05.com
@@ -90758,7 +90402,6 @@ Made by xiaobeita
 127.0.0.1 www.admin.iesnare.co.uk
 127.0.0.1 www.admin.iesnare.com
 127.0.0.1 www.adminder.com
-127.0.0.1 www.adminder.com  #[Tracking.Cookie]
 127.0.0.1 www.admiralspot.com
 127.0.0.1 www.admitad.com
 127.0.0.1 www.admixxer.com
@@ -90776,7 +90419,6 @@ Made by xiaobeita
 127.0.0.1 www.adobe.5v.pl
 127.0.0.1 www.adobee.com
 127.0.0.1 www.adobetag.com
-127.0.0.1 www.adobetag.com  #[SiteCatalyst Link Tracking]
 127.0.0.1 www.adobur.com
 127.0.0.1 www.adocean.pl
 127.0.0.1 www.adonnetwork.com
@@ -90999,7 +90641,6 @@ Made by xiaobeita
 127.0.0.1 www.adultfreex.com
 127.0.0.1 www.adultfriendfiender.com
 127.0.0.1 www.adultfriendfinder.com
-127.0.0.1 www.adultfriendfinder.com  #[Troj/Small-AG][Adware-Adroar.dll]
 127.0.0.1 www.adultfriendfinders.com
 127.0.0.1 www.adultfriendfinders.net
 127.0.0.1 www.adultfriendfinders.us
@@ -91079,7 +90720,6 @@ Made by xiaobeita
 127.0.0.1 www.adwarealert.com
 127.0.0.1 www.adwareprofessional.com
 127.0.0.1 www.adwarespy.com
-127.0.0.1 www.adwarespy.com  #[Symantec.AdwareSpy]
 127.0.0.1 www.adwhirl.com
 127.0.0.1 www.adwidecenter.com
 127.0.0.1 www.adwo.com
@@ -91316,7 +90956,6 @@ Made by xiaobeita
 127.0.0.1 www.allgaybdsm.com
 127.0.0.1 www.allhorseracing.ag
 127.0.0.1 www.allhotcams.com
-127.0.0.1 www.allhqpics.com  # Facebook trojan
 127.0.0.1 www.alliance4media.com
 127.0.0.1 www.allianzloans.com
 127.0.0.1 www.allinternal.com
@@ -91847,7 +91486,6 @@ Made by xiaobeita
 127.0.0.1 www.aplikacjaemuia.pl
 127.0.0.1 www.aplsolutionsonline.com
 127.0.0.1 www.apmebf.com
-127.0.0.1 www.apmebf.com  #[Tracking.Cookie]
 127.0.0.1 www.apo.ero-advertising.com
 127.0.0.1 www.apollobet.com
 127.0.0.1 www.apornmovie.com
@@ -91864,7 +91502,6 @@ Made by xiaobeita
 127.0.0.1 www.appdriver.cn
 127.0.0.1 www.appdriver.com.cn
 127.0.0.1 www.appfh.com
-127.0.0.1 www.appfindr.org  #[Riskware/PUP]
 127.0.0.1 www.appflood.com
 127.0.0.1 www.appfox.org
 127.0.0.1 www.appia.com
@@ -91888,7 +91525,6 @@ Made by xiaobeita
 127.0.0.1 www.applelounge.com
 127.0.0.1 www.appleprotection.org
 127.0.0.1 www.applequan.com
-127.0.0.1 www.applicationsdeliveryupdate.com  #[Win32/InstallCore]
 127.0.0.1 www.applicationunificationcontroller.com
 127.0.0.1 www.applicationwiki.com
 127.0.0.1 www.appliedsemantics.com
@@ -91900,7 +91536,6 @@ Made by xiaobeita
 127.0.0.1 www.appnexus.com
 127.0.0.1 www.appodealx.com
 127.0.0.1 www.apponic.com
-127.0.0.1 www.apponic.com  #[Win32/InstallCore.NR]
 127.0.0.1 www.apps-infor.com
 127.0.0.1 www.apps.co.pl
 127.0.0.1 www.apps.id.net
@@ -92069,7 +91704,6 @@ Made by xiaobeita
 127.0.0.1 www.atcofiles.com
 127.0.0.1 www.atcryp.com
 127.0.0.1 www.atdmt.com
-127.0.0.1 www.atdmt.com  #[AveA Action Tag]
 127.0.0.1 www.ateentube.tv
 127.0.0.1 www.atemda.com
 127.0.0.1 www.ateneum-nieruchomosci.pl
@@ -92401,7 +92035,6 @@ Made by xiaobeita
 127.0.0.1 www.banvar.com
 127.0.0.1 www.bar.hit-counter.udub.com
 127.0.0.1 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
-127.0.0.1 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net  # In spam
 127.0.0.1 www.barbadoscasino.com
 127.0.0.1 www.barbaruivo.tumblr.com
 127.0.0.1 www.barcaacademyistanbul.com
@@ -92549,7 +92182,6 @@ Made by xiaobeita
 127.0.0.1 www.bestdateshere22.com
 127.0.0.1 www.bestecasino.com
 127.0.0.1 www.besteffinggifs.tumblr.com
-127.0.0.1 www.bestfactorydelivery.com  #[Win32/InstallCore]
 127.0.0.1 www.bestfollowers.org
 127.0.0.1 www.bestgore.com
 127.0.0.1 www.besthitsnow.com
@@ -92868,7 +92500,6 @@ Made by xiaobeita
 127.0.0.1 www.bitraffic.com
 127.0.0.1 www.bitroll.com
 127.0.0.1 www.bitsaloon.com
-127.0.0.1 www.bitspresentdownload.com  #[Riskware/PUP]
 127.0.0.1 www.bitsumactivationserver.com
 127.0.0.1 www.bitterstrawberry.com
 127.0.0.1 www.bitvisitor.com
@@ -92995,7 +92626,6 @@ Made by xiaobeita
 127.0.0.1 www.bmfoto.pl
 127.0.0.1 www.bmgrp.tk
 127.0.0.1 www.bmmetrix.com
-127.0.0.1 www.bmmetrix.com  #[WebBug][Tracking.Cookie]
 127.0.0.1 www.bmstudiourody.pl
 127.0.0.1 www.bmwklubbydgoszcz.pl
 127.0.0.1 www.bn.premiumhdv.com
@@ -93258,7 +92888,6 @@ Made by xiaobeita
 127.0.0.1 www.bunchafreepics.com
 127.0.0.1 www.bunclok.pl
 127.0.0.1 www.bundic.me.uk
-127.0.0.1 www.bundlerepositorycontent.com  #[Riskware/PUP]
 127.0.0.1 www.bunny-net.com
 127.0.0.1 www.bunnyteensmovies.com
 127.0.0.1 www.burningangel.com
@@ -93551,7 +93180,6 @@ Made by xiaobeita
 127.0.0.1 www.casinostugan.com
 127.0.0.1 www.casinotown.se
 127.0.0.1 www.casinotropez.com
-127.0.0.1 www.casinotropez.com  #[Tracking.Cookie]
 127.0.0.1 www.casinsi.com
 127.0.0.1 www.cassies-classy-lassies.thumblogger.com
 127.0.0.1 www.cassovia.sk
@@ -93653,7 +93281,6 @@ Made by xiaobeita
 127.0.0.1 www.centerforsecuritypolicy.org
 127.0.0.1 www.centertrk.com
 127.0.0.1 www.centervillage.co.jp
-127.0.0.1 www.centralsignnew.com  #[Riskware/PUP]
 127.0.0.1 www.centralwestwater.com.au
 127.0.0.1 www.centrebet.com
 127.0.0.1 www.centrolinguisticorobert.com
@@ -93748,7 +93375,6 @@ Made by xiaobeita
 127.0.0.1 www.cheersuki.net
 127.0.0.1 www.chefeladlevi.com
 127.0.0.1 www.cheggit.me
-127.0.0.1 www.chelick.net  # Facebook trojan
 127.0.0.1 www.chemdraw.com
 127.0.0.1 www.chemdraw.com.cn
 127.0.0.1 www.chenggao.cn
@@ -93810,7 +93436,6 @@ Made by xiaobeita
 127.0.0.1 www.chubby-teen.com
 127.0.0.1 www.chuckbutyonline.pl
 127.0.0.1 www.chuckfaganco.com
-127.0.0.1 www.chucklefunhead.com  #[Riskware/PUP]
 127.0.0.1 www.chucktaylor.pl
 127.0.0.1 www.chudykucharz.pl
 127.0.0.1 www.chufengep.com
@@ -93952,7 +93577,6 @@ Made by xiaobeita
 127.0.0.1 www.clicksor.com
 127.0.0.1 www.clicksor.net
 127.0.0.1 www.clicksotrk.com
-127.0.0.1 www.clickspring.net  #used by a spyware product called PurityScan
 127.0.0.1 www.clicksurecpa.com
 127.0.0.1 www.clicktale.com
 127.0.0.1 www.clicktale.net
@@ -94156,7 +93780,6 @@ Made by xiaobeita
 127.0.0.1 www.commercialclientsgroup.ru
 127.0.0.1 www.commetvidsnow.com
 127.0.0.1 www.commission-junction.com
-127.0.0.1 www.commission-junction.com  #[Tracking.Cookie]
 127.0.0.1 www.commissionempire.com
 127.0.0.1 www.commissionmonster.com
 127.0.0.1 www.commonssearch.com
@@ -94290,7 +93913,6 @@ Made by xiaobeita
 127.0.0.1 www.count.im
 127.0.0.1 www.count24.de
 127.0.0.1 www.counter-gratis.com
-127.0.0.1 www.counter-gratis.com  #[Tracking.Cookie]
 127.0.0.1 www.counter-kostenlos.net
 127.0.0.1 www.counter.adultrevenueservice.com
 127.0.0.1 www.counter.bloke.com
@@ -94382,7 +94004,6 @@ Made by xiaobeita
 127.0.0.1 www.cqsta.com
 127.0.0.1 www.cracks.vg
 127.0.0.1 www.crackserver.com
-127.0.0.1 www.crackserver.com  #[StopBadware.Report]
 127.0.0.1 www.crackspider.net
 127.0.0.1 www.cracksplanet.com
 127.0.0.1 www.crackway.com
@@ -94563,7 +94184,6 @@ Made by xiaobeita
 127.0.0.1 www.cupcakebingo.co.uk
 127.0.0.1 www.cupcakebingo.com
 127.0.0.1 www.cupofsingles.com
-127.0.0.1 www.currentupdateconcepts.com  #[Riskware/PUP]
 127.0.0.1 www.curvyangel.com
 127.0.0.1 www.curvyerotic.com
 127.0.0.1 www.customads.net
@@ -94759,7 +94379,6 @@ Made by xiaobeita
 127.0.0.1 www.datablish.org
 127.0.0.1 www.datacollect.vmall.com
 127.0.0.1 www.dataforce.net
-127.0.0.1 www.dataforce.net  #[Spamdexing]
 127.0.0.1 www.datanotary.com
 127.0.0.1 www.datapolish.com
 127.0.0.1 www.datasecu.download
@@ -94938,7 +94557,6 @@ Made by xiaobeita
 127.0.0.1 www.diffusionpub.com
 127.0.0.1 www.digalovski.pl
 127.0.0.1 www.digiaquascr.com
-127.0.0.1 www.digiaquascr.com  #[AdWare.Win32.iBryte.jda]
 127.0.0.1 www.digibet.com
 127.0.0.1 www.digicert.com
 127.0.0.1 www.digimedia.com
@@ -95869,7 +95487,6 @@ Made by xiaobeita
 127.0.0.1 www.expedia.com.hk
 127.0.0.1 www.expekt.com
 127.0.0.1 www.experclick.com
-127.0.0.1 www.experclick.com  #[Tracking.Cookie]
 127.0.0.1 www.expert-offers.com
 127.0.0.1 www.expertadvisor.pl
 127.0.0.1 www.expoindex.pl
@@ -96195,7 +95812,6 @@ Made by xiaobeita
 127.0.0.1 www.fhgfffdsf9.appspot.com
 127.0.0.1 www.fhgstzgrdhkah.bid
 127.0.0.1 www.fhserve.com
-127.0.0.1 www.fhserve.com  #[OpenX]
 127.0.0.1 www.fhusebo.pl
 127.0.0.1 www.fickads.net
 127.0.0.1 www.ficken-ficken-ficken.cxa.de
@@ -96220,7 +95836,6 @@ Made by xiaobeita
 127.0.0.1 www.filebay.org
 127.0.0.1 www.filecm.net
 127.0.0.1 www.filecom.net
-127.0.0.1 www.fileconvertertab.com  #[PUA.FileConvTab]
 127.0.0.1 www.fileconvertpro.co
 127.0.0.1 www.filediva.com
 127.0.0.1 www.filedownloader.pl
@@ -96621,7 +96236,6 @@ Made by xiaobeita
 127.0.0.1 www.freedesignerhandbagreviews.com
 127.0.0.1 www.freedinnersource.com
 127.0.0.1 www.freedownloadzone.com
-127.0.0.1 www.freedownloadzone.com  #[ScamFraudAlert]
 127.0.0.1 www.freedvddept.com
 127.0.0.1 www.freeelectronicscenter.com
 127.0.0.1 www.freeelectronicsdepot.com
@@ -96669,7 +96283,6 @@ Made by xiaobeita
 127.0.0.1 www.freeminecraftgiftcode.net
 127.0.0.1 www.freenation.com
 127.0.0.1 www.freenew.net
-127.0.0.1 www.freenew.net  #[Win32/FreeNew.B]
 127.0.0.1 www.freeoffers-toys.com
 127.0.0.1 www.freeones.co.cr
 127.0.0.1 www.freeones.com
@@ -96965,7 +96578,6 @@ Made by xiaobeita
 127.0.0.1 www.gamemine.com
 127.0.0.1 www.gameofporn.net
 127.0.0.1 www.gameplaylabs.com
-127.0.0.1 www.gameplaylabs.com  #[Adware:Win32/GamePlayLabs]
 127.0.0.1 www.gamepor.com
 127.0.0.1 www.gamerjackpot.com
 127.0.0.1 www.gamersblast.com
@@ -97179,7 +96791,6 @@ Made by xiaobeita
 127.0.0.1 www.giftcardchallenge.com
 127.0.0.1 www.giftcardsurveys.us.com
 127.0.0.1 www.giftdomain.site
-127.0.0.1 www.giftfunnew.com  #[Riskware/PUP]
 127.0.0.1 www.giftprizewinner.com
 127.0.0.1 www.giftrewardzone.com
 127.0.0.1 www.gifts-flowers-rewardpath.com
@@ -97314,7 +96925,6 @@ Made by xiaobeita
 127.0.0.1 www.goat.cx
 127.0.0.1 www.goatse.bz
 127.0.0.1 www.goatse.ca
-127.0.0.1 www.goatse.cx  # these can be found in this article
 127.0.0.1 www.goatse.ru
 127.0.0.1 www.goatsegirl.org
 127.0.0.1 www.gobdsm.com
@@ -97366,7 +96976,6 @@ Made by xiaobeita
 127.0.0.1 www.goody-garage.com
 127.0.0.1 www.googkle.com
 127.0.0.1 www.google-analytics.com
-127.0.0.1 www.google-analytics.com  #[affects Google Trends]
 127.0.0.1 www.google-docs.info
 127.0.0.1 www.google-docs.org
 127.0.0.1 www.google.ad
@@ -98187,7 +97796,6 @@ Made by xiaobeita
 127.0.0.1 www.hugeboobsgalore.com
 127.0.0.1 www.hugecockshotgirls.tumblr.com
 127.0.0.1 www.hugedomains.com
-127.0.0.1 www.hugedomains.com  #[Parking Service]
 127.0.0.1 www.hugetraffic.com
 127.0.0.1 www.hughesbet.com
 127.0.0.1 www.hughsangels.proboards27.com
@@ -98241,7 +97849,6 @@ Made by xiaobeita
 127.0.0.1 www.hyperspace-network.com
 127.0.0.1 www.hyperspacenetwork.com
 127.0.0.1 www.hypertracker.com
-127.0.0.1 www.hypertracker.com  #[Tracking.Cookie]
 127.0.0.1 www.hypno-fetish.com
 127.0.0.1 www.hypnohub.com
 127.0.0.1 www.hypnopics-collective.net
@@ -98267,7 +97874,6 @@ Made by xiaobeita
 127.0.0.1 www.i-want-to-fuckyou.tumblr.com
 127.0.0.1 www.i-xzone.com
 127.0.0.1 www.i.matheranalytics.com
-127.0.0.1 www.i.matheranalytics.com  #[WebBug]
 127.0.0.1 www.i1236.net
 127.0.0.1 www.i2px.com
 127.0.0.1 www.i32689.net
@@ -98329,7 +97935,6 @@ Made by xiaobeita
 127.0.0.1 www.ientrymail.com
 127.0.0.1 www.ientrynetwork.net
 127.0.0.1 www.iesnare.co.uk
-127.0.0.1 www.iesnare.com  # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 127.0.0.1 www.if-sheknows.info
 127.0.0.1 www.ifactsviral.com
 127.0.0.1 www.ifileyou.com
@@ -98538,7 +98143,6 @@ Made by xiaobeita
 127.0.0.1 www.insideangels.forumcommunity.net
 127.0.0.1 www.insideevilangel.com
 127.0.0.1 www.insightexpress.com
-127.0.0.1 www.insightexpress.com  #[Lavasoft.BannedSite]
 127.0.0.1 www.insightexpresserdd.com
 127.0.0.1 www.inskinad.com
 127.0.0.1 www.inspectlet.com
@@ -98566,7 +98170,6 @@ Made by xiaobeita
 127.0.0.1 www.intelatracking.net
 127.0.0.1 www.inteletrack.com
 127.0.0.1 www.intelli-direct.com
-127.0.0.1 www.intelli-direct.com  #[WebBug]
 127.0.0.1 www.intelli-tracker.com
 127.0.0.1 www.intellicampaign.com
 127.0.0.1 www.intellicontact.com
@@ -98576,7 +98179,6 @@ Made by xiaobeita
 127.0.0.1 www.intellitxt.com
 127.0.0.1 www.intera-x.com
 127.0.0.1 www.interactivebrands.com
-127.0.0.1 www.interactivebrands.com  #[SpyEraser]
 127.0.0.1 www.interapostas.com
 127.0.0.1 www.interbet.co.za
 127.0.0.1 www.intercasino.com
@@ -98697,7 +98299,6 @@ Made by xiaobeita
 127.0.0.1 www.italianonfiction.pl
 127.0.0.1 www.itcity.pl
 127.0.0.1 www.itcompany.com
-127.0.0.1 www.itcompany.com  #[Riskware/PUP]
 127.0.0.1 www.ithinkthatshot.com
 127.0.0.1 www.itkompleks.pl
 127.0.0.1 www.itmcash.com
@@ -99413,7 +99014,6 @@ Made by xiaobeita
 127.0.0.1 www.komatireddy.net
 127.0.0.1 www.kometal.pl
 127.0.0.1 www.komodia.com
-127.0.0.1 www.komodia.com  #[Security.Certificate.Alert]
 127.0.0.1 www.komorniik24.com
 127.0.0.1 www.komornik-gov.com
 127.0.0.1 www.komornik-gov24.com
@@ -99819,11 +99419,7 @@ Made by xiaobeita
 127.0.0.1 www.lijianhui.vip
 127.0.0.1 www.lijit.com
 127.0.0.1 www.likebtn.com
-127.0.0.1 www.likeportal.com  # Facebook trojan
-127.0.0.1 www.likespike.com  # Facebook trojan
 127.0.0.1 www.likethis.mbosoft.com
-127.0.0.1 www.likethis.mbosoft.com  # Facebook trojan
-127.0.0.1 www.likethislist.biz  # Facebook trojan
 127.0.0.1 www.lilangels4u.50megs.com
 127.0.0.1 www.lilbabes.com
 127.0.0.1 www.lilcdub2500.tumblr.com
@@ -100005,7 +99601,6 @@ Made by xiaobeita
 127.0.0.1 www.lollypopeauthor.tumblr.com
 127.0.0.1 www.lolshock.com
 127.0.0.1 www.loltrain.com
-127.0.0.1 www.lomalindasda.org  # Facebook trojan
 127.0.0.1 www.lommi.pl
 127.0.0.1 www.lomniczanie.pl
 127.0.0.1 www.lomzynskie.pl
@@ -100219,7 +99814,6 @@ Made by xiaobeita
 127.0.0.1 www.lyztdz.com
 127.0.0.1 www.lzcei.com
 127.0.0.1 www.lzjl.com
-127.0.0.1 www.lzjl.com  #[PaypopUp]
 127.0.0.1 www.m-99.co.uk
 127.0.0.1 www.m-aeti-bocieva.info
 127.0.0.1 www.m-barati.de
@@ -100592,7 +100186,6 @@ Made by xiaobeita
 127.0.0.1 www.megadown.net
 127.0.0.1 www.megadown.us
 127.0.0.1 www.megadownloader.co
-127.0.0.1 www.megagiftcity.com  #[Riskware/PUP]
 127.0.0.1 www.megalotto.pl
 127.0.0.1 www.megamieszkania.pl
 127.0.0.1 www.megaporn.blogspot.es
@@ -100646,7 +100239,6 @@ Made by xiaobeita
 127.0.0.1 www.merryangels.info
 127.0.0.1 www.merryholidays.org
 127.0.0.1 www.meshbean.com
-127.0.0.1 www.messagetag.com  #[Email tracker]
 127.0.0.1 www.messyandgaping.tumblr.com
 127.0.0.1 www.metaankieta.pl
 127.0.0.1 www.metacount.com
@@ -100656,7 +100248,6 @@ Made by xiaobeita
 127.0.0.1 www.metametallic.tumblr.com
 127.0.0.1 www.metangels.com
 127.0.0.1 www.metaporn.com
-127.0.0.1 www.metareward.com  # web bugs in spam
 127.0.0.1 www.metavertising.com
 127.0.0.1 www.metecrawler.com
 127.0.0.1 www.methodcasino2015.com
@@ -101239,7 +100830,6 @@ Made by xiaobeita
 127.0.0.1 www.myjustyworld.pl
 127.0.0.1 www.mykindosexy.tumblr.com
 127.0.0.1 www.mylesbogf.com
-127.0.0.1 www.mylike.co.uk  # Facebook trojan
 127.0.0.1 www.mylotto.co.nz
 127.0.0.1 www.mylottoadserv.com
 127.0.0.1 www.mylovecards.com
@@ -101268,7 +100858,6 @@ Made by xiaobeita
 127.0.0.1 www.mysearch-engine.com
 127.0.0.1 www.mysearch-finder.com
 127.0.0.1 www.mysearch.com
-127.0.0.1 www.mysearch.com  #[ADW_MIWAY.B][ADWARE_BHO_MYWAY]
 127.0.0.1 www.myseostats.com
 127.0.0.1 www.mysexgames.com
 127.0.0.1 www.mysexpin.tumblr.com
@@ -101304,7 +100893,6 @@ Made by xiaobeita
 127.0.0.1 www.mywallart.pl
 127.0.0.1 www.myway.com
 127.0.0.1 www.mywebsearch.com
-127.0.0.1 www.mywebsearch.com  #[Ewido.Spyware.MyWebSearch]
 127.0.0.1 www.mywebstats.org
 127.0.0.1 www.mywetdreaminvolvedtits.tumblr.com
 127.0.0.1 www.myworld.com
@@ -102118,7 +101706,6 @@ Made by xiaobeita
 127.0.0.1 www.onelife.eu
 127.0.0.1 www.onelouder.com
 127.0.0.1 www.onemilliongifs.tumblr.com
-127.0.0.1 www.onesafe-software.com  #[ScamFraudAlert.Antispyware]
 127.0.0.1 www.oneshemale.com
 127.0.0.1 www.onestat.com
 127.0.0.1 www.onestatfree.com
@@ -102251,7 +101838,6 @@ Made by xiaobeita
 127.0.0.1 www.orientalangel.moonfruit.com
 127.0.0.1 www.orientalangelsmovs.com
 127.0.0.1 www.orientalvirgins.com
-127.0.0.1 www.originalicons.com  # installs IE extension
 127.0.0.1 www.originalindianporn.com
 127.0.0.1 www.originscheduler.com
 127.0.0.1 www.orion.iad.appboy.com
@@ -102260,7 +101846,6 @@ Made by xiaobeita
 127.0.0.1 www.orsm.net
 127.0.0.1 www.ortygdanskie.pl
 127.0.0.1 www.orzelprusice.pl
-127.0.0.1 www.os-downloads.com  #[Riskware/PUP]
 127.0.0.1 www.osaka69.com
 127.0.0.1 www.osexxx.com
 127.0.0.1 www.osiedlebrzechwy.com.pl
@@ -102518,7 +102103,6 @@ Made by xiaobeita
 127.0.0.1 www.peachy18.com
 127.0.0.1 www.peachyforum.com
 127.0.0.1 www.peakclick.com
-127.0.0.1 www.peakclick.com  #[AdWare.SideSearch.g][FindFmToolbar]
 127.0.0.1 www.pecadooriginal.pt
 127.0.0.1 www.pecadosexy.com
 127.0.0.1 www.pedalowaniezsensem.pl
@@ -103430,7 +103014,6 @@ Made by xiaobeita
 127.0.0.1 www.privatesangels.com
 127.0.0.1 www.privatewebcams.com
 127.0.0.1 www.privdog.com
-127.0.0.1 www.privdog.com  #[Security.Certificate.Alert]
 127.0.0.1 www.prizefestival.mobi
 127.0.0.1 www.prizelava.com
 127.0.0.1 www.prizes.co.uk
@@ -103469,7 +103052,6 @@ Made by xiaobeita
 127.0.0.1 www.profitsitesbiz.com
 127.0.0.1 www.profittravel.pl
 127.0.0.1 www.profitzone.com
-127.0.0.1 www.proflashdata.com  # Facebook trojan
 127.0.0.1 www.profolan.pl
 127.0.0.1 www.program3.com
 127.0.0.1 www.programdarmowy.pl
@@ -103721,7 +103303,6 @@ Made by xiaobeita
 127.0.0.1 www.qixiazi.com
 127.0.0.1 www.qiyou.com
 127.0.0.1 www.qksrv.net
-127.0.0.1 www.qksrv.net  #[Tracking.Cookie]
 127.0.0.1 www.qksz.net
 127.0.0.1 www.qlimatiq.pl
 127.0.0.1 www.qnappzb.com
@@ -103752,7 +103333,6 @@ Made by xiaobeita
 127.0.0.1 www.quangcaotructuyen247.com
 127.0.0.1 www.quantcount.com
 127.0.0.1 www.quantserve.com
-127.0.0.1 www.quantserve.com  #: Ad Tracking, JavaScript, etc.
 127.0.0.1 www.quareclk.com
 127.0.0.1 www.quartier-midi.be
 127.0.0.1 www.qubble.com
@@ -103765,7 +103345,6 @@ Made by xiaobeita
 127.0.0.1 www.quewebcams.com
 127.0.0.1 www.quick-eye.pl
 127.0.0.1 www.quick-torrent.com
-127.0.0.1 www.quickbitsdownloads.com  #[Riskware/PUP]
 127.0.0.1 www.quickbrowsersearch.com
 127.0.0.1 www.quickcash-system.com
 127.0.0.1 www.quickcreditscore.co.uk
@@ -103825,7 +103404,6 @@ Made by xiaobeita
 127.0.0.1 www.ramissio.com
 127.0.0.1 www.rampidads.com
 127.0.0.1 www.ran-maru.com
-127.0.0.1 www.ranchapptag.com  #[Riskware/PUP]
 127.0.0.1 www.ranczobojszowy.pl
 127.0.0.1 www.randewoo.ir
 127.0.0.1 www.randki-sex.com
@@ -103890,7 +103468,6 @@ Made by xiaobeita
 127.0.0.1 www.reactelement.pl
 127.0.0.1 www.readindiansexstories.com
 127.0.0.1 www.readnotify.com
-127.0.0.1 www.readnotify.com  #[Email Tracker]
 127.0.0.1 www.reaganlighting.com
 127.0.0.1 www.real-app.date
 127.0.0.1 www.real-marketing.com
@@ -104300,7 +103877,6 @@ Made by xiaobeita
 127.0.0.1 www.ruby-av.com
 127.0.0.1 www.rubyfortune.com
 127.0.0.1 www.ruclicks.com
-127.0.0.1 www.ruclicks.com  #[clicksagent.com]
 127.0.0.1 www.rude.com
 127.0.0.1 www.rudefuck.com
 127.0.0.1 www.rudeteenporn.com
@@ -104540,11 +104116,9 @@ Made by xiaobeita
 127.0.0.1 www.search.us.com
 127.0.0.1 www.search2007.info
 127.0.0.1 www.searchacross.com
-127.0.0.1 www.searchacross.com  #[Parking.Service.kolmic]
 127.0.0.1 www.searchacts.com
 127.0.0.1 www.searchadv.com
 127.0.0.1 www.searchanyway.com
-127.0.0.1 www.searchapps.me  #[Riskware/PUP]
 127.0.0.1 www.searchdiscovered.com
 127.0.0.1 www.searchebuy.com
 127.0.0.1 www.searchent.net
@@ -104558,7 +104132,6 @@ Made by xiaobeita
 127.0.0.1 www.searchlinear.com
 127.0.0.1 www.searchmachine.com
 127.0.0.1 www.searchmagna.com
-127.0.0.1 www.searchmagna.com  #[Spamdexing.Parking service]
 127.0.0.1 www.searchmagnified.com
 127.0.0.1 www.searchmaybe.com
 127.0.0.1 www.searchmeup.com
@@ -104593,7 +104166,6 @@ Made by xiaobeita
 127.0.0.1 www.secoptim.com
 127.0.0.1 www.secretaryofficesex.tumblr.com
 127.0.0.1 www.secretbehindporn.com
-127.0.0.1 www.secretbehindporn.com  #[ScamFraudAlert.Pharmacy]
 127.0.0.1 www.secretchina.com
 127.0.0.1 www.secretfriendswebcams.com
 127.0.0.1 www.secretlittle.com
@@ -104995,7 +104567,6 @@ Made by xiaobeita
 127.0.0.1 www.shihtzumaniak.pl
 127.0.0.1 www.shijiebei198.com
 127.0.0.1 www.shinden-anime.info
-127.0.0.1 www.shinilchurch.net  # domain was hacked and had a trojan installed
 127.0.0.1 www.shinoda-av.com
 127.0.0.1 www.shinyangels.com
 127.0.0.1 www.shinystat.com
@@ -105577,7 +105148,6 @@ Made by xiaobeita
 127.0.0.1 www.spunkysheets.com
 127.0.0.1 www.spwywloczka.pl
 127.0.0.1 www.spyarsenal.com
-127.0.0.1 www.spyarsenal.com  #[Spyware.DesktopSpy][Spyware.FamilyKeylog]
 127.0.0.1 www.spycash.biz
 127.0.0.1 www.spyderpolska.pl
 127.0.0.1 www.spylog.com
@@ -105754,7 +105324,6 @@ Made by xiaobeita
 127.0.0.1 www.storspelare.com
 127.0.0.1 www.storspiller.com
 127.0.0.1 www.story-maker.jp
-127.0.0.1 www.storygize.net  #[WebBug]
 127.0.0.1 www.stotom.pl
 127.0.0.1 www.stowarzyszeniesedziow.pl
 127.0.0.1 www.stowarzyszeniewkp.pl
@@ -106083,7 +105652,6 @@ Made by xiaobeita
 127.0.0.1 www.tadeuszgruszka.pl
 127.0.0.1 www.taffr.com
 127.0.0.1 www.tag4arm.com
-127.0.0.1 www.tag4arm.com  #[Piwik.Analytics]
 127.0.0.1 www.taggstar.com
 127.0.0.1 www.tagifydiageo.com
 127.0.0.1 www.tagjunction.com
@@ -106149,7 +105717,6 @@ Made by xiaobeita
 127.0.0.1 www.tastyangels.com
 127.0.0.1 www.tatagirls.com
 127.0.0.1 www.tatroscatering.com
-127.0.0.1 www.tattooshaha.info  # Facebook trojan
 127.0.0.1 www.tavelscape.com
 127.0.0.1 www.taxidrivermovie.com
 127.0.0.1 www.taxindecente.com
@@ -106378,7 +105945,6 @@ Made by xiaobeita
 127.0.0.1 www.thedailymash.co.uk
 127.0.0.1 www.thedailysheeple.com
 127.0.0.1 www.thedash.pt
-127.0.0.1 www.thedatesafe.com  # Facebook trojan
 127.0.0.1 www.thedatingconference.com
 127.0.0.1 www.thedepravedmanor.tumblr.com
 127.0.0.1 www.thedoujin.com
@@ -106779,7 +106345,6 @@ Made by xiaobeita
 127.0.0.1 www.toutoucao8.com
 127.0.0.1 www.toutoucao9.com
 127.0.0.1 www.towarzyskizamosc.pl
-127.0.0.1 www.town-net.jp #/post
 127.0.0.1 www.towncasino.com
 127.0.0.1 www.townhill.pl
 127.0.0.1 www.toxicjackpot.com
@@ -106866,7 +106431,6 @@ Made by xiaobeita
 127.0.0.1 www.trafficjuicer.com
 127.0.0.1 www.trafficjunky.net
 127.0.0.1 www.trafficmagnet.com
-127.0.0.1 www.trafficmagnet.net  # web bugs in spam
 127.0.0.1 www.trafficmonster.com
 127.0.0.1 www.trafficmp.com
 127.0.0.1 www.trafficnetworkads24.com
@@ -107307,7 +106871,6 @@ Made by xiaobeita
 127.0.0.1 www.upgradebasic.com
 127.0.0.1 www.upgradecheck12.thebestwaystofindreliablesoftwares.surf
 127.0.0.1 www.upgradeexplorer.com
-127.0.0.1 www.upi6.pillsstore-c.com  # Facebook trojan
 127.0.0.1 www.upornia.com
 127.0.0.1 www.uproar.com
 127.0.0.1 www.uprour.com
@@ -107452,7 +107015,6 @@ Made by xiaobeita
 127.0.0.1 www.vasco-group.eu
 127.0.0.1 www.vascoart.pl
 127.0.0.1 www.vasoccernews.com
-127.0.0.1 www.vaultsappsbyte.com  #[Riskware/PUP]
 127.0.0.1 www.vayavicio.com
 127.0.0.1 www.vb1rc5l52n.us
 127.0.0.1 www.vbet.com
@@ -107761,7 +107323,6 @@ Made by xiaobeita
 127.0.0.1 www.visit-tracker.com
 127.0.0.1 www.visitdetails.com
 127.0.0.1 www.visitor-track.com
-127.0.0.1 www.visitor-track.com  #[WebBug]
 127.0.0.1 www.visitorbarscript.com
 127.0.0.1 www.visitorpath.com
 127.0.0.1 www.visitorprofiler.com
@@ -108259,7 +107820,6 @@ Made by xiaobeita
 127.0.0.1 www.willysy.com
 127.0.0.1 www.wilsonbet.com
 127.0.0.1 www.win-spy.com
-127.0.0.1 www.win-spy.com  #[Spyware.WinSpy]
 127.0.0.1 www.win29.com
 127.0.0.1 www.win7affiliates.com
 127.0.0.1 www.winadiscount.com
@@ -109025,7 +108585,6 @@ Made by xiaobeita
 127.0.0.1 www.yporn.tv
 127.0.0.1 www.yqjxzw.com
 127.0.0.1 www.yrals.com
-127.0.0.1 www.yrals.com  #[WebBug]
 127.0.0.1 www.yrics.com
 127.0.0.1 www.ysporn.com
 127.0.0.1 www.ytaakk.angelfire.com
@@ -109125,7 +108684,6 @@ Made by xiaobeita
 127.0.0.1 www.zebrapozyczki.pl
 127.0.0.1 www.zedgalaxyplays.com
 127.0.0.1 www.zedo.com
-127.0.0.1 www.zedo.com  #[Adware.RaxSearch]
 127.0.0.1 www.zedoadnetwork.com
 127.0.0.1 www.zee.cws.conviva.com
 127.0.0.1 www.zejrzyj-zdjecia.bo.pl
@@ -109311,7 +108869,6 @@ Made by xiaobeita
 127.0.0.1 www1.freestats.com
 127.0.0.1 www1.gto-media.com
 127.0.0.1 www1.iwon.com
-127.0.0.1 www1.iwon.com  #[ADW_IWON.B]
 127.0.0.1 www1.jav555.net
 127.0.0.1 www1.keyrun.com
 127.0.0.1 www1.mpnrs.com
@@ -109386,7 +108943,6 @@ Made by xiaobeita
 127.0.0.1 www18.glam.com
 127.0.0.1 www18.moba8.net
 127.0.0.1 www18.officedepot.com
-127.0.0.1 www18.officedepot.com  #[WebBug.eluminate]
 127.0.0.1 www180.myway.com
 127.0.0.1 www181.superembed.com
 127.0.0.1 www19.a8.net
@@ -109501,11 +109057,9 @@ Made by xiaobeita
 127.0.0.1 www24a.glam.com
 127.0.0.1 www25.a8.net
 127.0.0.1 www25.bathandbodyworks.com
-127.0.0.1 www25.bathandbodyworks.com  #[WebBug.eluminate]
 127.0.0.1 www25.glam.com
 127.0.0.1 www25.moba8.net
 127.0.0.1 www25.victoriassecret.com
-127.0.0.1 www25.victoriassecret.com  #[WebBug.eluminate]
 127.0.0.1 www25a.glam.com
 127.0.0.1 www26.a8.net
 127.0.0.1 www26.moba8.net
@@ -109545,7 +109099,6 @@ Made by xiaobeita
 127.0.0.1 www3.javfun.me
 127.0.0.1 www3.kampanyatakip.net
 127.0.0.1 www3.macys.com
-127.0.0.1 www3.macys.com  #[WebBug.eluminate]
 127.0.0.1 www3.mpnrs.com
 127.0.0.1 www3.nationalgeographic.com
 127.0.0.1 www3.nuseek.com
@@ -109683,7 +109236,6 @@ Made by xiaobeita
 127.0.0.1 www9.ad.tomshardware.com
 127.0.0.1 www9.addfreestats.com
 127.0.0.1 www9.collectiblestoday.com
-127.0.0.1 www9.collectiblestoday.com  #[WebBug.eluminate]
 127.0.0.1 www9.compblue.com
 127.0.0.1 www9.counter.bloke.com
 127.0.0.1 www9.effectivemeasure.net
@@ -109920,7 +109472,6 @@ Made by xiaobeita
 127.0.0.1 x.hskj.net
 127.0.0.1 x.iasrv.com
 127.0.0.1 x.imwx.com
-127.0.0.1 x.imwx.com  #[content.pulse360.com]
 127.0.0.1 x.infzm.com
 127.0.0.1 x.innovid.com
 127.0.0.1 x.interia.pl
@@ -110053,11 +109604,8 @@ Made by xiaobeita
 127.0.0.1 xbp.code.weddingeeos.com
 127.0.0.1 xbridge.122.207.net
 127.0.0.1 xbs.mtree.com
-127.0.0.1 xbs.mtree.com  #[Troj/NSUpdate-A]
 127.0.0.1 xbs.pao.mtree.com
-127.0.0.1 xbs.pao.mtree.com  #[TROJ_DYFUCA.X]
 127.0.0.1 xbs.sea.mtree.com
-127.0.0.1 xbs.sea.mtree.com  #[MoneyTree Dialer]
 127.0.0.1 xbxx.me
 127.0.0.1 xc.08an.com
 127.0.0.1 xc.gdt.qq.com
@@ -111062,7 +110610,6 @@ Made by xiaobeita
 127.0.0.1 ybinst1.ec.yimg.com
 127.0.0.1 ybinst2.ec.yimg.com
 127.0.0.1 ybinst3.ec.yimg.com
-127.0.0.1 ybinst3.ec.yimg.com  #[Bing.WebBug]
 127.0.0.1 ybinst4.ec.yimg.com
 127.0.0.1 ybinst5.ec.yimg.com
 127.0.0.1 ybinst6.ec.yimg.com
@@ -112112,7 +111659,6 @@ Made by xiaobeita
 127.0.0.1 zedgalaxyplays.com
 127.0.0.1 zedo-d.openx.net
 127.0.0.1 zedo.com
-127.0.0.1 zedo.com  #[WebBug]
 127.0.0.1 zedoadnetwork.com
 127.0.0.1 zedoadservices.com
 127.0.0.1 zee.cws.conviva.com
@@ -112237,7 +111783,6 @@ Made by xiaobeita
 127.0.0.1 zhihu-analytics.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 zhirok.com
-127.0.0.1 zhirok.com  #[Spamdexing]
 127.0.0.1 zhixiang360.cn
 127.0.0.1 zhiziyun.com
 127.0.0.1 zhong.3gmtr.com
@@ -112381,7 +111926,6 @@ Made by xiaobeita
 127.0.0.1 zoloft.3.p2l.info
 127.0.0.1 zoloft.4.p2l.info
 127.0.0.1 zoloft.about-tabs.com
-127.0.0.1 zombie.news # Title: Gambling hosts
 127.0.0.1 zombo.com
 127.0.0.1 zonawebcams.com
 127.0.0.1 zonawm.biz.popunder.ru
@@ -112642,7 +112186,6 @@ Made by xiaobeita
 127.0.0.1 zzpush.58.com
 127.0.0.1 zzrv1uha.njylyljg.com
 127.0.0.1 zzsdtzb.com
-127.0.0.1 zzxbn.com#*********************************************************
 127.0.0.1 zzxd.mediav.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy.quyaoya.com
@@ -117443,8 +116986,3 @@ Made by xiaobeita
 :: zzimg.51.la
 :: zzy1.quyaoya.com
 ::1 ip6-loopback
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
