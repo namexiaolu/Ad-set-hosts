@@ -25,7 +25,7 @@
 
 其中：基础版（1235）完整版（1-9）
 
-## 3. 引用的**`hosts`**源
+## 3. 引用的`hosts`源
 
 1. 依然的爱：https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts   
 2. yhosts：https://raw.githubusercontent.com/vokins/yhosts/master/hosts   
