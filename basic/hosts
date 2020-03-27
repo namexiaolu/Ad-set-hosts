@@ -1,4 +1,4 @@
-# 2020-03-27 20:53:00 
+# 2020-03-27 21:04:42 
 # Script by WQY916
 # Made by xiaobeita
 # This file is generated from the following sources:
@@ -6,7 +6,12 @@
 # https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # https://hosts.nfz.moe/basic/hosts
 # https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/xiaobeita/hosts
-\n\n127.0.0.1 localhost\n::1 localhost\n\n
+
+
+127.0.0.1 localhost
+::1 localhost
+
+
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.up.qingdaonews.com
 127.0.0.1 0127.adsame.com
