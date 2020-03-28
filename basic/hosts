@@ -1,4 +1,4 @@
-# 2020-03-28 10:29:48 
+# 2020-03-29 03:55:17 
 # Script by WQY916
 # Made by xiaobeita
 # This file is generated from the following sources:
@@ -883,6 +883,7 @@
 127.0.0.1 adslvseed.qq.com
 127.0.0.1 adsmart.yicha.cn
 127.0.0.1 adsmind.apdcdn.tc.qq.com
+127.0.0.1 adsmis.duxiaoman.com
 127.0.0.1 adsmogo.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adson.awempire.com
@@ -935,6 +936,7 @@
 127.0.0.1 adx.dlads.cn
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 adx.hupu.com
+127.0.0.1 adx.maplehaze.cn
 127.0.0.1 adx.pro.cn
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 adx3.iq39.com
@@ -1093,6 +1095,7 @@
 127.0.0.1 ap.ksrong.com
 127.0.0.1 apas.aipai.com
 127.0.0.1 aper.zhfosenghtr.com
+127.0.0.1 api-ad.kajicam.com
 127.0.0.1 api-es.doglobal.net
 127.0.0.1 api-flow.flyme.cn
 127.0.0.1 api-game.meizu.com
@@ -1108,6 +1111,7 @@
 127.0.0.1 api.ad-stir.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.ad.xv555.com
+127.0.0.1 api.ad.yipinread.com
 127.0.0.1 api.adbana.com
 127.0.0.1 api.adcome.cn
 127.0.0.1 api.adfurikun.jp
@@ -2176,6 +2180,7 @@
 127.0.0.1 conf.funshion.com
 127.0.0.1 conf.hpplay.cn
 127.0.0.1 conf.vidown.cn
+127.0.0.1 conf.xdrig.com
 127.0.0.1 conf.xiniuz.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.adsage.cn
@@ -2678,6 +2683,7 @@
 127.0.0.1 dps.499.cn
 127.0.0.1 dps.shouji56.com
 127.0.0.1 dps.wtdtjs.com
+127.0.0.1 dpush-api.domob.cn
 127.0.0.1 dpvc.39.net
 127.0.0.1 dpvc1.qqyy.com
 127.0.0.1 dpvc2.qqyy.com
@@ -4753,7 +4759,6 @@
 127.0.0.1 lhafy.com
 127.0.0.1 lhg.alisinak.com
 127.0.0.1 li.anyysz.com
-127.0.0.1 lianmengapi.snssdk.com
 127.0.0.1 lib.haotv8.com
 127.0.0.1 liba.haotv8.com
 127.0.0.1 libs.tvmao.cn
@@ -4827,6 +4832,7 @@
 127.0.0.1 log.go.com
 127.0.0.1 log.he2d.com
 127.0.0.1 log.houyi.baofeng.net
+127.0.0.1 log.kajicam.com
 127.0.0.1 log.kuaigeng.com
 127.0.0.1 log.kuwo.cn
 127.0.0.1 log.liusha.info
