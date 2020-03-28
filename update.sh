@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# 删除本地缓存文件
+rm -f /sdcard/*.tmp
+
 # 基础版2357
 
 t=/sdcard/host.tmp&&for i in https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://hosts.nfz.moe/basic/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts ;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t&&((500<`wc -l < $t`))&&(echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo -e "\n\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/#/d;/^$/d;/^f/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/sdcard/ADM/Github/Ad-set-hosts/basic/hosts&&echo "操作成功..."||echo "操作失败..."
