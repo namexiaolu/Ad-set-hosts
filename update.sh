@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# 删除本地缓存文件
-rm -f /sdcard/*.tmp
+# pull云端到本地并删除本地缓存
+git pull origin master && rm -f /sdcard/*.tmp
 
 # 基础版2357
 
