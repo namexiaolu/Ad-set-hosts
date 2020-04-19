@@ -32,7 +32,7 @@ sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/d;s/#.*//g'
 # 更新有音乐版hosts
 cat $m $f>$fm&&echo "更新有音乐版成功"||echo "更新有音乐版失败..."
 
-# 复制hosts到手机
+# 复制hosts到手机系统
 su -c 'mount -o rw,remount /system&&cp -f /sdcard/ADM/Github/Ad-set-hosts/full-music/hosts /system/etc/hosts&&mount -o ro,remount /system&&rm /sdcard/ADM/Github/Ad-set-hosts/hosts.txt&&echo "操作成功..."||echo "操作失败..."'
 
 # 推送到GitHub
