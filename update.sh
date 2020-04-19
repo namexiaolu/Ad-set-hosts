@@ -1,26 +1,39 @@
 #!/bin/bash
 
-# pull云端到本地并删除本地缓存
-git pull origin master && rm -f /sdcard/*.tmp
+# pull云端到本地
+git pull origin master
 
-# 基础版2357
+# 下载去广告hosts合并并去重
 
-t=/sdcard/host.tmp;for i in https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://hosts.nfz.moe/basic/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts ;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t && ((500<`wc -l < $t`)) && (echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo -e "\n\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/#/d;/^$/d;/^f/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/sdcard/ADM/Github/Ad-set-hosts/basic/hosts && echo "操作成功..."||echo "操作失败..."
+t=/sdcard/ADM/Github/Ad-set-hosts/hosts.txt
+f=/sdcard/ADM/Github/Ad-set-hosts/full/hosts
+m=/sdcard/ADM/Github/Ad-set-hosts/NetEase/hosts
+fm=/sdcard/ADM/Github/Ad-set-hosts/full-music/hosts
 
+rm $t
 
-# 完整版1234678
+while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "下载失败";done<<EOF
+https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+https://hosts.nfz.moe/127.0.0.1/full/hosts
+https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts
+EOF
 
-t=/sdcard/host.tmp;for i in https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts https://hosts.nfz.moe/full/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts ;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t && ((500<`wc -l < $t`)) && (echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo -e "\n\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/#/d;/^$/d;/^f/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/sdcard/ADM/Github/Ad-set-hosts/full/hosts && echo "操作成功..."||echo "操作失败..."
+# 保留必要hosts
+sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/d;s/#.*//g' $t
 
+# 更新无音乐版hosts
+(echo -e "# `date '+%Y-%m-%d %T'`\n小贝塔自用，请勿商用\n127.0.0.1 localhost\n::1 localhost\n\n" && sort -u $t) >$f&&echo "更新无音乐版成功"||echo "更新无音乐版失败..."
 
-# 基础音乐版23579
+# 更新有音乐版hosts
+cat $m $f>$fm&&echo "更新有音乐版成功"||echo "更新有音乐版失败..."
 
-t=/sdcard/host.tmp;for i in https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://hosts.nfz.moe/basic/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts ;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t && ((500<`wc -l < $t`)) && (echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo -e "\n\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/^#/d;/^$/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/sdcard/ADM/Github/Ad-set-hosts/basic-music/hosts && echo "操作成功..."||echo "操作失败..."
-
-
-# 完整音乐版12346789
-
-t=/sdcard/host.tmp;for i in https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts https://raw.githubusercontent.com/vokins/yhosts/master/hosts https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts https://hosts.nfz.moe/full/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts ;do curl -s "$i";echo "# $i" >>$t.tmp;done>$t && ((500<`wc -l < $t`)) && (echo -e "# `date '+%Y-%m-%d %T'` \n# Script by WQY916\n# Made by xiaobeita\n# This file is generated from the following sources:";cat $t.tmp;echo -e "\n\n127.0.0.1 localhost\n::1 localhost\n\n";sed '/localhost/d;/#/d;/^$/d;/^f/d;s/\r//g;s/\t/ /g;s/0.0.0.0/127.0.0.1/' $t|sort -u;rm $t $t.tmp)>/sdcard/ADM/Github/Ad-set-hosts/full-music/hosts && echo "操作成功..."||echo "操作失败..."
+# 复制hosts到手机
+su -c 'mount -o rw,remount /system&&cp -f /sdcard/ADM/Github/Ad-set-hosts/full-music/hosts /system/etc/hosts&&mount -o ro,remount /system&&rm /sdcard/ADM/Github/Ad-set-hosts/hosts.txt&&echo "操作成功..."||echo "操作失败..."'
 
 # 推送到GitHub
-git add /sdcard/ADM/Github/Ad-set-hosts/* && git commit -m " `date '+%Y-%m-%d %T'` " && git push -u origin master && echo -e " `date '+%Y-%m-%d %T' ` 更新hosts成功"
+git add /sdcard/ADM/Github/Ad-set-hosts/* && git commit -m " `date '+%Y-%m-%d %T'` " && git push -u origin master && echo -e " `date '+%Y-%m-%d %T' ` 更新hosts成功"||echo "更新hosts失败..."
