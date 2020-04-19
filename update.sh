@@ -27,7 +27,7 @@ EOF
 sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/d;s/#.*//g' $t
 
 # 更新无音乐版hosts
-(echo -e "# `date '+%Y-%m-%d %T'`\n小贝塔自用，请勿商用\n127.0.0.1 localhost\n::1 localhost\n\n" && sort -u $t) >$f&&echo "更新无音乐版成功"||echo "更新无音乐版失败..."
+(echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n127.0.0.1 localhost\n::1 localhost\n\n" && sort -u $t) >$f&&echo "更新无音乐版成功"||echo "更新无音乐版失败..."
 
 # 更新有音乐版hosts
 cat $m $f>$fm&&echo "更新有音乐版成功"||echo "更新有音乐版失败..."
