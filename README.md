@@ -24,6 +24,7 @@
 6. neoHosts完整版：https://hosts.nfz.moe/full/hosts   
 7. 小贝塔维护hosts：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts   
 8. StevenBlack：https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts   
+8. adaway：https://adaway.org/hosts.txt
 9. 网易云音乐hosts：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/NetEase/hosts   
 
-注：8 为`https://wy.ydlrqx.com/proxy.pac `提取得来
+注：9 为`https://wy.ydlrqx.com/proxy.pac `提取得来
