@@ -1,8 +1,8 @@
-# 2020-04-21 10:29:11
+# 2020-04-21 10:33:52
 # 小贝塔自用，请勿商用
+
 127.0.0.1 localhost
 ::1 localhost
-
 
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
@@ -11837,7 +11837,6 @@
 127.0.0.1 adsmile.biz
 127.0.0.1 adsmile.go2cloud.org
 127.0.0.1 adsmind.apdcdn.tc.qq.com
-127.0.0.1 adsmis.duxiaoman.com
 127.0.0.1 adsmo.ru
 127.0.0.1 adsmobi.com
 127.0.0.1 adsmobil.go2cloud.org
@@ -12785,7 +12784,6 @@
 127.0.0.1 adx.ibibo.com
 127.0.0.1 adx.kul.vn
 127.0.0.1 adx.lsosad.com
-127.0.0.1 adx.maplehaze.cn
 127.0.0.1 adx.mediaz.asia
 127.0.0.1 adx.metanetwork.com
 127.0.0.1 adx.noahmob.com
@@ -16069,7 +16067,6 @@
 127.0.0.1 api-06.com
 127.0.0.1 api-07.com
 127.0.0.1 api-08.com
-127.0.0.1 api-ad.kajicam.com
 127.0.0.1 api-analytics-bootstrap.metaps.com
 127.0.0.1 api-analytics.metaps.com
 127.0.0.1 api-app.ants.vn
@@ -21806,7 +21803,6 @@
 127.0.0.1 bjkumdo.com
 127.0.0.1 bjorksta.men
 127.0.0.1 bjpenn-d.openx.net
-127.0.0.1 bjuser.jpush.cn
 127.0.0.1 bjydti.loan
 127.0.0.1 bk.imonomy.com
 127.0.0.1 bk.r-ad.ne.jp
@@ -22958,7 +22954,6 @@
 127.0.0.1 btprmnav.com
 127.0.0.1 btr.domywife.com
 127.0.0.1 btr.sharethis.com
-127.0.0.1 btrace.qq.com
 127.0.0.1 btrace.video.qq.com
 127.0.0.1 btrll.com
 127.0.0.1 btrpreroll.s3.amazonaws.com
@@ -34237,7 +34232,6 @@
 127.0.0.1 dptr.areyouahuman.com
 127.0.0.1 dpu.samsungelectronics.com
 127.0.0.1 dpupr.lomboktengahkab.go.id
-127.0.0.1 dpush-api.domob.cn
 127.0.0.1 dpvc.39.net
 127.0.0.1 dpvc1.qqyy.com
 127.0.0.1 dpvc2.qqyy.com
@@ -47326,7 +47320,6 @@
 127.0.0.1 image.topengroup.net
 127.0.0.1 image.ttyouma.cn
 127.0.0.1 image.uctrac.com
-127.0.0.1 image.uczzd.cn
 127.0.0.1 image.ugo.com
 127.0.0.1 image.upages.cn
 127.0.0.1 image.versiontracker.com
@@ -49415,7 +49408,6 @@
 127.0.0.1 is.casalemedia.com
 127.0.0.1 is.linkedin.com
 127.0.0.1 is.luxup.ru
-127.0.0.1 is.snssdk.com
 127.0.0.1 is.spring-tns.net
 127.0.0.1 is.yllix.com
 127.0.0.1 is2.websearch.com
@@ -53982,7 +53974,6 @@
 127.0.0.1 log.intellimize.co
 127.0.0.1 log.isnssdk.com
 127.0.0.1 log.itworld.com
-127.0.0.1 log.kajicam.com
 127.0.0.1 log.kgrid.co.kr
 127.0.0.1 log.kienthuc.net.vn
 127.0.0.1 log.kuaigeng.com
@@ -54301,7 +54292,6 @@
 127.0.0.1 logs.51cto.com
 127.0.0.1 logs.81plug.com
 127.0.0.1 logs.aiya.com.cn
-127.0.0.1 logs.amap.com
 127.0.0.1 logs.cafewell.com
 127.0.0.1 logs.cnfol.com
 127.0.0.1 logs.comics.com
@@ -83252,7 +83242,6 @@
 127.0.0.1 t1.51maiwanju.com
 127.0.0.1 t1.58cdn.com.cn
 127.0.0.1 t1.58cdn.com.cn
-127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 t1.adserver.com
 127.0.0.1 t1.baidu.com
 127.0.0.1 t1.extreme-dm.com
@@ -83287,7 +83276,6 @@
 127.0.0.1 t2.58cdn.com.cn
 127.0.0.1 t2.58cdn.com.cn
 127.0.0.1 t2.70e.com
-127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t2.baidu.com
 127.0.0.1 t2.beanstalkdata.com
 127.0.0.1 t2.chartboost.com
@@ -83313,7 +83301,6 @@
 127.0.0.1 t3.51maiwanju.com
 127.0.0.1 t3.58cdn.com.cn
 127.0.0.1 t3.58cdn.com.cn
-127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 t3.baidu.com
 127.0.0.1 t3.chartboost.com
 127.0.0.1 t3.formalyzer.com
@@ -83329,7 +83316,6 @@
 127.0.0.1 t3q7af0z.com
 127.0.0.1 t3shz.jinanhe.com.cn
 127.0.0.1 t4.51maiwanju.com
-127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 t4.agrantsem.com
 127.0.0.1 t4.baidu.com
 127.0.0.1 t4.formalyzer.com
@@ -83341,7 +83327,6 @@
 127.0.0.1 t4.wrating.com
 127.0.0.1 t4u.stat.v-56.com
 127.0.0.1 t5.51maiwanju.com
-127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 t5.baidu.com
 127.0.0.1 t5.formalyzer.com
 127.0.0.1 t5.leadlander.com
@@ -88676,7 +88661,6 @@
 127.0.0.1 umeed.app
 127.0.0.1 umeng.co
 127.0.0.1 umeng.com
-127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 umengcloud.com
 127.0.0.1 umengjmacs.m.taobao.com
 127.0.0.1 umid.orion.meizu.com
@@ -115072,7 +115056,6 @@
 127.0.0.1 wx.skpbl11.pw
 127.0.0.1 wx.xwjqr.com
 127.0.0.1 wx.zx590.com
-127.0.0.1 wxa.wxs.qq.com
 127.0.0.1 wxa79ef55c1a84e284.wx.ckjr001.com
 127.0.0.1 wxas.ejwmc.cn
 127.0.0.1 wxb.wxbdfm.com
