@@ -1,9 +1,10 @@
-# 2020-04-23 20:42:32
+# 2020-04-24 00:58:13
 # 小贝塔自用，请勿商用
 
 127.0.0.1 localhost
 ::1 localhost
 
+127.0.0.0 jiuyuntian3.cn
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
