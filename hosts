@@ -4,6 +4,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
+127.0.0.1 ad1.xiaomi.com
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
