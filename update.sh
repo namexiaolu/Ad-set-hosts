@@ -13,7 +13,7 @@ rm $t
 
 while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "下载失败";done<<EOF
 https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
-https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://hosts.nfz.moe/127.0.0.1/full/hosts
