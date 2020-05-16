@@ -16,10 +16,10 @@ hosts地址：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/ho
 
 ## 3. 在此致谢以下引用的hosts源以及@WQY916提供的帮助
 
-1. 依然的爱：https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts   
-2. yhosts：https://raw.githubusercontent.com/vokins/yhosts/master/hosts   
-3. 大圣净化：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts   
-4. 1024_hosts：https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts   
-6. neoHosts完整版：https://hosts.nfz.moe/full/hosts   
-7. 小贝塔维护hosts：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts   
-8. StevenBlack：https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts   
+1. 依然的爱：https://github.com/E7KMbb/AD-hosts   
+2. yhosts：https://github.com/VeleSila/yhosts   
+3. 大圣净化：https://github.com/jdlingyu/ad-wars 
+4. 1024_hosts：https://github.com/Goooler/1024_hosts   
+6. neoHosts完整版：https://hosts.nfz.moe   
+7. 小贝塔维护hosts：https://github.com/rentianyu/Ad-set-hosts   
+8. StevenBlack：https://github.com/StevenBlack/hosts   
