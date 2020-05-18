@@ -1,4 +1,4 @@
-# 2020-05-18 01:38:59
+# 2020-05-18 21:23:43
 # 小贝塔自用，请勿商用
 
 127.0.0.1 localhost
@@ -589,6 +589,7 @@
 127.0.0.1 181.6.87.194.dynamic.dol.ru
 127.0.0.1 181fm.adswizz.com
 127.0.0.1 181fm.deliveryengine.adswizz.com
+127.0.0.1 181ue.com
 127.0.0.1 1821.bitterstrawberry.com
 127.0.0.1 1822333.r.msn.com
 127.0.0.1 1829.bitterstrawberry.com
@@ -23838,6 +23839,7 @@
 127.0.0.1 c.l.qq.com
 127.0.0.1 c.l.youku.com
 127.0.0.1 c.la1w1.salesforceliveagent.com
+127.0.0.1 c.lalaxqt.cn
 127.0.0.1 c.latam.msn.com
 127.0.0.1 c.lelangegg.cn
 127.0.0.1 c.lentainform.com
@@ -35754,6 +35756,7 @@
 127.0.0.1 e.stat.youku.com
 127.0.0.1 e.suehy.com
 127.0.0.1 e.sugajo.cn
+127.0.0.1 e.sxhwscj.cn
 127.0.0.1 e.szqifu.com
 127.0.0.1 e.sztbjs.com
 127.0.0.1 e.t71q.com
@@ -36730,6 +36733,7 @@
 127.0.0.1 ee.psrkoce.cn
 127.0.0.1 ee.s47e8.cn
 127.0.0.1 ee.s69zl.cn
+127.0.0.1 ee.sbdgjqg.cn
 127.0.0.1 ee.shanghetrade.com
 127.0.0.1 ee.t3j6a.cn
 127.0.0.1 ee.u0r9.cn
@@ -37736,7 +37740,9 @@
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nftqkq.cn
 127.0.0.1 eo.nu2rx.xyz
+127.0.0.1 eo.nunxi.xyz
 127.0.0.1 eo.osvp2.cn
+127.0.0.1 eo.ou6d.cn
 127.0.0.1 eo.sdafxz.xyz
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.sdajxz.xyz
@@ -52317,6 +52323,7 @@
 127.0.0.1 k.domob.cn
 127.0.0.1 k.gsdhome.cn
 127.0.0.1 k.gzbld.net
+127.0.0.1 k.gzbld.net
 127.0.0.1 k.h.a.d.free.fr
 127.0.0.1 k.hbfls.vip
 127.0.0.1 k.hdjxmf.com
@@ -53399,6 +53406,7 @@
 127.0.0.1 l.springmetrics.com
 127.0.0.1 l.supfast.net
 127.0.0.1 l.ujian.cc
+127.0.0.1 l.xfmfqdt.cn
 127.0.0.1 l.yidianzixun.com
 127.0.0.1 l.yieldmanager.net
 127.0.0.1 l.zeroredirect.com
@@ -57069,6 +57077,7 @@
 127.0.0.1 m.sanjiangge.com
 127.0.0.1 m.sansch.com.cn
 127.0.0.1 m.sbaoe.com
+127.0.0.1 m.sbdgjqg.cn
 127.0.0.1 m.sbenx.com
 127.0.0.1 m.sbief.com
 127.0.0.1 m.sbinx.com
@@ -57119,6 +57128,7 @@
 127.0.0.1 m.suehy.com
 127.0.0.1 m.sugajo.cn
 127.0.0.1 m.suwo0n.com
+127.0.0.1 m.sxhwscj.cn
 127.0.0.1 m.sxkecaiwenhua.cn
 127.0.0.1 m.sxxca.com
 127.0.0.1 m.symaa.cn
@@ -61080,8 +61090,11 @@
 127.0.0.1 mo.lbmx.com.cn
 127.0.0.1 mo.mktrkn.cn
 127.0.0.1 mo.mptckm.cn
+127.0.0.1 mo.nunxi.xyz
 127.0.0.1 mo.oneshouyou.cn
 127.0.0.1 mo.osvp2.cn
+127.0.0.1 mo.ot1n.cn
+127.0.0.1 mo.ou6d.cn
 127.0.0.1 mo.qb138.cn
 127.0.0.1 mo.qitouch.cn
 127.0.0.1 mo.res.wpscdn.cn
@@ -75872,6 +75885,7 @@
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 s.cr-nielsen.com
 127.0.0.1 s.csbew.com
+127.0.0.1 s.cshkjf.top
 127.0.0.1 s.cxt.ms
 127.0.0.1 s.d.adup-tech.com
 127.0.0.1 s.daskm.com
@@ -85216,6 +85230,7 @@
 127.0.0.1 t.trafmag.com
 127.0.0.1 t.tttmedd.com
 127.0.0.1 t.tukj.net
+127.0.0.1 t.tymbf.top
 127.0.0.1 t.tzcccm.com
 127.0.0.1 t.uctrac.com
 127.0.0.1 t.ujian.cc
@@ -91690,6 +91705,7 @@
 127.0.0.1 v.jntxst.cn
 127.0.0.1 v.jtxh.net
 127.0.0.1 v.l.youku.com
+127.0.0.1 v.lalaxqt.cn
 127.0.0.1 v.lelangegg.cn
 127.0.0.1 v.lkqd.net
 127.0.0.1 v.lrzazjl.cn
@@ -119218,6 +119234,7 @@
 127.0.0.1 yads.c.yimg.jp
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yads.zedo.com
+127.0.0.1 yahafda.qivsod.com
 127.0.0.1 yahhooo.net
 127.0.0.1 yahoo-change-password.com
 127.0.0.1 yahoo-s.nuggad.net
