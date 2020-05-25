@@ -1,5 +1,4 @@
-# 2020-05-25 13:32:25
-# 2020-05-25 01:25:46
+# 2020-05-25 13:32:55
 # 小贝塔自用，请勿商用
 
 127.0.0.1 localhost
@@ -58925,6 +58924,7 @@
 127.0.0.1 mbd.weathercn.com
 127.0.0.1 mbdapp.iqiyi.com
 127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 mbdp02.bdstatic.com
 127.0.0.1 mbe-cdn-staging.fyber.com
 127.0.0.1 mbe-cdn.fyber.com
 127.0.0.1 mbe-monitoring.fyber.com
