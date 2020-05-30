@@ -8,11 +8,13 @@ git pull origin master
 t=/sdcard/ADM/Github/Ad-set-hosts/hosts.txt
 f=/sdcard/ADM/Github/Ad-set-hosts/hosts
 
-curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt | sed 's/\&\&/\n/g' > $t
+curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt > $t
+
+sed -i 's/\&\&/\n/g' $t
 
 curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt >> $t
 
-sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1/g' $t && echo "海阔影视hosts导入成功"
+sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1 /g' $t && echo "海阔影视hosts导入成功"
 
 curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt > $t
 sed -i 's/\&\&/\n/g;/\(\/\|@\|\*\|^\.\)/d;s/^/127.0.0.1 &/g' $t
