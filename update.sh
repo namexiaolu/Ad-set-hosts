@@ -8,8 +8,14 @@ git pull origin master
 t=/sdcard/ADM/Github/Ad-set-hosts/hosts.txt
 f=/sdcard/ADM/Github/Ad-set-hosts/hosts
 
+curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt |sed 's/\&\&/\n/g' > $t
 
-rm $t
+curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt >> $t
+
+sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1/g'
+
+curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt > $t
+sed -i 's/\&\&/\n/g;/\(\/\|@\|\*\|^\.\)/d;s/^/127.0.0.1 &/g' $t
 
 while read i;do curl -s "$i">>$t&&echo "下载成功"||echo "下载失败";done<<EOF
 https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
