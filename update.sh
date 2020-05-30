@@ -12,7 +12,7 @@ curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt |sed 's/
 
 curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v2.txt >> $t
 
-sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1/g'
+sed -i '/\(\/\|@\|\*\|^\.\|\:\)/d;s/^/127.0.0.1/g' $t
 
 curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt > $t
 sed -i 's/\&\&/\n/g;/\(\/\|@\|\*\|^\.\)/d;s/^/127.0.0.1 &/g' $t
