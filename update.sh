@@ -34,5 +34,8 @@ sed -i '/tencent/d;/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/
 # 更新hosts
 (echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n\n127.0.0.1 localhost\n::1 localhost\n" && sort -u $t) >$f&&rm $t&&echo "更新hosts成功"||echo "更新hosts失败..."
 
+# 转换换行符
+dos2unix $f
+
 # 推送到GitHub
 git add . && git commit -m " `date '+%Y-%m-%d %T'` " && git push && echo -e " `date '+%Y-%m-%d %T' ` 更新hosts成功"||echo "更新hosts失败..."
