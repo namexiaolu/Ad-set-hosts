@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # pull云端到本地
-git pull
+git pull origin master
 
 # 下载去广告hosts合并并去重
 
-t=./hosts.txt
-f=./hosts
+t=/sdcard/ADM/Github/Ad-set-hosts/hosts.txt
+f=/sdcard/ADM/Github/Ad-set-hosts/hosts
 
 curl -s https://gitee.com/qiusunshine233/hikerView/raw/master/ad_v1.txt > $t
 
@@ -31,7 +31,10 @@ EOF
 sed -i '/tencent/d;/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/d;s/#.*//g;s/\s\{2,\}//g' $t
 
 # 更新hosts
-(echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n\n127.0.0.1 localhost\n::1 localhost\n" && sort -u $t) >$f&&rm $t&&echo "更新hosts成功"||echo "更新hosts失败..."
+(echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n\n127.0.0.1 localhost\n::1 localhost\n" && sort -u $t) >$f&&echo "更新hosts成功"||echo "更新hosts失败..."
+
+# 复制hosts到手机系统
+su -c 'mount -o rw,remount /system&&cp -f /sdcard/ADM/Github/Ad-set-hosts/hosts /system/etc/hosts&&mount -o ro,remount /system&&rm /sdcard/ADM/Github/Ad-set-hosts/hosts.txt&&echo "操作成功..."||echo "操作失败..."'
 
 # 推送到GitHub
-git add . && git commit -m " `date '+%Y-%m-%d %T'` " && git push && echo -e " `date '+%Y-%m-%d %T' ` 更新hosts成功"||echo "更新hosts失败..."
+git add /sdcard/ADM/Github/Ad-set-hosts/* && git commit -m " `date '+%Y-%m-%d %T'` " && git push -u origin master && echo -e " `date '+%Y-%m-%d %T' ` 更新hosts成功"||echo "更新hosts失败..."
