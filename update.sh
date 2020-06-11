@@ -25,6 +25,7 @@ https://hosts.nfz.moe/127.0.0.1/full/hosts
 https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
+https://gitee.com/lhzgl6587/hosts/raw/master/hosts
 EOF
 
 # 保留必要host
