@@ -29,7 +29,7 @@ https://gitee.com/lhzgl6587/hosts/raw/master/hosts
 EOF
 
 # 保留必要host
-sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/d;s/#.*//g;s/\s\{2,\}//g;/tencent\|c.pc/d' $t
+sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;/ip6-/d;/localhost/d;s/#.*//g;s/\s\{2,\}//g;/tencent\|c\.pc/d' $t
 
 # 更新hosts
 (echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n\n127.0.0.1 localhost\n::1 localhost\n" && sort -u $t) >$f&&rm $t&&echo "更新hosts成功"||echo "更新hosts失败..."
