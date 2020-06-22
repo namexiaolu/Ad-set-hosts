@@ -24,4 +24,5 @@ hosts地址：https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/ho
 7. 小贝塔维护hosts：https://github.com/rentianyu/Ad-set-hosts   
 8. StevenBlack：https://github.com/StevenBlack/hosts   
 9. 海阔影视去广告host
-10. ilpl：https://github.com/ilpl/ad-hostss
+10. ilpl：https://github.com/ilpl/ad-hosts
+11. iOSAdblockList
